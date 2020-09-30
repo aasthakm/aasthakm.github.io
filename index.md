@@ -82,26 +82,26 @@ Summer 2013
 - SOSP 2019 Mentoring Program
 
 ### Invited Talks & Presentations
-- Policy Compliance in Online Services
-  - School of Computing Science, Simon Fraser University. Feb 2020.
-  - Department of EECS, Oregon State University. Feb 2020.
-  - Department of Computer Science, Northwestern University. Feb 2020.
-  - Department of Computer Science, Duke University. Feb 2020.
-  - Department of Computer Science, George Mason University. Feb 2020.
-  - David R. Cheriton School of Computer Science, University of Waterloo. Mar 2020.
-  - Department of Computer Science, University of British Columbia. Mar 2020.
-  - Department of Computer Science, Washington University St. Louis. Mar 2020.
-  - Microsoft Research Redmond. Mar 2020.
-  - CISPA Helmholtz Center for Information Security. Mar 2020.
-  - IMDEA Software Institute. Apr 2020.
+**Policy Compliance in Online Services**
+- School of Computing Science, Simon Fraser University. Feb 2020.
+- Department of EECS, Oregon State University. Feb 2020.
+- Department of Computer Science, Northwestern University. Feb 2020.
+- Department of Computer Science, Duke University. Feb 2020.
+- Department of Computer Science, George Mason University. Feb 2020.
+- David R. Cheriton School of Computer Science, University of Waterloo. Mar 2020.
+- Department of Computer Science, University of British Columbia. Mar 2020.
+- Department of Computer Science, Washington University St. Louis. Mar 2020.
+- Microsoft Research Redmond. Mar 2020.
+- CISPA Helmholtz Center for Information Security. Mar 2020.
+- IMDEA Software Institute. Apr 2020.
   
-- Pacer: Network Side-Channel Mitigation in the Cloud
-  - U of Maryland College Park (host: Bobby Bhattacharjee). May 2019.
-  - Cornell University (host: Lorenzo Alvisi). Nov 2018.
-  - Workshop on Speculative Side Channel Analysis [(WoSSCA)](https://conf.researchr.org/track/wossca-2018/wossca-2018-papers#program). Jul 2018.
-  
-- Qapla: Policy Compliance in Database-Backed Systems
-  - USENIX Security. Aug 2017.
+**Pacer: Network Side-Channel Mitigation in the Cloud**
+- U of Maryland College Park (host: Bobby Bhattacharjee). May 2019.
+- Cornell University (host: Lorenzo Alvisi). Nov 2018.
+- Workshop on Speculative Side Channel Analysis [(WoSSCA)](https://conf.researchr.org/track/wossca-2018/wossca-2018-papers#program). Jul 2018.
+
+**Qapla: Policy Compliance in Database-Backed Systems**<br>
+USENIX Security. Aug 2017.
 
 
 ### Awards & Honors
