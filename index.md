@@ -2,7 +2,7 @@
 
 I am a PhD student at [Max Planck Institute for Software Systems (MPI-SWS)](http://www.mpi-sws.org/) and [University of Saarland (UdS)](http://cs.uni-saarland.de/). I work with [Peter Druschel](http://www.mpi-sws.org/~druschel/) and [Deepak Garg](http://www.mpi-sws.org/~dg/). Starting January 2021, I will be joining as a Tenure-Track Assistant Professor in the CS Department, University of British Columbia.
 
-### **I am hiring!**
+**I am hiring!**
 
 ### Research Interests
 
