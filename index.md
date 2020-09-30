@@ -69,16 +69,16 @@ Summer 2013
 
 ### Service
 
-#### Program Committee
+**Program Committee**
 - [EuroSys 2021](https://2021.eurosys.org/)
 - [EuroDW 2021](https://2021.eurosys.org/workshops.html#workshops)
 - [PriSC 2021](https://popl21.sigplan.org/home/prisc-2021)
 - [Middleware Doctoral Symposium 2020](https://2020.middleware-conference.org/call-for-doctoral-symposium.html)
   
-#### Co-organizer
+**Co-organizer**
 - OSDI 2020 Mentoring Program
 
-#### Mentor
+**Mentor**
 - SOSP 2019 Mentoring Program
 
 ### Invited Talks & Presentations
