@@ -13,19 +13,19 @@ Under Submission.
 
 - Qapla: Policy compliance for database-backed systems [\[PDF\]](https://www.mpi-sws.org/~aasthakm/files/qapla.pdf) [\[Poster\]](https://www.mpi-sws.org/~aasthakm/files/qapla_poster.pdf) [\[Code\]](https://github.com/aasthakm/qapla)<br>
 **Aastha Mehta**, Eslam Elnikety, Katura Harvey, Deepak Garg, Peter Druschel<br>
-26th USENIX Security Symposium, 2017.
+USENIX Security Symposium, 2017.
 
 - Thoth: Comprehensive Policy Compliance in Data Retrieval Systems [\[PDF\]](http://www.mpi-sws.org/~elnikety/Eslam_Elnikety_Web_Page_files/sec16_paper_elnikety.pdf)<br>
 Eslam Elnikety, **Aastha Mehta**, Anjo Vahldiek-Oberwagner, Deepak Garg, Peter Druschel<br>
-25th USENIX Security Symposium, 2016.
+USENIX Security Symposium, 2016.
 
 - Oblivious Multi-Party Machine Learning on Trusted Processors [\[PDF\]](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_ohrimenko.pdf)<br>
 Olga Ohrimenko, Felix Schuster, Cédric Fournet, **Aastha Mehta**, Sebastian Nowozin, Kapil Vaswani, Manuel Costa<br>
-25th USENIX Security Symposium, 2016.
+USENIX Security Symposium, 2016.
 
 - Guardat: Enforcing data policies at the storage layer [\[PDF\]](http://www.mpi-sws.org/~aasthakm/files/eurosys15-guardat.pdf)<br>
 Anjo Vahldiek, Eslam Elnikety, **Aastha Mehta**, Deepak Garg, Peter Druschel, Ansley Post, Rodrigo Rodriguez, Johannes Gehrke<br>
-10th European Conference on Computer Systems (EuroSys), 2015.
+European Conference on Computer Systems (EuroSys), 2015.
 
 - HDFS Space Consolidation<br>
 **Aastha Mehta**, Deepti Banka, Kartheek Muthyala, Priya Sehgal, Ajay Bakre<br>
@@ -65,30 +65,30 @@ Jan 2011 - Jun 2011
 
 ### Invited Talks & Presentations
 - Policy Compliance in Online Services
-  - Feb 2020. School of Computing Science, Simon Fraser University
-  - Feb 2020. Department of EECS, Oregon State University
-  - Feb 2020. Department of Computer Science, McCormick School of Engineering, Northwestern University
-  - Feb 2020. Department of Computer Science, Duke University
-  - Feb 2020. Department of Computer Science, George Mason University
-  - Mar 2020. David R. Cheriton School of Computer Science, University of Waterloo
-  - Mar 2020. Department of Computer Science, University of British Columbia
-  - Mar 2020. Department of Computer Science, Washington University St. Louis
-  - Mar 2020. Microsoft Research Redmond
-  - Mar 2020. CISPA Helmholtz Center for Information Security
-  - Mar 2020. IMDEA Software Institute
+  - School of Computing Science, Simon Fraser University. Feb 2020.
+  - Department of EECS, Oregon State University. Feb 2020.
+  - Department of Computer Science, Northwestern University. Feb 2020.
+  - Department of Computer Science, Duke University. Feb 2020.
+  - Department of Computer Science, George Mason University. Feb 2020.
+  - David R. Cheriton School of Computer Science, University of Waterloo. Mar 2020.
+  - Department of Computer Science, University of British Columbia. Mar 2020.
+  - Department of Computer Science, Washington University St. Louis. Mar 2020.
+  - Microsoft Research Redmond. Mar 2020.
+  - CISPA Helmholtz Center for Information Security. Mar 2020.
+  - IMDEA Software Institute. Apr 2020.
   
 - Pacer: Network Side-Channel Mitigation in the Cloud
-  - May 2019. U of Maryland College Park (host: Bobby Bhattacharjee)
-  - Nov 2018. Cornell University (host: Lorenzo Alvisi)
-  - Jul 2018. First Workshop on Speculative Side Channel Analysis [(WoSSCA)](https://conf.researchr.org/track/wossca-2018/wossca-2018-papers#program)
+  - U of Maryland College Park (host: Bobby Bhattacharjee). May 2019.
+  - Cornell University (host: Lorenzo Alvisi). Nov 2018.
+  - First Workshop on Speculative Side Channel Analysis [(WoSSCA)](https://conf.researchr.org/track/wossca-2018/wossca-2018-papers#program). Jul 2018.
   
 - Qapla: Policy Compliance in Database-Backed Systems
-  - Aug 2017. USENIX Security
+  - USENIX Security. Aug 2017.
 
 
 ### Awards & Honors
-- Oct 2018. Selected for [Rising Stars Workshop in EECS](https://risingstars18-eecs.mit.edu/)
-- Aug 2016. Selected for [Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/event_2016/). My [Q&A with 6 out of 200](https://scilogs.spektrum.de/hlf/2499-2/) at HLF.
+- Selected for [Rising Stars Workshop in EECS](https://risingstars18-eecs.mit.edu/). Oct 2018.
+- Selected for [Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/event_2016/). My [Q&A with 6 out of 200](https://scilogs.spektrum.de/hlf/2499-2/) at HLF. Aug 2016.
 
 ### Contact
 \<first name\>k\<last initial\>[AT]mpi-sws.org<br>
