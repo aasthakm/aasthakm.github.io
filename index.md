@@ -6,6 +6,29 @@ I am a PhD student at [Max Planck Institute for Software Systems (MPI-SWS)](http
 
 I am broadly interested in systems security, data privacy, operating systems, and distributed systems. I have worked on building [systems](http://thoth.mpi-sws.org/) that enable online services to comply with data privacy and usage policies, and prevent accidental disclosures due to bugs and misconfigurations. More recently, I have been working on solutions to ensure privacy of data in Cloud services in the face of network side-channel disclosures.
 
+### Experience
+- Research Intern, Microsoft Research Cambridge (UK)<br>
+Jun 2015 - Aug 2015
+
+- Member of Technical Staff, NetApp Bangalore (India)<br>
+Jun 2011 - Aug 2012
+
+- Intern, NetApp Bangalore (India)<br>
+Jan 2011 - Jun 2011
+
+- Summer Intern, MPI-SWS, Germany<br>
+May 2010 - Jul 2010<br>
+
+### Education
+- Ph.D., Computer Science<br>
+2012 - 2020<br>
+Max Planck Institute for Software Systems (MPI-SWS), Germany<br>
+Advisors: Peter Druschel, Deepak Garg
+
+- B.E. (Hons.), Computer Science<br>
+2007 - 2011<br>
+Birla Institute of Technology and Science (BITS) Pilani, India<br>
+
 ### Publications
 - Pacer: Network Side-Channel Mitigation in the Cloud [\[PDF\]](https://arxiv.org/pdf/1908.11568.pdf) [\[Poster\]](https://people.mpi-sws.org/~aasthakm/files/pacer_poster.pdf)<br>
 **Aastha Mehta**, Mohamed Alzayat, Roberta De Viti, Björn B. Brandenburg, Peter Druschel, Deepak Garg<br>
@@ -51,17 +74,6 @@ Summer 2013
   - [PriSC](https://popl21.sigplan.org/home/prisc-2021)
 - 2020
   - [Middleware Doctoral Symposium](https://2020.middleware-conference.org/call-for-doctoral-symposium.html)
-
-### Work Experience
-- Research Intern, Microsoft Research Cambridge (UK)<br>
-Jun 2015 - Aug 2015
-
-
-- Member of Technical Staff, NetApp Bangalore (India)<br>
-Jun 2011 - Aug 2012
-
-- Intern, NetApp Bangalore (India)<br>
-Jan 2011 - Jun 2011
 
 ### Invited Talks & Presentations
 - Policy Compliance in Online Services
