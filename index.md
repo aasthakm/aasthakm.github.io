@@ -68,12 +68,18 @@ Summer 2016
 Summer 2013
 
 ### Service
-- 2021
-  - [EuroSys](https://2021.eurosys.org/)
-  - [EuroDW](https://2021.eurosys.org/workshops.html#workshops)
-  - [PriSC](https://popl21.sigplan.org/home/prisc-2021)
-- 2020
-  - [Middleware Doctoral Symposium](https://2020.middleware-conference.org/call-for-doctoral-symposium.html)
+
+#### Program Committee
+- [EuroSys 2021](https://2021.eurosys.org/)
+- [EuroDW 2021](https://2021.eurosys.org/workshops.html#workshops)
+- [PriSC 2021](https://popl21.sigplan.org/home/prisc-2021)
+- [Middleware Doctoral Symposium 2020](https://2020.middleware-conference.org/call-for-doctoral-symposium.html)
+  
+#### Co-organizer
+- OSDI 2020 Mentoring Program
+
+#### Mentor
+- SOSP 2019 Mentoring Program
 
 ### Invited Talks & Presentations
 - Policy Compliance in Online Services
