@@ -45,8 +45,12 @@ Summer 2016
 Summer 2013
 
 ### Service
-- **2021.** [EuroSys](https://2021.eurosys.org/), [EuroDW](https://2021.eurosys.org/workshops.html#workshops)
-- **2020.** [Middleware Doctoral Symposium](https://2020.middleware-conference.org/call-for-doctoral-symposium.html), [PriSC](https://popl21.sigplan.org/home/prisc-2021)
+- 2021
+  - [EuroSys](https://2021.eurosys.org/)
+  - [EuroDW](https://2021.eurosys.org/workshops.html#workshops)
+  - [PriSC](https://popl21.sigplan.org/home/prisc-2021)
+- 2020
+  - [Middleware Doctoral Symposium](https://2020.middleware-conference.org/call-for-doctoral-symposium.html)
 
 ### Work Experience
 - Research Intern, Microsoft Research Cambridge (UK)<br>
@@ -80,7 +84,13 @@ Jan 2011 - Jun 2011
   
 - Qapla: Policy Compliance in Database-Backed Systems
   - Aug 2017. USENIX Security
-  
+
+
+### Awards & Honors
+- Oct 2018. Selected for [Rising Stars Workshop in EECS](https://risingstars18-eecs.mit.edu/)
+- Aug 2016. Selected for [Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/event_2016/). My [Q&A with 6 out of 200](https://scilogs.spektrum.de/hlf/2499-2/) at HLF.
+
 ### Contact
 \<first name\>k\<last initial\>[AT]mpi-sws.org<br>
 \<first name\>k\<last initial\>[AT]cs.ubc.ca
+
