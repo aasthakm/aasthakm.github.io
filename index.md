@@ -118,3 +118,7 @@ USENIX Security. Aug 2017.
 \<first name\>k\<last initial\>[AT]mpi-sws.org<br>
 \<first name\>k\<last initial\>[AT]cs.ubc.ca
 
+######
+<a href="https://imprint.mpi-klsb.mpg.de/sws/aasthakm">Imprint</a> /
+<a href="https://data-protection.mpi-klsb.mpg.de/sws/aasthakm">Data Protection</a>
+
