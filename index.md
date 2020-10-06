@@ -102,7 +102,7 @@ Summer 2013
 - IMDEA Software Institute. Apr 2020.
   
 **Pacer: Network Side-Channel Mitigation in the Cloud**
-- U of Maryland College Park (host: Bobby Bhattacharjee). May 2019.
+- University of Maryland College Park (host: Bobby Bhattacharjee). May 2019.
 - Cornell University (host: Lorenzo Alvisi). Nov 2018.
 - Workshop on Speculative Side Channel Analysis [(WoSSCA)](https://conf.researchr.org/track/wossca-2018/wossca-2018-papers#program). Jul 2018.
 
