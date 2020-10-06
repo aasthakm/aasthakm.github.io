@@ -90,13 +90,13 @@ Summer 2013
 ### Invited Talks & Presentations
 **Policy Compliance in Online Services**
 - School of Computing Science, Simon Fraser University. Feb 2020.
-- Department of EECS, Oregon State University. Feb 2020.
-- Department of Computer Science, Northwestern University. Feb 2020.
-- Department of Computer Science, Duke University. Feb 2020.
-- Department of Computer Science, George Mason University. Feb 2020.
+- Dept. of EECS, Oregon State University. Feb 2020.
+- Dept. of Computer Science, Northwestern University. Feb 2020.
+- Dept. of Computer Science, Duke University. Feb 2020.
+- Dept. of Computer Science, George Mason University. Feb 2020.
 - David R. Cheriton School of Computer Science, University of Waterloo. Mar 2020.
-- Department of Computer Science, University of British Columbia. Mar 2020.
-- Department of Computer Science, Washington University St. Louis. Mar 2020.
+- Dept. of Computer Science, University of British Columbia. Mar 2020.
+- Dept. of Computer Science, Washington University St. Louis. Mar 2020.
 - Microsoft Research Redmond. Mar 2020.
 - CISPA Helmholtz Center for Information Security. Mar 2020.
 - IMDEA Software Institute. Apr 2020.
