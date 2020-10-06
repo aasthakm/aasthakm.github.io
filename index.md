@@ -1,6 +1,6 @@
 <!-- ### Aastha Mehta -->
 
-<img src="imgs/Aastha_profile_pic.jpg" class="wrap align-center" height="150px" width="110px" border-radius=50%>
+<img src="imgs/Aastha_profile_pic.jpg" class="wrap align-center" height="150px" width="110px">
 
 ### About
 
