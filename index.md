@@ -40,7 +40,7 @@ European Conference on Computer Systems (EuroSys), 2015.
 Student Research Symposium, International Conference on High Performance Computing (HiPC), 2011.
 
 ### Teaching
-- Instructor [CPSC 538M Topics in Security and Privacy](https://www.mpi-sws.org/~aasthakm/courses/cpsc538m.html) (UBC Graduate Seminar)<br>
+- Instructor [CPSC 538M Topics in Security and Privacy](https://aasthakm.github.io/courses/cpsc538m.html) (UBC Graduate Seminar)<br>
 Winter Term 2, Jan 2021
 
 - Co-Instructor [Operating Systems](https://courses.mpi-sws.org/os-ws19/) (UdS Graduate Core Course)<br>
