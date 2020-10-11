@@ -17,11 +17,11 @@ Starting January 2021, I will be joining as a Tenure-Track Assistant Professor i
 I am broadly interested in systems security, data privacy, operating systems, and distributed systems. I have worked on building [systems](http://thoth.mpi-sws.org/) that enable online services to comply with data privacy and usage policies, and prevent accidental disclosures due to bugs and misconfigurations. More recently, I have been working on solutions to ensure privacy in Cloud services in the face of side-channel disclosures.
 
 ### Publications
-- Pacer: Network Side-Channel Mitigation in the Cloud [\[PDF\]](https://arxiv.org/pdf/1908.11568.pdf) [\[Poster\]](https://people.mpi-sws.org/~aasthakm/files/pacer_poster.pdf)<br>
+- Pacer: Network Side-Channel Mitigation in the Cloud [\[PDF\]](https://arxiv.org/pdf/1908.11568.pdf)<br>
 **Aastha Mehta**, Mohamed Alzayat, Roberta De Viti, Björn B. Brandenburg, Peter Druschel, Deepak Garg<br>
 Under Submission.
 
-- Qapla: Policy compliance for database-backed systems [\[PDF\]](https://www.mpi-sws.org/~aasthakm/files/qapla.pdf) [\[Poster\]](https://www.mpi-sws.org/~aasthakm/files/qapla_poster.pdf) [\[Code\]](https://github.com/aasthakm/qapla)<br>
+- Qapla: Policy compliance for database-backed systems [\[PDF\]](https://www.mpi-sws.org/~aasthakm/files/qapla.pdf)[\[Code\]](https://github.com/aasthakm/qapla)<br>
 **Aastha Mehta**, Eslam Elnikety, Katura Harvey, Deepak Garg, Peter Druschel<br>
 USENIX Security Symposium, 2017.
 
