@@ -8,9 +8,9 @@ I am a PhD student at [Max Planck Institute for Software Systems (MPI-SWS)](http
 
 Starting January 2021, I will be joining as a Tenure-Track Assistant Professor in the [CS Department, University of British Columbia](https://www.cs.ubc.ca/).
 
-**I am hiring PhD and MS students!**
+**I am hiring PhD and MS students to join my group at UBC!**
 
-[Information for interested students.](https://www.cs.ubc.ca/students/grad/admissions)
+Students with an interest and background in systems and/or security, please apply [here](https://www.cs.ubc.ca/students/grad/admissions).
 
 ### Research Interests
 
