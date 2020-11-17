@@ -21,7 +21,7 @@ I am broadly interested in systems security, data privacy, operating systems, an
 - PanCast: Listening to Bluetooth Beacons for Epidemic Risk Mitigation* [\[PDF\]](https://arxiv.org/pdf/2011.08069.pdf)<br>
 Gilles Barthe, Roberta De Viti, Peter Druschel, Deepak Garg, Manuel Gomez-Rodriguez, Pierfrancesco Ingo, Matthew Lentz, **Aastha Mehta**, Bernhard Schölkopf<br>
 White Paper, 2020.<br>
-<span style="font-size:10px;">*Authors listed in alphabetical order</span>
+<span style="font-size:12px;">*Authors listed in alphabetical order</span>
 
 - Ensuring Compliance with Data Privacy and Usage Policies in Online Services [\[PDF\]](https://www.mpi-sws.org/~aasthakm/files/AasthaMehta-PhDThesis-2020.pdf)<br>
 **Aastha Mehta**<br>
