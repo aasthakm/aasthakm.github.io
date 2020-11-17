@@ -4,7 +4,8 @@
 
 ### About
 
-I am a PhD student at [Max Planck Institute for Software Systems (MPI-SWS)](http://www.mpi-sws.org/) and [University of Saarland (UdS)](http://cs.uni-saarland.de/). I work with [Peter Druschel](http://www.mpi-sws.org/~druschel/) and [Deepak Garg](http://www.mpi-sws.org/~dg/). I will be graduating in November 2020. Before my PhD, I worked at NetApp, Bengaluru (India), and completed my Bachelors in Computer Science from Birla Institute of Technology and Science (BITS) Pilani (India).
+I am currently a postdoctoral researcher at [Max Planck Institute for Software Systems (MPI-SWS)](http://www.mpi-sws.org/).
+I completed my PhD with [Peter Druschel](http://www.mpi-sws.org/~druschel/) and [Deepak Garg](http://www.mpi-sws.org/~dg/) in November 2020. Before my PhD, I worked at NetApp, Bengaluru (India), and completed my Bachelors in Computer Science from Birla Institute of Technology and Science (BITS) Pilani (India).
 
 Starting January 2021, I will be joining as a Tenure-Track Assistant Professor in the [CS Department, University of British Columbia](https://www.cs.ubc.ca/).
 
@@ -17,6 +18,10 @@ Students with an interest and background in systems and/or security, please appl
 I am broadly interested in systems security, data privacy, operating systems, and distributed systems. I have worked on building [systems](http://thoth.mpi-sws.org/) that enable online services to comply with data privacy and usage policies, and prevent accidental disclosures due to bugs and misconfigurations. More recently, I have been working on solutions to ensure privacy in Cloud services in the face of side-channel disclosures.
 
 ### Publications
+- PanCast: Listening to Bluetooth Beacons for Epidemic Risk Mitigation [\[PDF\]](https://arxiv.org/pdf/2011.08069.pdf)<br>
+Gilles Barthe, Roberta De Viti, Peter Druschel, Deepak Garg, Manuel Gomez-Rodriguez, Pierfrancesco Ingo, Matthew Lentz, **Aastha Mehta**, Bernhard Schölkopf<br>
+White Paper. 2020.
+
 - Pacer: Network Side-Channel Mitigation in the Cloud [\[PDF\]](https://arxiv.org/pdf/1908.11568.pdf)<br>
 **Aastha Mehta**, Mohamed Alzayat, Roberta De Viti, Björn B. Brandenburg, Peter Druschel, Deepak Garg<br>
 Under Submission.
