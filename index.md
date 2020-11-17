@@ -18,36 +18,36 @@ Students with an interest and background in systems and/or security, please appl
 I am broadly interested in systems security, data privacy, operating systems, and distributed systems. I have worked on building [systems](http://thoth.mpi-sws.org/) that enable online services to comply with data privacy and usage policies, and prevent accidental disclosures due to bugs and misconfigurations. More recently, I have been working on solutions to ensure privacy in Cloud services in the face of side-channel disclosures.
 
 ### Publications
-- _PanCast: Listening to Bluetooth Beacons for Epidemic Risk Mitigation*_ [\[PDF\]](https://arxiv.org/pdf/2011.08069.pdf)<br>
+- PanCast: Listening to Bluetooth Beacons for Epidemic Risk Mitigation* [\[PDF\]](https://arxiv.org/pdf/2011.08069.pdf)<br>
 Gilles Barthe, Roberta De Viti, Peter Druschel, Deepak Garg, Manuel Gomez-Rodriguez, Pierfrancesco Ingo, Matthew Lentz, **Aastha Mehta**, Bernhard Schölkopf<br>
 White Paper, 2020.<br>
-*Authors listed in alphabetical order
+<span style="font-size:8px;">*Authors listed in alphabetical order</span>
 
-- _Ensuring Compliance with Data Privacy and Usage Policies in Online Services_ [\[PDF\]](https://www.mpi-sws.org/~aasthakm/files/AasthaMehta-PhDThesis-2020.pdf)<br>
+- Ensuring Compliance with Data Privacy and Usage Policies in Online Services [\[PDF\]](https://www.mpi-sws.org/~aasthakm/files/AasthaMehta-PhDThesis-2020.pdf)<br>
 **Aastha Mehta**<br>
 PhD Thesis, 2020.
 
-- _Pacer: Network Side-Channel Mitigation in the Cloud_ [\[PDF\]](https://arxiv.org/pdf/1908.11568.pdf)<br>
+- Pacer: Network Side-Channel Mitigation in the Cloud [\[PDF\]](https://arxiv.org/pdf/1908.11568.pdf)<br>
 **Aastha Mehta**, Mohamed Alzayat, Roberta De Viti, Björn B. Brandenburg, Peter Druschel, Deepak Garg<br>
 Under Submission.
 
-- _Qapla: Policy compliance for database-backed systems_ [\[PDF\]](https://www.mpi-sws.org/~aasthakm/files/qapla.pdf)[\[Code\]](https://github.com/aasthakm/qapla)<br>
+- Qapla: Policy compliance for database-backed systems [\[PDF\]](https://www.mpi-sws.org/~aasthakm/files/qapla.pdf)[\[Code\]](https://github.com/aasthakm/qapla)<br>
 **Aastha Mehta**, Eslam Elnikety, Katura Harvey, Deepak Garg, Peter Druschel<br>
 USENIX Security Symposium, 2017.
 
-- _Thoth: Comprehensive Policy Compliance in Data Retrieval Systems_ [\[PDF\]](http://www.mpi-sws.org/~elnikety/Eslam_Elnikety_Web_Page_files/sec16_paper_elnikety.pdf)<br>
+- Thoth: Comprehensive Policy Compliance in Data Retrieval Systems [\[PDF\]](http://www.mpi-sws.org/~elnikety/Eslam_Elnikety_Web_Page_files/sec16_paper_elnikety.pdf)<br>
 Eslam Elnikety, **Aastha Mehta**, Anjo Vahldiek-Oberwagner, Deepak Garg, Peter Druschel<br>
 USENIX Security Symposium, 2016.
 
-- _Oblivious Multi-Party Machine Learning on Trusted Processors_ [\[PDF\]](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_ohrimenko.pdf)<br>
+- Oblivious Multi-Party Machine Learning on Trusted Processors [\[PDF\]](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_ohrimenko.pdf)<br>
 Olga Ohrimenko, Felix Schuster, Cédric Fournet, **Aastha Mehta**, Sebastian Nowozin, Kapil Vaswani, Manuel Costa<br>
 USENIX Security Symposium, 2016.
 
-- _Guardat: Enforcing data policies at the storage layer_ [\[PDF\]](http://www.mpi-sws.org/~aasthakm/files/eurosys15-guardat.pdf)<br>
+- Guardat: Enforcing data policies at the storage layer [\[PDF\]](http://www.mpi-sws.org/~aasthakm/files/eurosys15-guardat.pdf)<br>
 Anjo Vahldiek, Eslam Elnikety, **Aastha Mehta**, Deepak Garg, Peter Druschel, Ansley Post, Rodrigo Rodriguez, Johannes Gehrke<br>
 European Conference on Computer Systems (EuroSys), 2015.
 
-- _HDFS Space Consolidation_<br>
+- HDFS Space Consolidation<br>
 **Aastha Mehta**, Deepti Banka, Kartheek Muthyala, Priya Sehgal, Ajay Bakre<br>
 Student Research Symposium, International Conference on High Performance Computing (HiPC), 2011.
 
@@ -67,6 +67,7 @@ Summer 2013
 ### Service
 
 **Program Committee**
+- [Systor 2021](https://www.systor.org/2021/)
 - [EuroSys 2021](https://2021.eurosys.org/)
 - [EuroDW 2021](https://2021.eurosys.org/workshops.html#workshops)
 - [PriSC 2021](https://popl21.sigplan.org/home/prisc-2021)
