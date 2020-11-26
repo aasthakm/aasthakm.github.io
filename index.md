@@ -15,7 +15,7 @@ Students with an interest and background in systems and/or security, please appl
 
 ### Research Interests
 
-I am broadly interested in systems security, data privacy, operating systems, and distributed systems. I have worked on building [systems](http://thoth.mpi-sws.org/) that enable online services to comply with data privacy and usage policies, and prevent accidental disclosures due to bugs and misconfigurations. More recently, I have been working on solutions to ensure privacy in Cloud services in the face of side-channel disclosures.
+I am broadly interested in systems security, data privacy, operating systems, and distributed systems. I have worked on building [systems](http://thoth.mpi-sws.org/) that enable online services to comply with data privacy and usage policies, and prevent accidental disclosures due to bugs and misconfigurations. More recently, I have been working on solutions to ensure privacy in Cloud services in the face of side-channel disclosures. Currently, I am also exploring systems for effective contact tracing and epidemic risk notification in the context of COVID-19.
 
 ### Publications
 - PanCast: Listening to Bluetooth Beacons for Epidemic Risk Mitigation* [\[PDF\]](https://arxiv.org/pdf/2011.08069.pdf)<br>
