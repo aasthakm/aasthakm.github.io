@@ -4,10 +4,16 @@
 
 ### About
 
+I am a Tenure-Track Assistant Professor in the [CS Department, University of British Columbia](https://www.cs.ubc.ca/).
+
+I completed my PhD with [Peter Druschel](http://www.mpi-sws.org/~druschel/) and [Deepak Garg](http://www.mpi-sws.org/~dg/) from [Max Planck Institute for Software Systems (MPI-SWS)](http://www.mpi-sws.org/). Before my PhD, I worked at NetApp, Bengaluru (India), and completed my Bachelors in Computer Science from Birla Institute of Technology and Science (BITS) Pilani (India).
+
+<!--
 I am currently a postdoctoral researcher at [Max Planck Institute for Software Systems (MPI-SWS)](http://www.mpi-sws.org/).
 I completed my PhD with [Peter Druschel](http://www.mpi-sws.org/~druschel/) and [Deepak Garg](http://www.mpi-sws.org/~dg/) in November 2020. Before my PhD, I worked at NetApp, Bengaluru (India), and completed my Bachelors in Computer Science from Birla Institute of Technology and Science (BITS) Pilani (India).
 
 Starting Feb 2021, I will be joining as a Tenure-Track Assistant Professor in the [CS Department, University of British Columbia](https://www.cs.ubc.ca/).
+-->
 
 <!--
 **I am hiring PhD and MS students to join my group at UBC!**
