@@ -80,6 +80,7 @@ Summer 2013
 ### Service
 
 **Program Committee**
+- [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)
 - [Systor 2021](https://www.systor.org/2021/)
 - [EuroSys 2021](https://2021.eurosys.org/)
 - [EuroDW 2021](https://2021.eurosys.org/workshops.html#workshops)
