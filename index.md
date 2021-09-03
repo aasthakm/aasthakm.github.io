@@ -94,6 +94,7 @@ Summer 2013
 - [SOSP 2019 Mentoring Program](https://sosp19.rcs.uwaterloo.ca/mentoring.html)
 
 ### Awards & Honors
+- Received NSERC Discovery Grant (2021-2026).
 - Selected for [Rising Stars Workshop in EECS](https://risingstars18-eecs.mit.edu/). Oct 2018.
 - Selected for [Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/event_2016/). My [Q&A with 6 out of 200](https://scilogs.spektrum.de/hlf/2499-2/) at HLF. Aug 2016.
 
