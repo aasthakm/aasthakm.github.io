@@ -326,167 +326,36 @@ kbd {
 }
 </style>
 
-<style type="text/css">
-/**
- * prism.js default theme for JavaScript, CSS and HTML
- * Based on dabblet (http://dabblet.com)
- * @author Lea Verou
- */
-
-code[class*="language-"],
-pre[class*="language-"] {
-	color: black;
-	background: none;
-	text-shadow: 0 1px white;
-	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-	text-align: left;
-	white-space: pre;
-	word-spacing: normal;
-	word-break: normal;
-	word-wrap: normal;
-	line-height: 1.5;
-
-	-moz-tab-size: 4;
-	-o-tab-size: 4;
-	tab-size: 4;
-
-	-webkit-hyphens: none;
-	-moz-hyphens: none;
-	-ms-hyphens: none;
-	hyphens: none;
-}
-
-pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
-code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
-	text-shadow: none;
-	background: #b3d4fc;
-}
-
-pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
-code[class*="language-"]::selection, code[class*="language-"] ::selection {
-	text-shadow: none;
-	background: #b3d4fc;
-}
-
-@media print {
-	code[class*="language-"],
-	pre[class*="language-"] {
-		text-shadow: none;
-	}
-}
-
-/* Code blocks */
-pre[class*="language-"] {
-	padding: 1em;
-	margin: .5em 0;
-	overflow: auto;
-}
-
-:not(pre) > code[class*="language-"],
-pre[class*="language-"] {
-	background: #f5f2f0;
-}
-
-/* Inline code */
-:not(pre) > code[class*="language-"] {
-	padding: .1em;
-	border-radius: .3em;
-	white-space: normal;
-}
-
-.token.comment,
-.token.prolog,
-.token.doctype,
-.token.cdata {
-	color: slategray;
-}
-
-.token.punctuation {
-	color: #999;
-}
-
-.namespace {
-	opacity: .7;
-}
-
-.token.property,
-.token.tag,
-.token.boolean,
-.token.number,
-.token.constant,
-.token.symbol,
-.token.deleted {
-	color: #905;
-}
-
-.token.selector,
-.token.attr-name,
-.token.string,
-.token.char,
-.token.builtin,
-.token.inserted {
-	color: #690;
-}
-
-.token.operator,
-.token.entity,
-.token.url,
-.language-css .token.string,
-.style .token.string {
-	color: #a67f59;
-	background: hsla(0, 0%, 100%, .5);
-}
-
-.token.atrule,
-.token.attr-value,
-.token.keyword {
-	color: #07a;
-}
-
-.token.function {
-	color: #DD4A68;
-}
-
-.token.regex,
-.token.important,
-.token.variable {
-	color: #e90;
-}
-
-.token.important,
-.token.bold {
-	font-weight: bold;
-}
-.token.italic {
-	font-style: italic;
-}
-
-.token.entity {
-	cursor: help;
-}
-</style>
-
 
 </head>
 
 <body>
 
-<h2> CPSC 538M: Security and Privacy in the Era of Side Channels </h2>
+<h2> CPSC 538M: Side Channel Security </h2>
 
 <!-- <h3> UBC CS Dept.</h3>
 -->
 
 <h4> Winter Term 1, Sep 2022 </h4>
 
-<p>Instructor: <a href="https://aasthakm.github.io/">Aastha Mehta</a> ( &lt;firstname&gt;k&lt;lastinitial&gt; [AT] cs.ubc.ca )</p>
+<p><strong>Instructor:</strong> <a href="https://aasthakm.github.io/">Aastha Mehta</a> ( &lt;firstname&gt;k&lt;lastinitial&gt; [AT] cs.ubc.ca )</p>
 
-<p>Teaching Assistant: TBD</p>
+<ul>
+<li>Office hours (TBD)</li>
+</ul>
+
+<p><strong>Teaching Assistant:</strong> Amir Sabzi ( &lt;lastname&gt; [AT] cs.ubc.ca )</p>
+
+<ul>
+<li>Office hours (TBD)</li>
+</ul>
 
 <h4> Logistics </h4>
 
 <ul>
 <li>Time: MW 09:00 – 10:30 hours PDT</li>
-<li>Location: virtual (TBD)</li>
+<li>Location: DMP 101</li>
+<li>Zoom link for remote students: </li>
 </ul>
 
 <h4> Overview </h4>
@@ -501,50 +370,189 @@ Side channels are channels of information leak that arise in the implementation 
 Side channels arise in system resources that are shared among mutually untrusting principals. Side-channel attacks are becoming increasingly sophisticated, while building efficient defenses is challenging. 
 This course will give an overview of software-based side-channel attacks. We will study papers that describe side channels in resources, such as caches, memory, CPUs, GPUs, and network, and how attacks are designed to exploit the side channels. We will also study state-of-the-art solutions to mitigate various side channels, which include techniques at the architecture, the OS, languages and compilers, and the application level.</p>
 
-<h4> List of side channels (Reading list to be announced) </h4>
-
-<ul>
-<li>Timing</li>
-<li>Microarchitecture (e.g., caches)</li>
-<li>Memory</li>
-<li>Network</li>
-<li>Accelerators</li>
-<li>Speculative execution</li>
-<li>Rowhammer</li>
-</ul>
+<h4> Tentative reading list </h4>
 
 <!--
-| Date | Paper | Presenter |
-|---|---|---|
-| 04/01 | Overview | Aastha |
-| 06/01 | TBD | TBD |
-| 11/01 | TBD | TBD |
-| 13/01 | TBD | TBD |
-| 18/01 | TBD | TBD |
-| 20/01 | TBD | TBD |
-| 25/01 | TBD | TBD |
-| 27/01 | TBD | TBD |
-| 01/02 | TBD | TBD |
-| 03/02 | TBD | TBD |
-| 08/02 | TBD | TBD |
-| 10/02 | TBD | TBD |
-| 15/02 | TBD | TBD |
-| 17/02 | TBD | TBD |
-| 22/02 | TBD | TBD |
-| 24/02 | TBD | TBD |
-| 01/03 | TBD | TBD |
-| 03/03 | TBD | TBD |
-| 08/03 | TBD | TBD |
-| 10/03 | TBD | TBD |
-| 15/03 | TBD | TBD |
-| 17/03 | TBD | TBD |
-| 22/03 | TBD | TBD |
-| 24/03 | TBD | TBD |
-| 29/03 | TBD | TBD |
-| 31/03 | TBD | TBD |
-| 05/04 | TBD | TBD |
+* Timing
+* Microarchitecture (e.g., caches)
+* Memory
+* Network
+* Accelerators
+* Speculative execution
+* Rowhammer
+-->
+
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Paper</th>
+<th>Presenter</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>08/09</td>
+<td>Overview</td>
+<td>Aastha</td>
+</tr>
+<tr>
+<td>13/09</td>
+<td>Cache-timing attacks overview<br><em>Optional reading:</em> Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript (<a href="https://gruss.cc/files/fantastictimers.pdf">pdf</a>)</td>
+<td>Aastha Mehta</td>
+</tr>
+<tr>
+<td>15/09</td>
+<td>Flush+Reload: A High Resolution, Low Noise, L3 Cache Side-Channel Attack (<a href="https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-yarom.pdf">pdf</a>)<br><span style="color:red"><strong>assignment out</strong></span></td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>20/09</td>
+<td>ARMageddon: Cache Attacks on Mobile Devices (<a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_lipp.pdf">pdf</a>)<br><span style="color:red"><strong>course add/drop deadline</strong></span></td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>22/09</td>
+<td>NetCAT: practical cache attacks from network (<a href="https://download.vusec.net/papers/netcat_sp20.pdf">pdf</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>27/09</td>
+<td>Scheduler-based defenses against cross-vm side channels (<a href="https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-varadarajan.pdf">pdf</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>29/09</td>
+<td>CATalyst: Defeating last-level cache side channel attacks in cloud computing (<a href="https://ieeexplore.ieee.org/document/7446082">link</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>04/10</td>
+<td>Controlled-Channel Attacks: Deterministic Side Channels for Untrusted Operating Systems (<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7163052">link</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>06/10</td>
+<td>Rendered Insecure: GPU Side Channel Attacks are Practical (<a href="https://www.cs.ucr.edu/%7Ezhiyunq/pub/ccs18_gpu_side_channel.pdf">pdf</a>)<br><span style="color:red"><strong>assignment due</strong></span></td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>11/10</td>
+<td><em>Thanksgiving Holiday</em></td>
+<td><em>Thanksgiving Holiday</em></td>
+</tr>
+<tr>
+<td>13/10</td>
+<td><strong>Main reading:</strong> Visor: Privacy-Preserving Video Analytics as a Cloud Service (<a href="https://www.usenix.org/system/files/sec20-poddar.pdf">pdf</a>)<br><em>Optional reading:</em> Oblivious Coopetitive Analytics Using Hardware Enclaves (<a href="https://dl.acm.org/doi/pdf/10.1145/3342195.3387552">pdf</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>18/10</td>
+<td>Constant timing paper</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>20/10</td>
+<td><strong>Main reading:</strong> Spectre (<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=8835233">link</a>)<br><em>Optional reading:</em> An Analysis of Speculative Type Confusion Vulnerabilities in the Wild (<a href="https://www.usenix.org/system/files/sec21summer_kirzner.pdf">pdf</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>25/10</td>
+<td>Meltdown (<a href="https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-lipp.pdf">pdf</a>)<br><em>Additional links:</em> https://transient.fail/</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>27/10</td>
+<td>Swivel: Hardening WebAssembly against Spectre (<a href="https://cseweb.ucsd.edu/%7Edstefan/pubs/narayan:2021:swivel.pdf">pdf</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>01/11</td>
+<td>Meltdown mitigation paper</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>03/11</td>
+<td>Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution (<a href="https://cseweb.ucsd.edu/%7Edstefan/cse227-fall18/papers/van-bulck:foreshadow.pdf">pdf</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>08/11</td>
+<td>New Models for Understanding and Reasoning about Speculative Execution Attacks (<a href="https://arxiv.org/pdf/2009.07998.pdf">arxiv</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>10/11</td>
+<td><em>mid-term break</em></td>
+<td><em>mid-term break</em></td>
+</tr>
+<tr>
+<td>15/11</td>
+<td><strong>Main reading:</strong> Side-channel leaks in web apps a reality today, a challenge tomorrow (<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/WebAppSideChannel-final.pdf">pdf</a>)<br><em>Optional reading:</em> Website Fingerprinting at Internet Scale (<a href="https://nymity.ch/tor-dns/pdf/Panchenko2016a.pdf">pdf</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>17/11</td>
+<td>Beauty and the Burst: Remote Identification of Encrypted Video Streams (<a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schuster.pdf">pdf</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>22/11</td>
+<td>A Systematic Approach to Developing and Evaluating Website Fingerprinting Defenses (<a href="https://dl.acm.org/doi/pdf/10.1145/2660267.2660362">pdf</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>24/11</td>
+<td>Traffic morphing: an efficient defense against statistical traffic analysis (<a href="https://www.ndss-symposium.org/wp-content/uploads/2017/09/wright.pdf">pdf</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>29/11</td>
+<td>Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks (<a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-tao.pdf">pdf</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>01/12</td>
+<td>TBD</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>06/12</td>
+<td>TBD</td>
+<td>TBD</td>
+</tr>
+</tbody>
+</table>
+
+<!--
+| 08/12 | TBD | TBD |
 | 07/04 | TBD | TBD |
 -->
+
+<h4> Additional reading </h4>
+
+<ul>
+<li><a href="https://cseweb.ucsd.edu/%7Edstefan/cse227-spring19/papers/keshav:how.pdf">How to read a paper</a></li>
+<li><a href="https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/">How to write a great research paper</a></li>
+<li><a href="https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/">How to give a great research talk</a></li>
+</ul>
+
+<p><strong>Survey papers on side channels</strong></p>
+
+<ul>
+<li><a href="https://eprint.iacr.org/2016/613.pdf">A Survey of Microarchitectural Timing attacks and Countermeasures on Contemporary Hardware</a></li>
+<li><a href="https://dl.acm.org/doi/pdf/10.1145/3442479">Survey of Transient Execution Attacks and Their Mitigations</a></li>
+<li><a href="https://arxiv.org/pdf/2105.05801.pdf">SoK: Practical Foundations for Spectre Defenses</a></li>
+<li><a href="https://dl.acm.org/doi/pdf/10.1145/3457904">A Survey on Encrypted Network Traffic Analysis Applications, Techniques, and Countermeasures</a></li>
+<li><a href="https://arxiv.org/abs/1811.05441">A systematic evaluation of transient execution attacks and defenses</a></li>
+</ul>
+
+<h4> Assignment </h4>
+<span style="color:red"> TBA </span>
+
+<h4> Project </h4>
+<span style="color:red"> TBA </span>
 
 <h4> Course structure and grading </h4>
 
@@ -560,7 +568,10 @@ This course will give an overview of software-based side-channel attacks. We wil
 <li>Project: 20%</li>
 </ul>
 
-<p>The student presenting a paper need not write a review for the presented paper.</p>
+<p>The student presenting a paper need not write a review for the presented paper. Top 20 reviews will be considered for grading.</p>
+
+<h4> Academic Code of Conduct/Honor Code </h4>
+<span style="color:red">TBA</span>
 
 <h4> Registration and Prerequisites </h4>
 
@@ -572,16 +583,29 @@ This course will give an overview of software-based side-channel attacks. We wil
 <p>Any background in security is welcome but not required.
 The course is intended for Masters and Ph.D. students in Computer Science, but enterprising Bachelors students who fulfill above pre-requisites are welcome to participate.</p>
 
+<h4> Covid Safety in the Classroom </h4> 
+
+<p><strong>Masks:</strong> Masks are required for all indoor classes, as per the BC Public Health Officer orders. For our in-person meetings in this class, it is important that all of us feel as comfortable as possible engaging in class activities while sharing an indoor space.  For the purposes of this order, the term “masks” refers to medical and non-medical masks that cover our noses and mouths.  Masks are a primary tool to make it harder for Covid-19 to find a new host.  You will need to wear a medical or non-medical mask for the duration of our class meetings, for your own protection, and the safety and comfort of everyone else in the class.  You may be asked to remove your mask briefly for an ID check for an exam, but otherwise, your mask should cover your nose and mouth. Please do not eat in class. If you need to drink water/coffee/tea/etc, please keep your mask on between sips. Please note that there are some people who cannot wear a mask. These individuals are equally welcome in our class. </p>
+
+<p><strong>Vaccination:</strong> If you have not yet had a chance to get vaccinated against Covid-19, vaccines are available to you, free, and on campus (<a href="http://www.vch.ca/covid-19/covid-19-vaccine#vaccination">link</a>). The higher the rate of vaccination in our community overall, the lower the chance of spreading this virus.  You are an important part of the UBC community. Please arrange to get vaccinated if you have not already done so.</p>
+
+<p><strong>Seating in class:</strong> To reduce the risk of Covid transmission, please sit in a consistent area of the classroom each day.  This will minimize your contacts and will still allow for the pedagogical methods planned for this class to help your learning.  </p>
+
+<p><strong>Your personal health:</strong>
+If you’re sick, it’s important that you stay home – no matter what you think you may be sick with (e.g., cold, flu, other). </p>
+
+<ul>
+<li>A daily self-health assessment is required before attending campus. Every day, before coming to class, complete the self-assessment for Covid symptoms using this tool: https://bc.thrive.health/covid19/en</li>
+<li>Do not come to class if you have Covid symptoms, have recently tested positive for Covid, or are required to quarantine. You can check this website to find out if you should self-isolate or self-monitor: http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation#Who.</li>
+<li>Your precautions will help reduce risk and keep everyone safer.  In this class, the marking scheme is intended to provide flexibility so that you can prioritize your health and still be able to succeed.</li>
+</ul>
+
 <!--
 **You must send an email to the instructor to register, explaining why you wish to take the seminar and what your background in computer security or systems is.** If you wish to take the seminar without credit, just say so in your email.
 Places in the seminar are limited. However, non-credit participation is not subject to any cap.
 -->
 
 
-
-<script type="text/javascript">
-var _self="undefined"!=typeof window?window:"undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?self:{},Prism=function(){var e=/\blang(?:uage)?-(\w+)\b/i,t=0,n=_self.Prism={util:{encode:function(e){return e instanceof a?new a(e.type,n.util.encode(e.content),e.alias):"Array"===n.util.type(e)?e.map(n.util.encode):e.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/\u00a0/g," ")},type:function(e){return Object.prototype.toString.call(e).match(/\[object (\w+)\]/)[1]},objId:function(e){return e.__id||Object.defineProperty(e,"__id",{value:++t}),e.__id},clone:function(e){var t=n.util.type(e);switch(t){case"Object":var a={};for(var r in e)e.hasOwnProperty(r)&&(a[r]=n.util.clone(e[r]));return a;case"Array":return e.map&&e.map(function(e){return n.util.clone(e)})}return e}},languages:{extend:function(e,t){var a=n.util.clone(n.languages[e]);for(var r in t)a[r]=t[r];return a},insertBefore:function(e,t,a,r){r=r||n.languages;var l=r[e];if(2==arguments.length){a=arguments[1];for(var i in a)a.hasOwnProperty(i)&&(l[i]=a[i]);return l}var o={};for(var s in l)if(l.hasOwnProperty(s)){if(s==t)for(var i in a)a.hasOwnProperty(i)&&(o[i]=a[i]);o[s]=l[s]}return n.languages.DFS(n.languages,function(t,n){n===r[e]&&t!=e&&(this[t]=o)}),r[e]=o},DFS:function(e,t,a,r){r=r||{};for(var l in e)e.hasOwnProperty(l)&&(t.call(e,l,e[l],a||l),"Object"!==n.util.type(e[l])||r[n.util.objId(e[l])]?"Array"!==n.util.type(e[l])||r[n.util.objId(e[l])]||(r[n.util.objId(e[l])]=!0,n.languages.DFS(e[l],t,l,r)):(r[n.util.objId(e[l])]=!0,n.languages.DFS(e[l],t,null,r)))}},plugins:{},highlightAll:function(e,t){var a={callback:t,selector:'code[class*="language-"], [class*="language-"] code, code[class*="lang-"], [class*="lang-"] code'};n.hooks.run("before-highlightall",a);for(var r,l=a.elements||document.querySelectorAll(a.selector),i=0;r=l[i++];)n.highlightElement(r,e===!0,a.callback)},highlightElement:function(t,a,r){for(var l,i,o=t;o&&!e.test(o.className);)o=o.parentNode;o&&(l=(o.className.match(e)||[,""])[1],i=n.languages[l]),t.className=t.className.replace(e,"").replace(/\s+/g," ")+" language-"+l,o=t.parentNode,/pre/i.test(o.nodeName)&&(o.className=o.className.replace(e,"").replace(/\s+/g," ")+" language-"+l);var s=t.textContent,u={element:t,language:l,grammar:i,code:s};if(!s||!i)return n.hooks.run("complete",u),void 0;if(n.hooks.run("before-highlight",u),a&&_self.Worker){var c=new Worker(n.filename);c.onmessage=function(e){u.highlightedCode=e.data,n.hooks.run("before-insert",u),u.element.innerHTML=u.highlightedCode,r&&r.call(u.element),n.hooks.run("after-highlight",u),n.hooks.run("complete",u)},c.postMessage(JSON.stringify({language:u.language,code:u.code,immediateClose:!0}))}else u.highlightedCode=n.highlight(u.code,u.grammar,u.language),n.hooks.run("before-insert",u),u.element.innerHTML=u.highlightedCode,r&&r.call(t),n.hooks.run("after-highlight",u),n.hooks.run("complete",u)},highlight:function(e,t,r){var l=n.tokenize(e,t);return a.stringify(n.util.encode(l),r)},tokenize:function(e,t){var a=n.Token,r=[e],l=t.rest;if(l){for(var i in l)t[i]=l[i];delete t.rest}e:for(var i in t)if(t.hasOwnProperty(i)&&t[i]){var o=t[i];o="Array"===n.util.type(o)?o:[o];for(var s=0;s<o.length;++s){var u=o[s],c=u.inside,g=!!u.lookbehind,h=!!u.greedy,f=0,d=u.alias;u=u.pattern||u;for(var p=0;p<r.length;p++){var m=r[p];if(r.length>e.length)break e;if(!(m instanceof a)){u.lastIndex=0;var y=u.exec(m),v=1;if(!y&&h&&p!=r.length-1){var b=r[p+1].matchedStr||r[p+1],k=m+b;if(p<r.length-2&&(k+=r[p+2].matchedStr||r[p+2]),u.lastIndex=0,y=u.exec(k),!y)continue;var w=y.index+(g?y[1].length:0);if(w>=m.length)continue;var _=y.index+y[0].length,P=m.length+b.length;if(v=3,P>=_){if(r[p+1].greedy)continue;v=2,k=k.slice(0,P)}m=k}if(y){g&&(f=y[1].length);var w=y.index+f,y=y[0].slice(f),_=w+y.length,S=m.slice(0,w),O=m.slice(_),j=[p,v];S&&j.push(S);var A=new a(i,c?n.tokenize(y,c):y,d,y,h);j.push(A),O&&j.push(O),Array.prototype.splice.apply(r,j)}}}}}return r},hooks:{all:{},add:function(e,t){var a=n.hooks.all;a[e]=a[e]||[],a[e].push(t)},run:function(e,t){var a=n.hooks.all[e];if(a&&a.length)for(var r,l=0;r=a[l++];)r(t)}}},a=n.Token=function(e,t,n,a,r){this.type=e,this.content=t,this.alias=n,this.matchedStr=a||null,this.greedy=!!r};if(a.stringify=function(e,t,r){if("string"==typeof e)return e;if("Array"===n.util.type(e))return e.map(function(n){return a.stringify(n,t,e)}).join("");var l={type:e.type,content:a.stringify(e.content,t,r),tag:"span",classes:["token",e.type],attributes:{},language:t,parent:r};if("comment"==l.type&&(l.attributes.spellcheck="true"),e.alias){var i="Array"===n.util.type(e.alias)?e.alias:[e.alias];Array.prototype.push.apply(l.classes,i)}n.hooks.run("wrap",l);var o="";for(var s in l.attributes)o+=(o?" ":"")+s+'="'+(l.attributes[s]||"")+'"';return"<"+l.tag+' class="'+l.classes.join(" ")+'" '+o+">"+l.content+"</"+l.tag+">"},!_self.document)return _self.addEventListener?(_self.addEventListener("message",function(e){var t=JSON.parse(e.data),a=t.language,r=t.code,l=t.immediateClose;_self.postMessage(n.highlight(r,n.languages[a],a)),l&&_self.close()},!1),_self.Prism):_self.Prism;var r=document.currentScript||[].slice.call(document.getElementsByTagName("script")).pop();return r&&(n.filename=r.src,document.addEventListener&&!r.hasAttribute("data-manual")&&document.addEventListener("DOMContentLoaded",n.highlightAll)),_self.Prism}();"undefined"!=typeof module&&module.exports&&(module.exports=Prism),"undefined"!=typeof global&&(global.Prism=Prism);
-</script>
 
 
 </body>
