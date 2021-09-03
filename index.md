@@ -66,7 +66,7 @@ Student Research Symposium, International Conference on High Performance Computi
 
 ### Teaching
 <!-- - Instructor [CPSC 538M Topics in Security and Privacy](https://aasthakm.github.io/courses/cpsc538m.html) (UBC Graduate Seminar)<br>
-Winter Term 2, Jan 2021 -->
+Winter Term 1, Sep 2021 -->
 
 - Co-Instructor [Operating Systems](https://courses.mpi-sws.org/os-ws19/) (UdS Graduate Core Course)<br>
 Winter 2019
@@ -93,6 +93,9 @@ Summer 2013
 **Mentor**
 - [SOSP 2019 Mentoring Program](https://sosp19.rcs.uwaterloo.ca/mentoring.html)
 
+### News
+- Apr 2021, Received NSERC Discovery Grant.
+- Mar 2021, Invited to give a talk at IIT Kharagpur
 ### Awards & Honors
 - Received NSERC Discovery Grant (2021-2026).
 - Selected for [Rising Stars Workshop in EECS](https://risingstars18-eecs.mit.edu/). Oct 2018.
