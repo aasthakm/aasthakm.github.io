@@ -331,12 +331,9 @@ kbd {
 
 <body>
 
-<h2> CPSC 538M: Side Channel Security </h2>
+<h1 id="toc_0">CPSC 538M: Side Channel Security</h1>
 
-<!-- <h3> UBC CS Dept.</h3>
--->
-
-<h4> Winter Term 1, Sep 2022 </h4>
+<h2 id="toc_1">Winter Term 1, Sep 2022</h2>
 
 <p><strong>Instructor:</strong> <a href="https://aasthakm.github.io/">Aastha Mehta</a> ( &lt;firstname&gt;k&lt;lastinitial&gt; [AT] cs.ubc.ca )</p>
 
@@ -350,7 +347,28 @@ kbd {
 <li>Office hours (TBD)</li>
 </ul>
 
-<h4> Logistics </h4>
+<!-- toc -->
+
+<h3 id="toc_2">Syllabus</h3>
+
+<ul>
+<li><a href="#logistics">Logistics</a></li>
+<li><a href="#overview">Overview</a></li>
+<li><a href="#tentative-reading-list">Tentative reading list</a>
+<!-- * [Additional reading](#additional-reading) --></li>
+<li><a href="#assignment">Assignment</a></li>
+<li><a href="#project">Project</a></li>
+<li><a href="#course-structure-and-grading">Course structure and grading</a></li>
+<li><a href="#honor-code">Honor Code</a></li>
+<li><a href="#registration-and-prerequisites">Registration and Prerequisites</a></li>
+<li><a href="#covid-safety-in-the-classroom">Covid Safety in the Classroom</a></li>
+</ul>
+
+<!-- tocstop -->
+
+<p><a name="logistics"></a></p>
+
+<h3 id="toc_3">Logistics</h3>
 
 <ul>
 <li>Time: MW 09:00 – 10:30 hours PDT</li>
@@ -358,7 +376,9 @@ kbd {
 <li>Zoom link for remote students: </li>
 </ul>
 
-<h4> Overview </h4>
+<p><a name="overview"></a></p>
+
+<h3 id="toc_4">Overview</h3>
 
 <p>A large number of software applications store and process valuable data. These applications are the target of a variety of attacks. One type of attacks are side-channel attacks.
 <!--
@@ -370,7 +390,9 @@ Side channels are channels of information leak that arise in the implementation 
 Side channels arise in system resources that are shared among mutually untrusting principals. Side-channel attacks are becoming increasingly sophisticated, while building efficient defenses is challenging. 
 This course will give an overview of software-based side-channel attacks. We will study papers that describe side channels in resources, such as caches, memory, CPUs, GPUs, and network, and how attacks are designed to exploit the side channels. We will also study state-of-the-art solutions to mitigate various side channels, which include techniques at the architecture, the OS, languages and compilers, and the application level.</p>
 
-<h4> Tentative reading list </h4>
+<p><a name="tentative-reading-list"></a></p>
+
+<h3 id="toc_5">Tentative reading list</h3>
 
 <!--
 * Timing
@@ -399,8 +421,8 @@ This course will give an overview of software-based side-channel attacks. We wil
 </tr>
 <tr>
 <td>13/09</td>
-<td>Cache-timing attacks overview<br><em>Optional reading:</em> Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript (<a href="https://gruss.cc/files/fantastictimers.pdf">pdf</a>)</td>
-<td>Aastha Mehta</td>
+<td>Cache-timing attacks on AES (<a href="https://cr.yp.to/antiforgery/cachetiming-20050414.pdf">pdf</a>)</td>
+<td>TBD</td>
 </tr>
 <tr>
 <td>15/09</td>
@@ -409,7 +431,7 @@ This course will give an overview of software-based side-channel attacks. We wil
 </tr>
 <tr>
 <td>20/09</td>
-<td>ARMageddon: Cache Attacks on Mobile Devices (<a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_lipp.pdf">pdf</a>)<br><span style="color:red"><strong>course add/drop deadline</strong></span></td>
+<td><strong>Reading 1:</strong> Cache Template Attacks: Automating Attacks on Inclusive Last-Level Caches (<a href="https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-gruss.pdf">pdf</a>)<br><br><strong>Reading 2:</strong> ARMageddon: Cache Attacks on Mobile Devices (<a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_lipp.pdf">pdf</a>)<br><span style="color:red"><strong>course add/drop deadline</strong></span></td>
 <td>TBD</td>
 </tr>
 <tr>
@@ -419,7 +441,7 @@ This course will give an overview of software-based side-channel attacks. We wil
 </tr>
 <tr>
 <td>27/09</td>
-<td>Scheduler-based defenses against cross-vm side channels (<a href="https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-varadarajan.pdf">pdf</a>)</td>
+<td>Predictive Black-Box Mitigation of Timing Channels (<a href="https://www.cs.cornell.edu/andru/papers/ccs10.pdf">pdf</a>)</td>
 <td>TBD</td>
 </tr>
 <tr>
@@ -429,12 +451,12 @@ This course will give an overview of software-based side-channel attacks. We wil
 </tr>
 <tr>
 <td>04/10</td>
-<td>Controlled-Channel Attacks: Deterministic Side Channels for Untrusted Operating Systems (<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7163052">link</a>)</td>
+<td><strong>Reading 1:</strong> Robust and efficient elimination of cache and timing side channels (<a href="https://arxiv.org/pdf/1506.00189.pdf">pdf</a>)<br><br><strong>Reading 2:</strong> Scheduler-based defenses against cross-vm side channels (<a href="https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-varadarajan.pdf">pdf</a>)</td>
 <td>TBD</td>
 </tr>
 <tr>
 <td>06/10</td>
-<td>Rendered Insecure: GPU Side Channel Attacks are Practical (<a href="https://www.cs.ucr.edu/%7Ezhiyunq/pub/ccs18_gpu_side_channel.pdf">pdf</a>)<br><span style="color:red"><strong>assignment due</strong></span></td>
+<td>Controlled-Channel Attacks: Deterministic Side Channels for Untrusted Operating Systems (<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7163052">link</a>)<br><br><span style="color:red"><strong>assignment due</strong></span></td>
 <td>TBD</td>
 </tr>
 <tr>
@@ -444,42 +466,42 @@ This course will give an overview of software-based side-channel attacks. We wil
 </tr>
 <tr>
 <td>13/10</td>
-<td><strong>Main reading:</strong> Visor: Privacy-Preserving Video Analytics as a Cloud Service (<a href="https://www.usenix.org/system/files/sec20-poddar.pdf">pdf</a>)<br><em>Optional reading:</em> Oblivious Coopetitive Analytics Using Hardware Enclaves (<a href="https://dl.acm.org/doi/pdf/10.1145/3342195.3387552">pdf</a>)</td>
+<td><strong>Reading 1:</strong> Telling Your Secrets Without Page Faults: Stealthy Page Table-Based Attacks on Enclaved Execution (<a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-van_bulck.pdf">pdf</a>)<br><br><strong>Reading 2:</strong> Autarky: Closing controlled channel attacks with self-paging enclaves (<a href="https://ieeexplore.ieee.org/abstract/document/9505138">pdf</a>)<br><br><em>Additional links:</em> SGX-Step: A Practical Attack Framework for Precise Enclave Execution Control (<a href="https://github.com/jovanbulck/sgx-step">link</a>)</td>
 <td>TBD</td>
 </tr>
 <tr>
 <td>18/10</td>
-<td>Constant timing paper</td>
+<td><strong>Main reading:</strong> Meltdown: Reading Kernel Memory from User Space (<a href="https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-lipp.pdf">pdf</a>)<br><br><em>Additional links:</em> https://transient.fail</td>
 <td>TBD</td>
 </tr>
 <tr>
 <td>20/10</td>
-<td><strong>Main reading:</strong> Spectre (<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=8835233">link</a>)<br><em>Optional reading:</em> An Analysis of Speculative Type Confusion Vulnerabilities in the Wild (<a href="https://www.usenix.org/system/files/sec21summer_kirzner.pdf">pdf</a>)</td>
+<td><strong>Reading 1:</strong> Spectre Attacks: Exploiting Speculative Execution (<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=8835233">link</a>)<br><br><strong>Reading 2:</strong> An Analysis of Speculative Type Confusion Vulnerabilities in the Wild (<a href="https://www.usenix.org/system/files/sec21summer_kirzner.pdf">pdf</a>)<br><br><em>Additional links:</em> Reproducing Spectre Attack with gem5 (<a href="https://pierreay.github.io/reproduce-spectre-gem5/">link</a>)</td>
 <td>TBD</td>
 </tr>
 <tr>
 <td>25/10</td>
-<td>Meltdown (<a href="https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-lipp.pdf">pdf</a>)<br><em>Additional links:</em> https://transient.fail/</td>
-<td>TBD</td>
-</tr>
-<tr>
-<td>27/10</td>
-<td>Swivel: Hardening WebAssembly against Spectre (<a href="https://cseweb.ucsd.edu/%7Edstefan/pubs/narayan:2021:swivel.pdf">pdf</a>)</td>
-<td>TBD</td>
-</tr>
-<tr>
-<td>01/11</td>
-<td>Meltdown mitigation paper</td>
-<td>TBD</td>
-</tr>
-<tr>
-<td>03/11</td>
 <td>Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution (<a href="https://cseweb.ucsd.edu/%7Edstefan/cse227-fall18/papers/van-bulck:foreshadow.pdf">pdf</a>)</td>
 <td>TBD</td>
 </tr>
 <tr>
-<td>08/11</td>
+<td>27/10</td>
+<td>Efficiently Mitigating Transient Execution Attacks using the Unmapped Speculation Contract (<a href="https://www.usenix.org/system/files/osdi20-behrens.pdf">pdf</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>01/11</td>
+<td>Swivel: Hardening WebAssembly against Spectre (<a href="https://cseweb.ucsd.edu/%7Edstefan/pubs/narayan:2021:swivel.pdf">pdf</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>03/11</td>
 <td>New Models for Understanding and Reasoning about Speculative Execution Attacks (<a href="https://arxiv.org/pdf/2009.07998.pdf">arxiv</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>08/11</td>
+<td>Rendered Insecure: GPU Side Channel Attacks are Practical (<a href="https://www.cs.ucr.edu/%7Ezhiyunq/pub/ccs18_gpu_side_channel.pdf">pdf</a>)</td>
 <td>TBD</td>
 </tr>
 <tr>
@@ -489,48 +511,56 @@ This course will give an overview of software-based side-channel attacks. We wil
 </tr>
 <tr>
 <td>15/11</td>
-<td><strong>Main reading:</strong> Side-channel leaks in web apps a reality today, a challenge tomorrow (<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/WebAppSideChannel-final.pdf">pdf</a>)<br><em>Optional reading:</em> Website Fingerprinting at Internet Scale (<a href="https://nymity.ch/tor-dns/pdf/Panchenko2016a.pdf">pdf</a>)</td>
+<td><strong>Reading 1:</strong> Visor: Privacy-Preserving Video Analytics as a Cloud Service (<a href="https://www.usenix.org/system/files/sec20-poddar.pdf">pdf</a>)<br><br><strong>Reading 2:</strong> Telekine: Secure Computing with Cloud GPUs (<a href="https://www.usenix.org/system/files/nsdi20-paper-hunt.pdf">pdf</a>)<br><br><em>Optional reading:</em> Oblivious Coopetitive Analytics Using Hardware Enclaves (<a href="https://dl.acm.org/doi/pdf/10.1145/3342195.3387552">pdf</a>)</td>
 <td>TBD</td>
 </tr>
 <tr>
 <td>17/11</td>
-<td>Beauty and the Burst: Remote Identification of Encrypted Video Streams (<a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schuster.pdf">pdf</a>)</td>
+<td>Side-channel leaks in web apps a reality today, a challenge tomorrow (<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/WebAppSideChannel-final.pdf">pdf</a>)<br><br></td>
 <td>TBD</td>
 </tr>
 <tr>
 <td>22/11</td>
-<td>A Systematic Approach to Developing and Evaluating Website Fingerprinting Defenses (<a href="https://dl.acm.org/doi/pdf/10.1145/2660267.2660362">pdf</a>)</td>
+<td>Website Fingerprinting at Internet Scale (<a href="https://nymity.ch/tor-dns/pdf/Panchenko2016a.pdf">pdf</a>)</td>
 <td>TBD</td>
 </tr>
 <tr>
 <td>24/11</td>
-<td>Traffic morphing: an efficient defense against statistical traffic analysis (<a href="https://www.ndss-symposium.org/wp-content/uploads/2017/09/wright.pdf">pdf</a>)</td>
+<td>Beauty and the Burst: Remote Identification of Encrypted Video Streams (<a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schuster.pdf">pdf</a>)</td>
 <td>TBD</td>
 </tr>
 <tr>
 <td>29/11</td>
-<td>Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks (<a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-tao.pdf">pdf</a>)</td>
+<td>Traffic morphing: an efficient defense against statistical traffic analysis (<a href="https://www.ndss-symposium.org/wp-content/uploads/2017/09/wright.pdf">pdf</a>)</td>
 <td>TBD</td>
 </tr>
 <tr>
 <td>01/12</td>
-<td>TBD</td>
+<td>Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks (<a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-tao.pdf">pdf</a>)</td>
 <td>TBD</td>
 </tr>
 <tr>
 <td>06/12</td>
-<td>TBD</td>
+<td>Pacer: Comprehensive Network Side-Channel Mitigation in the Cloud (<a href="https://arxiv.org/pdf/1908.11568.pdf">pdf</a>)</td>
 <td>TBD</td>
 </tr>
 </tbody>
 </table>
 
 <!--
-| 08/12 | TBD | TBD |
+| 04/10 | FaCT: A DSL for Timing-Sensitive Computation ([pdf](https://ranjitjhala.github.io/static/fact_dsl.pdf)) | TBD |
+-->
+
+<!--
+| 29/11 | A Systematic Approach to Developing and Evaluating Website Fingerprinting Defenses ([pdf](https://dl.acm.org/doi/pdf/10.1145/2660267.2660362)) | TBD |
+-->
+
+<!--
+| 08/12 | <br><br>*Optional reading:* Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript ([pdf](https://gruss.cc/files/fantastictimers.pdf)) | TBD |
 | 07/04 | TBD | TBD |
 -->
 
-<h4> Additional reading </h4>
+<h4 id="toc_6">Additional reading</h4>
 
 <ul>
 <li><a href="https://cseweb.ucsd.edu/%7Edstefan/cse227-spring19/papers/keshav:how.pdf">How to read a paper</a></li>
@@ -548,13 +578,21 @@ This course will give an overview of software-based side-channel attacks. We wil
 <li><a href="https://arxiv.org/abs/1811.05441">A systematic evaluation of transient execution attacks and defenses</a></li>
 </ul>
 
-<h4> Assignment </h4>
-<span style="color:red"> TBA </span>
+<p><a name="assignment"></a></p>
 
-<h4> Project </h4>
-<span style="color:red"> TBA </span>
+<h3 id="toc_7">Assignment</h3>
 
-<h4> Course structure and grading </h4>
+<p><span style="color:red"> TBA </span></p>
+
+<p><a name="project"></a></p>
+
+<h3 id="toc_8">Project</h3>
+
+<p><span style="color:red"> TBA </span></p>
+
+<p><a name="course-structure-and-grading"></a></p>
+
+<h3 id="toc_9">Course structure and grading</h3>
 
 <p>The course is structured as a seminar. Every class, two students will present a paper each, which will then be discussed in the class. Before each class, all students are expected to read the paper, prepare a list of discussion questions, and write a short critical review of the paper. There will be one or two assignments (first half of the term), and an exploratory project component.</p>
 
@@ -570,10 +608,15 @@ This course will give an overview of software-based side-channel attacks. We wil
 
 <p>The student presenting a paper need not write a review for the presented paper. Top 20 reviews will be considered for grading.</p>
 
-<h4> Academic Code of Conduct/Honor Code </h4>
-<span style="color:red">TBA</span>
+<p><a name="honor-code"></a></p>
 
-<h4> Registration and Prerequisites </h4>
+<h3 id="toc_10">Honor Code</h3>
+
+<p><span style="color:red">TBA</span></p>
+
+<p><a name="registration-and-prerequisites"></a></p>
+
+<h3 id="toc_11">Registration and Prerequisites</h3>
 
 <ul>
 <li>Knowledge of C/C++</li>
@@ -583,7 +626,9 @@ This course will give an overview of software-based side-channel attacks. We wil
 <p>Any background in security is welcome but not required.
 The course is intended for Masters and Ph.D. students in Computer Science, but enterprising Bachelors students who fulfill above pre-requisites are welcome to participate.</p>
 
-<h4> Covid Safety in the Classroom </h4> 
+<p><a name="covid-safety-in-the-classroom"></a></p>
+
+<h3 id="toc_12">Covid Safety in the Classroom</h3>
 
 <p><strong>Masks:</strong> Masks are required for all indoor classes, as per the BC Public Health Officer orders. For our in-person meetings in this class, it is important that all of us feel as comfortable as possible engaging in class activities while sharing an indoor space.  For the purposes of this order, the term “masks” refers to medical and non-medical masks that cover our noses and mouths.  Masks are a primary tool to make it harder for Covid-19 to find a new host.  You will need to wear a medical or non-medical mask for the duration of our class meetings, for your own protection, and the safety and comfort of everyone else in the class.  You may be asked to remove your mask briefly for an ID check for an exam, but otherwise, your mask should cover your nose and mouth. Please do not eat in class. If you need to drink water/coffee/tea/etc, please keep your mask on between sips. Please note that there are some people who cannot wear a mask. These individuals are equally welcome in our class. </p>
 
