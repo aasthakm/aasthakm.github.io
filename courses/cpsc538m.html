@@ -335,50 +335,29 @@ kbd {
 
 <h2 id="toc_1">Winter Term 1, Sep 2022</h2>
 
-<p><strong>Instructor:</strong> <a href="https://aasthakm.github.io/">Aastha Mehta</a> ( &lt;firstname&gt;k&lt;lastinitial&gt; [AT] cs.ubc.ca )</p>
-
-<ul>
-<li>Office hours (TBD)</li>
-</ul>
-
-<p><strong>Teaching Assistant:</strong> Amir Sabzi ( &lt;lastname&gt; [AT] cs.ubc.ca )</p>
-
-<ul>
-<li>Office hours (TBD)</li>
-</ul>
-
 <!-- toc -->
 
 <h3 id="toc_2">Syllabus</h3>
 
 <ul>
-<li><a href="#logistics">Logistics</a></li>
-<li><a href="#overview">Overview</a></li>
-<li><a href="#tentative-reading-list">Tentative reading list</a>
+<li><a href="#overview">1. Overview</a></li>
+<li><a href="#logistics">2. Course Staff and Logistics</a></li>
+<li><a href="#covid-safety-in-the-classroom">3. Health, Safety, Wellbeing, and COVID-19</a></li>
+<li><a href="#registration-and-prerequisites">4. Registration and Prerequisites</a></li>
+<li><a href="#course-structure-and-grading">5. Course structure and grading</a></li>
+<li><a href="#dates">6. Important dates</a></li>
+<li><a href="#tentative-reading-list">7. Tentative reading list</a>
 <!-- * [Additional reading](#additional-reading) --></li>
-<li><a href="#assignment">Assignment</a></li>
-<li><a href="#project">Project</a></li>
-<li><a href="#course-structure-and-grading">Course structure and grading</a></li>
-<li><a href="#honor-code">Honor Code</a></li>
-<li><a href="#registration-and-prerequisites">Registration and Prerequisites</a></li>
-<li><a href="#covid-safety-in-the-classroom">Covid Safety in the Classroom</a></li>
+<li><a href="#assignment">8. Assignment</a></li>
+<li><a href="#project">9. Project</a>
+<!-- - [10. Honor Code](#honor-code) --></li>
 </ul>
 
 <!-- tocstop -->
 
-<p><a name="logistics"></a></p>
-
-<h3 id="toc_3">Logistics</h3>
-
-<ul>
-<li>Time: MW 09:00 – 10:30 hours PDT</li>
-<li>Location: DMP 101</li>
-<li>Zoom link for remote students: </li>
-</ul>
-
 <p><a name="overview"></a></p>
 
-<h3 id="toc_4">Overview</h3>
+<h3 id="toc_3">1. Overview</h3>
 
 <p>A large number of software applications store and process valuable data. These applications are the target of a variety of attacks. One type of attacks are side-channel attacks.
 <!--
@@ -388,11 +367,223 @@ Side channels arise in system resources that are shared among mutually untrustin
 Side channels are channels of information leak that arise in the implementation or execution of a system rather than in the logic or design of the system itself. They arise when resources are shared among mutually untrusting principals, the resource usage of a principal (victim) is correlated with its secrets, and the adversarial principal can observe the resource usage of the victim.
 -->
 Side channels arise in system resources that are shared among mutually untrusting principals. Side-channel attacks are becoming increasingly sophisticated, while building efficient defenses is challenging. 
-This course will give an overview of software-based side-channel attacks. We will study papers that describe side channels in resources, such as caches, memory, CPUs, GPUs, and network, and how attacks are designed to exploit the side channels. We will also study state-of-the-art solutions to mitigate various side channels, which include techniques at the architecture, the OS, languages and compilers, and the application level.</p>
+This course will give an overview of software-based side-channel attacks. We will study papers that describe side channels in resources, such as caches, memory, CPUs, GPUs, and network, and how attacks are designed to exploit the side channels. We will also study solutions to mitigate various side channels, which include techniques at the architecture, the OS, languages and compilers, and the application level.</p>
+
+<p><a name="logistics"></a></p>
+
+<h3 id="toc_4">2. Course Staff and Logistics</h3>
+
+<p><strong>Instructor:</strong> <a href="https://aasthakm.github.io/">Aastha Mehta</a> ( &lt;firstname&gt;k&lt;lastinitial&gt; [AT] cs.ubc.ca )<br>
+Office hours: Wed, 10:30 - 11:30h PT</p>
+
+<p><strong>Teaching Assistant:</strong> Amir Sabzi ( &lt;lastname&gt; [AT] cs.ubc.ca )<br>
+Office hours: TBD</p>
+
+<p><strong>Class information</strong></p>
+
+<ul>
+<li>Time: MW 09:00 – 10:30 hours PDT</li>
+<li>Location: DMP 101</li>
+<li>Zoom link for remote students: </li>
+<li>Piazza forum: piazza.com/ubc.ca/winterterm12021/cpsc538m</li>
+</ul>
+
+<p><a name="covid-safety-in-the-classroom"></a></p>
+
+<h3 id="toc_5">3. Health, Safety, Wellbeing, and COVID-19</h3>
+
+<p>Learning and teaching is challenging if you are not healthy, safe, and secure. If you face any challenges in CPSC 538M to your well-being, <strong>please</strong> bring them up with us! We will try to support you. (For accommodations, the <em>minimum</em> we guarantee is to note your concern for review at the end of the term, as we finalize course grades. More generally, we will try to be reasonable and flexible!) Also see UBC Senate&#39;s <a href="https://senate.ubc.ca/policies-resources-support-student-success">Policies and Resources to Support Student Success</a>.</p>
+
+<p>As of late August, 2021, it seems that we are still in the midst of the pandemic. Here is our situation:</p>
+
+<ul>
+<li>In keeping with UBC’s official return plan, CPSC 538M has opportunities for in-person instruction and has in-person assessments.</li>
+<li>Many in our course are likely to be anxious, at risk, or both, regardless of the plan. So, we have mechanisms available to limit in-person contact.</li>
+<li>In keeping with BC’s mandate, <strong>masks are required</strong> for all in-person course activities. (Also, except where needed for your health, please refrain from eating and drinking in class.)</li>
+<li>We have lots of good ways to participate remotely or catch up, <strong>so do not come to class if you are sick</strong>.</li>
+<li>The virus ignores all guidance. We may suddenly have to shift online.</li>
+</ul>
+
+<p>Therefore:</p>
+
+<ul>
+<li>Classes will be streamed and (technology-permitting) recorded. You can stream online or attend in person. (We will have a venue for online participation.)</li>
+<li>Paper presentations can be done in person or via the online alternative. See more information on <a href="#presentations">presentations</a> below.</li>
+<li>Participation in paper discussions can be done in person or online. Students who are unable to attend a class on a given day (in person or online) can share their questions and discussion points on Piazza ahead of the class. See more information on <a href="#class-discussion">class discussion</a> below.</li>
+<li>Office hours will be online or in larger/less crowded spaces.</li>
+<li>Projects will be presented online.</li>
+<li>We will build flexibility into our grading plans (for COVID concerns but also for supporting student well-being in general).</li>
+<li>Students unable to attend in-person course activities can use the online alternative.</li>
+<li>Staff unable to attend in-person course activities: If we cannot get coverage, we will cancel in-person office hours (sorry!) and move in-person classes online.</li>
+</ul>
+
+<p>As the course instructor, I ask you out of respect for my and many students’ likely concerns to get vaccinated and wear a mask at any in-person course event. As of now, masks are required at all in-person course events. If you have not yet had a chance to get vaccinated against COVID-19, vaccines are available to you, free, and on campus (<a href="http://www.vch.ca/covid-19/covid-19-vaccine#vaccination">link</a>). Vaccines are required for many purposes, and you may be required to test regularly for COVID-19 if you have not been vaccinated.</p>
+
+<p><strong>Seating in class:</strong> To reduce the risk of Covid transmission, please sit in a consistent area of the classroom each day.  This will minimize your contacts and will still allow for the pedagogical methods planned for this class to help your learning.  </p>
+
+<p><strong>Your personal health:</strong>
+If you’re sick, it’s important that you stay home – no matter what you think you may be sick with (e.g., cold, flu, other). </p>
+
+<ul>
+<li>A daily self-health assessment is required before attending campus. Every day, before coming to class, complete the self-assessment for COVID symptoms using <a href="https://bc.thrive.health/covid19/en">this tool</a>.</li>
+<li>Do not come to class if you have COVID symptoms, have recently tested positive for COVID, or are required to quarantine. You can check <a href="http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation#Who">this website</a> to find out if you should self-isolate or self-monitor.</li>
+<li>Your precautions will help reduce risk and keep everyone safer.  In this class, the marking scheme is intended to provide flexibility so that you can prioritize your health and still be able to succeed.</li>
+</ul>
+
+<!--
+**You must send an email to the instructor to register, explaining why you wish to take the seminar and what your background in computer security or systems is.** If you wish to take the seminar without credit, just say so in your email.
+Places in the seminar are limited. However, non-credit participation is not subject to any cap.
+-->
+
+<p><a name="registration-and-prerequisites"></a></p>
+
+<h3 id="toc_6">4. Registration and Prerequisites</h3>
+
+<p><strong>Registration:</strong> Note, the last date to add/drop out of the course is <a href="http://www.calendar.ubc.ca/vancouver/index.cfm?page=deadlines">20 Sep 2021</a>.</p>
+
+<p><strong>Prerequisites</strong></p>
+
+<ul>
+<li>Knowledge of C/C++</li>
+<li>Undergraduate knowledge of operating systems, architecture, networking</li>
+</ul>
+
+<p>Any background in security is welcome but not required.
+The course is intended for Masters and Ph.D. students in Computer Science, but enterprising Bachelors students who fulfill the above pre-requisites are welcome to participate.</p>
+
+<p><a name="course-structure-and-grading"></a></p>
+
+<h3 id="toc_7">5. Course structure and grading</h3>
+
+<p>This course is structured as a seminar. Every class, one student will present a paper, which will then be discussed in the class. Depending on the number of registered students, two students may be required to present a paper each in some classes. Before each class, all students are expected to read the paper, write a short critical review of the paper, and prepare a list of discussion points. Students should use the online Piazza class forum to seek answers on basic, clarification questions. The class discussion will focus on deeper questions. In addition, there will be one or two assignments (first half of the term), and an exploratory project component.</p>
+
+<p><strong>Grading:</strong> Your course grade will be based on the following breakdown. The course staff reserves the right to change the scheme, but we do not anticipate using that right except in consultation with the class as a whole.
+<!-- (tentative, subject to change until the beginning of the course) --></p>
+
+<ul>
+<li>Paper reviews: 20%</li>
+<li>Presentation: 20%</li>
+<li>Class participation: 10%</li>
+<li>Assignments (1-2 planned): 10%</li>
+<li>Project (1 planned): 40%</li>
+</ul>
+
+<p><strong>Paper reviews:</strong> Students must write a review for each paper, including (but not limited to) a summary of the problem addressed in the paper, the threat model and trust assumptions, the key ideas of the paper, the key techniques used, limitations of the paper, and potential ways to overcome the limitations.</p>
+
+<p>Students must write the reviews in their own words. Any text or resources copied from another source must be appropriately cited, otherwise, it will be construed as plagiarism.
+Students must write their paper reviews in latex and submit a PDF via Piazza.</p>
+
+<p>For the final grading on the paper reviews, we will consider top 80% of all the review scores. (The exact number of reviews to be considered will be determined after the final registration count.) The student presenting a paper need not write a review for the presented paper or submit discussion questions on Piazza.</p>
+
+<p><a name="presentations"></a>
+<strong>Paper presentation:</strong> Each student must give a 45-min presentation on their paper. In case two papers are to be presented on a day, each presenter will be required to give a 30-min presentation. The class discussion will begin after all presentations, and the presenter(s) will be expected to lead the discussion.</p>
+
+<p>Students are welcome to use powerpoint or a similar tool for presenting their slides. Each student must submit their presentation slides to the staff upto 30 min before the start of the class.
+<!-- Please convert the final slides into PDF before submission for ease of presentation.-->
+For in-person presentation, the staff will provide a laptop, a power adapter, an HDMI connector for projection, and a presenter remote. The laptop will be set up for simultaneous online streaming and in-class projection.
+<!-- The staff will also project a remote presentation in the classroom.--></p>
+
+<p>The presentation will be graded based on content, clarity,  delivery, and participation in the follow up discussion.</p>
+
+<p><a name="class-discussion"></a>
+<strong>Class participation:</strong>
+<!-- To get the most out of a course, it is important to actively participate in class discussions. Discussions not only help to clarify ideas but may also lead to identifying new ideas for exploration in many cases. Therefore, one component of grading in this course will be based on participation in paper discussions. -->
+Students can participate in discussions in class (in person or via the online chat) as well as on Piazza. If you are unable to attend a class on a given day, you can still get participation points by sharing discussion questions on Piazza before the class. Note that points will be given for quality of participation and not quantity.</p>
+
+<p><a name="assignment"></a>
+<strong>Assignment(s):</strong> Assignments must be done in teams of two. All assignments will be done on Raspberry Pi boards, which will be provided to you by the staff. Each team will be required to access their board via remote login only. The login credentials will be provided to you at the time of announcing the assignment. You are allowed to discuss the assignment with other teams via Piazza or other external communication methods. However, each team must implement the final solution and submit their report by themselves.
+<!-- <span style="color:red">Any form of plagiarism will lead to strict disciplinary action.</span> --></p>
+
+<p><a name="project"></a>
+<strong>Project:</strong> The course project must be done in teams of 2-4. The project deliverables will include a research statement, a research plan, a final paper, and an oral presentation. At each stage of the process, we will provide detailed feedback and suggestions. See <span style="color:red">this page</span> for some ideas.</p>
+
+<p><a name="dates"></a></p>
+
+<h3 id="toc_8">6. Important Dates</h3>
+
+<p>See below for the <a href="#tentative-reading-list">paper schedule</a>.</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tue, 07/09</td>
+            <td>Imagine Day</td>
+        </tr>
+        <tr>
+            <td>Wed, 08/09</td>
+            <td>First day of regular classes</td>
+        </tr>
+        <tr>
+            <td rowspan=2>Thu, 09/09</td>
+            <td>Submit preferences for paper presentation slots</td>
+        </tr>
+        <tr>
+            <td>Announcement of assigned presentation slots</td>
+        </tr>
+        <tr>
+            <td rowspan=2>Wed, 15/09</td>
+            <td>Announcement of assignment</td>
+        </tr>
+        <tr>
+            <td>Submit team information for assignments and project</td>
+        </tr>
+        <tr>
+            <td>Mon, 20/09</td>
+            <td>Course add/drop deadline</td>
+        </tr>
+        <tr>
+            <td>Thu, 30/09</td>
+            <td>National Day for Truth and Reconciliation (UBC closed)</td>
+        </tr>
+        <tr>
+            <td>Wed, 06/10</td>
+            <td>Assginment due</td>
+        </tr>
+        <tr>
+            <td>Mon, 11/10</td>
+            <td>Thanksgiving (UBC closed)</td>
+        </tr>
+        <tr>
+            <td>Fri, 15/10</td>
+            <td>Research proposal due</td>
+        </tr>
+        <tr>
+            <td>Nov first week (tentative)</td>
+            <td>Schedule feedback session on research plan</td>
+        </tr>
+        <tr>
+            <td>Wed–Fri, 10/11 – 12/11</td>
+            <td>Mid-term break</td>
+        </tr>
+        <tr>
+            <td>01/12 (tentative)</td>
+            <td>Project presentations</td>
+        </tr>
+        <tr>
+            <td>06/12 (tentative)</td>
+            <td>Project presentations</td>
+        </tr>
+        <tr>
+            <td>22/12 (tentative</td>
+            <td>Final research paper due</td>
+        </tr>
+        
+    </tbody>
+</table>
 
 <p><a name="tentative-reading-list"></a></p>
 
-<h3 id="toc_5">Tentative reading list</h3>
+<h3 id="toc_9">7. Tentative schedule and reading list</h3>
+
+<p>Here is a tentative schedule of papers to be covered in the class. Depending on the number of registered students, we may add or drop some papers.</p>
+
+<p>Students must submit their top 3 preferences for paper presentation slots to the staff by <span style="color:red"><strong>09 Sep 2021, 12:00h PT</strong></span>. The paper presentation slots will be notified on <span style="color:red"><strong>09 Sep 2021, 17:00h PT</strong></span>. If a student needs to change their presentation slot later, they must find another registered student to swap their slot, and both students must confirm the swap with the instructor <strong>at least 7 days</strong> before the earlier presentation slot.</p>
 
 <!--
 * Timing
@@ -516,36 +707,57 @@ This course will give an overview of software-based side-channel attacks. We wil
 </tr>
 <tr>
 <td>17/11</td>
-<td>Side-channel leaks in web apps a reality today, a challenge tomorrow (<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/WebAppSideChannel-final.pdf">pdf</a>)<br><br></td>
+<td><strong>Reading 1:</strong> Side-channel leaks in web apps a reality today, a challenge tomorrow (<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/WebAppSideChannel-final.pdf">pdf</a>)<br><br><strong>Reading 2:</strong> Website Fingerprinting at Internet Scale (<a href="https://nymity.ch/tor-dns/pdf/Panchenko2016a.pdf">pdf</a>)</td>
 <td>TBD</td>
 </tr>
 <tr>
 <td>22/11</td>
-<td>Website Fingerprinting at Internet Scale (<a href="https://nymity.ch/tor-dns/pdf/Panchenko2016a.pdf">pdf</a>)</td>
-<td>TBD</td>
-</tr>
-<tr>
-<td>24/11</td>
 <td>Beauty and the Burst: Remote Identification of Encrypted Video Streams (<a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schuster.pdf">pdf</a>)</td>
 <td>TBD</td>
 </tr>
 <tr>
+<td>24/11</td>
+<td><strong>Reading 1:</strong> Traffic morphing: an efficient defense against statistical traffic analysis (<a href="https://www.ndss-symposium.org/wp-content/uploads/2017/09/wright.pdf">pdf</a>)<br><br><strong>Reading 2:</strong> Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks (<a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-tao.pdf">pdf</a>)</td>
+<td>TBD</td>
+</tr>
+<tr>
 <td>29/11</td>
-<td>Traffic morphing: an efficient defense against statistical traffic analysis (<a href="https://www.ndss-symposium.org/wp-content/uploads/2017/09/wright.pdf">pdf</a>)</td>
-<td>TBD</td>
-</tr>
-<tr>
-<td>01/12</td>
-<td>Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks (<a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-tao.pdf">pdf</a>)</td>
-<td>TBD</td>
-</tr>
-<tr>
-<td>06/12</td>
 <td>Pacer: Comprehensive Network Side-Channel Mitigation in the Cloud (<a href="https://arxiv.org/pdf/1908.11568.pdf">pdf</a>)</td>
 <td>TBD</td>
 </tr>
 </tbody>
 </table>
+
+<!--
+| Date | Paper | Presenter |
+|---|---|---|
+| 08/09 | Overview | Aastha |
+| 13/09 | Cache-timing attacks on AES ([pdf](https://cr.yp.to/antiforgery/cachetiming-20050414.pdf)) | TBD |
+| 15/09 | Flush+Reload: A High Resolution, Low Noise, L3 Cache Side-Channel Attack ([pdf](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-yarom.pdf))<br><span style="color:red">**assignment out**</span> | TBD |
+| 20/09 | **Reading 1:** Cache Template Attacks: Automating Attacks on Inclusive Last-Level Caches ([pdf](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-gruss.pdf))<br><br>**Reading 2:** ARMageddon: Cache Attacks on Mobile Devices ([pdf](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_lipp.pdf))<br><span style="color:red">**course add/drop deadline**</span> | TBD |
+| 22/09 | NetCAT: practical cache attacks from network ([pdf](https://download.vusec.net/papers/netcat_sp20.pdf)) | TBD |
+| 27/09 | Predictive Black-Box Mitigation of Timing Channels ([pdf](https://www.cs.cornell.edu/andru/papers/ccs10.pdf)) | TBD |
+| 29/09 | CATalyst: Defeating last-level cache side channel attacks in cloud computing ([link](https://ieeexplore.ieee.org/document/7446082)) | TBD |
+| 04/10 | **Reading 1:** Robust and efficient elimination of cache and timing side channels ([pdf](https://arxiv.org/pdf/1506.00189.pdf))<br><br>**Reading 2:** Scheduler-based defenses against cross-vm side channels ([pdf](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-varadarajan.pdf)) | TBD |
+| 06/10 | Controlled-Channel Attacks: Deterministic Side Channels for Untrusted Operating Systems ([link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7163052))<br><br><span style="color:red">**assignment due**</span> | TBD |
+| 11/10 | *Thanksgiving Holiday* | *Thanksgiving Holiday* |
+| 13/10 | **Reading 1:** Telling Your Secrets Without Page Faults: Stealthy Page Table-Based Attacks on Enclaved Execution ([pdf](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-van_bulck.pdf))<br><br>**Reading 2:** Autarky: Closing controlled channel attacks with self-paging enclaves ([pdf](https://ieeexplore.ieee.org/abstract/document/9505138))<br><br>*Additional links:* SGX-Step: A Practical Attack Framework for Precise Enclave Execution Control ([link](https://github.com/jovanbulck/sgx-step)) | TBD |
+| 18/10 | **Main reading:** Meltdown: Reading Kernel Memory from User Space ([pdf](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-lipp.pdf))<br><br>*Additional links:* https://transient.fail | TBD |
+| 20/10 | **Reading 1:** Spectre Attacks: Exploiting Speculative Execution ([link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835233))<br><br>**Reading 2:** An Analysis of Speculative Type Confusion Vulnerabilities in the Wild ([pdf](https://www.usenix.org/system/files/sec21summer_kirzner.pdf))<br><br>*Additional links:* Reproducing Spectre Attack with gem5 ([link](https://pierreay.github.io/reproduce-spectre-gem5/)) | TBD |
+| 25/10 | Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution ([pdf](https://cseweb.ucsd.edu/~dstefan/cse227-fall18/papers/van-bulck:foreshadow.pdf)) | TBD |
+| 27/10 | Efficiently Mitigating Transient Execution Attacks using the Unmapped Speculation Contract ([pdf](https://www.usenix.org/system/files/osdi20-behrens.pdf)) | TBD |
+| 01/11 | Swivel: Hardening WebAssembly against Spectre ([pdf](https://cseweb.ucsd.edu/~dstefan/pubs/narayan:2021:swivel.pdf)) | TBD |
+| 03/11 | New Models for Understanding and Reasoning about Speculative Execution Attacks ([arxiv](https://arxiv.org/pdf/2009.07998.pdf)) | TBD |
+| 08/11 | Rendered Insecure: GPU Side Channel Attacks are Practical ([pdf](https://www.cs.ucr.edu/~zhiyunq/pub/ccs18_gpu_side_channel.pdf)) | TBD |
+| 10/11 | *mid-term break* | *mid-term break* |
+| 15/11 | **Reading 1:** Visor: Privacy-Preserving Video Analytics as a Cloud Service ([pdf](https://www.usenix.org/system/files/sec20-poddar.pdf))<br><br>**Reading 2:** Telekine: Secure Computing with Cloud GPUs ([pdf](https://www.usenix.org/system/files/nsdi20-paper-hunt.pdf))<br><br>*Optional reading:* Oblivious Coopetitive Analytics Using Hardware Enclaves ([pdf](https://dl.acm.org/doi/pdf/10.1145/3342195.3387552)) | TBD |
+| 17/11 | Side-channel leaks in web apps a reality today, a challenge tomorrow ([pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/WebAppSideChannel-final.pdf))<br><br>| TBD |
+| 22/11 | Website Fingerprinting at Internet Scale ([pdf](https://nymity.ch/tor-dns/pdf/Panchenko2016a.pdf)) | TBD |
+| 24/11 | Beauty and the Burst: Remote Identification of Encrypted Video Streams ([pdf](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schuster.pdf)) | TBD |
+| 29/11 | Traffic morphing: an efficient defense against statistical traffic analysis ([pdf](https://www.ndss-symposium.org/wp-content/uploads/2017/09/wright.pdf)) | TBD |
+| 01/12 | Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks ([pdf](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-tao.pdf)) | TBD |
+| 06/12 | Pacer: Comprehensive Network Side-Channel Mitigation in the Cloud ([pdf](https://arxiv.org/pdf/1908.11568.pdf)) | TBD |
+-->
 
 <!--
 | 04/10 | FaCT: A DSL for Timing-Sensitive Computation ([pdf](https://ranjitjhala.github.io/static/fact_dsl.pdf)) | TBD |
@@ -560,7 +772,7 @@ This course will give an overview of software-based side-channel attacks. We wil
 | 07/04 | TBD | TBD |
 -->
 
-<h4 id="toc_6">Additional reading</h4>
+<h4 id="toc_10">Additional reading</h4>
 
 <ul>
 <li><a href="https://cseweb.ucsd.edu/%7Edstefan/cse227-spring19/papers/keshav:how.pdf">How to read a paper</a></li>
@@ -578,76 +790,18 @@ This course will give an overview of software-based side-channel attacks. We wil
 <li><a href="https://arxiv.org/abs/1811.05441">A systematic evaluation of transient execution attacks and defenses</a></li>
 </ul>
 
-<p><a name="assignment"></a></p>
-
-<h3 id="toc_7">Assignment</h3>
-
-<p><span style="color:red"> TBA </span></p>
-
-<p><a name="project"></a></p>
-
-<h3 id="toc_8">Project</h3>
-
-<p><span style="color:red"> TBA </span></p>
-
-<p><a name="course-structure-and-grading"></a></p>
-
-<h3 id="toc_9">Course structure and grading</h3>
-
-<p>The course is structured as a seminar. Every class, two students will present a paper each, which will then be discussed in the class. Before each class, all students are expected to read the paper, prepare a list of discussion questions, and write a short critical review of the paper. There will be one or two assignments (first half of the term), and an exploratory project component.</p>
-
-<p>Grading (tentative, subject to change until the beginning of the course)</p>
-
-<ul>
-<li>Paper reviews: 20%</li>
-<li>Presentation: 20%</li>
-<li>Class participation: 20%</li>
-<li>Assignments: 20%</li>
-<li>Project: 20%</li>
-</ul>
-
-<p>The student presenting a paper need not write a review for the presented paper. Top 20 reviews will be considered for grading.</p>
-
-<p><a name="honor-code"></a></p>
-
-<h3 id="toc_10">Honor Code</h3>
-
-<p><span style="color:red">TBA</span></p>
-
-<p><a name="registration-and-prerequisites"></a></p>
-
-<h3 id="toc_11">Registration and Prerequisites</h3>
-
-<ul>
-<li>Knowledge of C/C++</li>
-<li>Undergraduate knowledge of operating systems, architecture, networking</li>
-</ul>
-
-<p>Any background in security is welcome but not required.
-The course is intended for Masters and Ph.D. students in Computer Science, but enterprising Bachelors students who fulfill above pre-requisites are welcome to participate.</p>
-
-<p><a name="covid-safety-in-the-classroom"></a></p>
-
-<h3 id="toc_12">Covid Safety in the Classroom</h3>
-
-<p><strong>Masks:</strong> Masks are required for all indoor classes, as per the BC Public Health Officer orders. For our in-person meetings in this class, it is important that all of us feel as comfortable as possible engaging in class activities while sharing an indoor space.  For the purposes of this order, the term “masks” refers to medical and non-medical masks that cover our noses and mouths.  Masks are a primary tool to make it harder for Covid-19 to find a new host.  You will need to wear a medical or non-medical mask for the duration of our class meetings, for your own protection, and the safety and comfort of everyone else in the class.  You may be asked to remove your mask briefly for an ID check for an exam, but otherwise, your mask should cover your nose and mouth. Please do not eat in class. If you need to drink water/coffee/tea/etc, please keep your mask on between sips. Please note that there are some people who cannot wear a mask. These individuals are equally welcome in our class. </p>
-
-<p><strong>Vaccination:</strong> If you have not yet had a chance to get vaccinated against Covid-19, vaccines are available to you, free, and on campus (<a href="http://www.vch.ca/covid-19/covid-19-vaccine#vaccination">link</a>). The higher the rate of vaccination in our community overall, the lower the chance of spreading this virus.  You are an important part of the UBC community. Please arrange to get vaccinated if you have not already done so.</p>
-
-<p><strong>Seating in class:</strong> To reduce the risk of Covid transmission, please sit in a consistent area of the classroom each day.  This will minimize your contacts and will still allow for the pedagogical methods planned for this class to help your learning.  </p>
-
-<p><strong>Your personal health:</strong>
-If you’re sick, it’s important that you stay home – no matter what you think you may be sick with (e.g., cold, flu, other). </p>
-
-<ul>
-<li>A daily self-health assessment is required before attending campus. Every day, before coming to class, complete the self-assessment for Covid symptoms using this tool: https://bc.thrive.health/covid19/en</li>
-<li>Do not come to class if you have Covid symptoms, have recently tested positive for Covid, or are required to quarantine. You can check this website to find out if you should self-isolate or self-monitor: http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation#Who.</li>
-<li>Your precautions will help reduce risk and keep everyone safer.  In this class, the marking scheme is intended to provide flexibility so that you can prioritize your health and still be able to succeed.</li>
-</ul>
-
 <!--
-**You must send an email to the instructor to register, explaining why you wish to take the seminar and what your background in computer security or systems is.** If you wish to take the seminar without credit, just say so in your email.
-Places in the seminar are limited. However, non-credit participation is not subject to any cap.
+<a name="assignment"></a>
+### Assignment
+<span style="color:red"> TBA </span>
+
+<a name="project"></a>
+### Project
+<span style="color:red"> TBA </span>
+
+<a name="honor-code"></a>
+### Honor Code
+<span style="color:red">TBA</span>
 -->
 
 
