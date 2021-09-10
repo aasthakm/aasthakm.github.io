@@ -335,66 +335,13 @@ kbd {
 
 <p>The goal of the project is to provide the opportunity for you to conduct some research in some security-oriented topic.</p>
 
-<h3 id="toc_1">A. Project ideas</h3>
+<h3 id="toc_1">A. Deliverables</h3>
 
-<p>Below is a list of project ideas. More ideas might get added later, so keep checking here in case you don&#39;t find something interesting yet or get stuck in an idea. These projects may sound vague and open-ended. Scoping out a concrete problem is a part of the research process that you will learn, and the staff is available to brainstorm with you and help with this process. Please meet with us in our office hours or schedule an appointment.</p>
+<p>In the project, you must propose a research project with a problem statment and a research plan, conduct the research, and write up your research results and experience. There are three deliverables in the project: a research proposal, a final presentation, and a final report.</p>
 
-<p>You are also welcome to propose your own ideas.</p>
+<p><span style="color:red"><strong>Note:</strong></span> It is okay if you do not complete a full-fledged project by the end of the term. The goal is to learn how to go from a one-line problem to a fully scoped out research problem, then try and identify potential solutions. If a topic is difficult and you do not reach the practical implementation stage, that will be fine.</p>
 
-<h5 id="toc_2">1. Design side-channel attacks for a FaaS-like platform.</h5>
-
-<p>This project is about overcoming the practical challenges of performing side-channel attacks in a function-as-a-service (FaaS)/serverless platform. In a FaaS platform, the cloud provider schedules the tenant applications (functions). There is an upper bound on the function execution time (e.g., 15 min in AWS), after which it is descheduled. This limit poses a challenge for an adversary targetting FaaS applications. Identify strategies that could be adopted by an adversarial FaaS application to maximize leakage of secrets from a victim application.</p>
-
-<!--
-##### 2. Analyze transient execution attacks in eBPF.
-Several patches were added to mitigate spectre vulnerabilities in Linux eBPF. However, given the complexity of the eBPF code, vulnerabilities might still persist. Demonstrate the feasibility of spectre attacks in eBPF filters.
-
-##### 2. Perform a systematic evaluation of the overheads of enabling mitigations for various spectre variants in an application.
-Some mitigations are implemented as kernel patches, others require patching in applications. Moreover, 
-
-##### 3. Build a tool to detect as many types of side-channel vulnerabilities as possible in an application, e.g. a web application framework.
--->
-
-<h5 id="toc_3">2. Implement a simple, secure-by-construction serverless application.</h5>
-
-<p>A serverless application can be much smaller than traditional monolithic applications. Implement a serverless application in a way that it is immune to memory, cache, and timing side channel leaks. How would you modify the code and data access patterns in the application to achieve this?</p>
-
-<!--
-##### 5. Explore program synthesis style approach for synthesizing constant-time transformations for applications.
--->
-
-<h5 id="toc_4">3. Design constant-time transformations for an interpreted language, such as python or javascript.</h5>
-
-<p>Constant-time transformation techniques have been widely studied in crypto libraries that are often implemented in native languages or domain-specific languages (e.g., <a href="https://eprint.iacr.org/2015/1153.pdf">Obliv-C</a>, <a href="https://dl.acm.org/doi/pdf/10.1145/3314221.3314605">FaCT</a>). Can we extend these techniques to applications (e.g., serverless) that may be written in languages like python or javascript, which are interpreted languages?</p>
-
-<h5 id="toc_5">4. Design generalized, automatic data-oblivious transformations for ML frameworks.</h5>
-
-<p>Some papers have demonstrated how ML algorithms can be transformed to be data oblivious. (e.g, <a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_ohrimenko.pdf">oblivML</a>, <a href="https://www.usenix.org/system/files/sec20-poddar.pdf">Visor</a>). However, these transformations are tailored to specific instances of ML algorithms and models. For example, a change in the number of layers in a DNN may require generating transformation from scratch. Design techniques to enable automatic and possibly incremental transformations of ML algorithms and models.</p>
-
-<h5 id="toc_6">5. Develop a tool based on the new models for speculative execution leaks <a href="https://arxiv.org/pdf/2009.07998.pdf">paper</a> and test on gem5 simulator.</h5>
-
-<p>The paper proposes that transient execution attacks can be thought of as ordered dependency graphs with missing security dependency edges. This is a theoretical model, and the goal of this project is
-build a tool based on this model, and use it to (1) analyze leaks in specific applications, and (2) evaluate the efficiency of mitigations implemented at different levels in the architecture pipeline.</p>
-
-<h5 id="toc_7">6. Design an efficient traffic shaping algorithm for an interactive, multi-tier application.</h5>
-
-<p><a href="https://arxiv.org/pdf/1908.11568.pdf">Pacer</a> provides a profiling tool to compute traffic shapes in single-tier web services with a single request-response style workload. Most modern web services are much more complex. Extend the profiling tool to compute traffic shapes for a multi-tier web application.</p>
-
-<h5 id="toc_8">7. Design a resource-efficient network side-channel mitigation system for IoT/edge devices.</h5>
-
-<p>Network side channels can also cause leaks in applications executing in IoT and edge devices. A solution like Pacer is too heavyweight for these resource-constrained devices. Design a resource-efficient mitigation system for these devices.</p>
-
-<h5 id="toc_9">8. Analyze side-channel threats in industrial robots.</h5>
-
-<p>Industrial robots, lab automation tools may be controlled over internet / 5g in future. The actual task being performed by these robot or automation tool, e.g., a machine assembly or a chemistry experiment, may be an intellectual property of the company. In this case, while the communication over public Internet is secure against direct attacks, side channels can still possibly leak the experiment secrets. Demonstate side-channel leaks in such a setup, and suggest solutions based on the ideas presented during the seminar.</p>
-
-<p><strong>Projects overlapping with other research:</strong> You could undertake a project related to your own research, if you can demonstrate how it is related to and/or influenced by some topic from CPSC 538M. In other words, your project in CPSC 538M must extend your research work in some new and/or different way.</p>
-
-<h3 id="toc_10">B. Deliverables</h3>
-
-<p>In the project, you must propose a research project with a problem statment and a research plan, conduct the research, and write up your research results and experience. There are three deliverables in the project: a research proposal, a final presentation, and a final report. Only the final presentation and report will be graded, but you will still need to draft out a good proposal in order to be able to do well on the later components.</p>
-
-<h4 id="toc_11">1. Research proposal (30%)</h4>
+<h4 id="toc_2">1. Research proposal (30%)</h4>
 
 <p>The proposal should include the following sections and must be minimally three pages.
 <br><br>
@@ -410,17 +357,72 @@ build a tool based on this model, and use it to (1) analyze leaks in specific ap
 
 <p><strong>Experimental setup:</strong> What equipment, software, tools do you need for your solution and evaluation? If you need anything specific, please speak to us as soon as possible.</p>
 
-<h4 id="toc_12">2. Feedback sessions</h4>
+<h4 id="toc_3">2. Feedback sessions</h4>
 
 <p>We encourage you to come talk to us to discuss your project and get feedback on the idea, methodology, etc. At the minimum, we expect to meet with you once before the proposal submission deadline and once before the in-class presentation. You can schedule more meetings with us on an on-demand basis.</p>
 
-<h4 id="toc_13">3. In-class presentation (20%)</h4>
+<h4 id="toc_4">3. In-class presentation (20%)</h4>
 
 <p>Each team will present a short talk about their project. You should plan for a 10 min presentation with 2-5 min for questions and answers. The presentation would be similar to a conference or workshop talk. Focus on presenting the motivation, the problem, one key idea of your solution, and the results. You should be able to motivate your audience to read your final reports.</p>
 
-<h4 id="toc_14">4. Final report (50%)</h4>
+<h4 id="toc_5">4. Final report (50%)</h4>
 
 <p>The final report is like a short research paper. The paper must include similar sections as in the proposal but written in a way to describe what has been done. Additionally, add a section describing the limitations of your work and how the research can be extended (by you or someone else) in the future. We expect that many of these reports will be suitable for a conference or workshop submission, and we will be happy to work with you to conver them into submissions.</p>
+
+<h3 id="toc_6">B. Project ideas</h3>
+
+<p>Below is a list of project ideas. More ideas might get added later, so keep checking here in case you don&#39;t find something interesting yet or get stuck in an idea. These projects may sound vague and open-ended. Scoping out a concrete problem is a part of the research process that you will learn, and the staff is available to brainstorm with you and help with this process. Please meet with us in our office hours or schedule an appointment.</p>
+
+<p>You are also welcome to propose your own ideas.</p>
+
+<h5 id="toc_7">1. Design side-channel attacks for a FaaS-like platform.</h5>
+
+<p>This project is about overcoming the practical challenges of performing side-channel attacks in a function-as-a-service (FaaS)/serverless platform. In a FaaS platform, the cloud provider schedules the tenant applications (functions). There is an upper bound on the function execution time (e.g., 15 min in AWS), after which it is descheduled. This limit poses a challenge for an adversary targetting FaaS applications. Identify strategies that could be adopted by an adversarial FaaS application to maximize leakage of secrets from a victim application.</p>
+
+<!--
+##### 2. Analyze transient execution attacks in eBPF.
+Several patches were added to mitigate spectre vulnerabilities in Linux eBPF. However, given the complexity of the eBPF code, vulnerabilities might still persist. Demonstrate the feasibility of spectre attacks in eBPF filters.
+
+##### 2. Perform a systematic evaluation of the overheads of enabling mitigations for various spectre variants in an application.
+Some mitigations are implemented as kernel patches, others require patching in applications. Moreover, 
+
+##### 3. Build a tool to detect as many types of side-channel vulnerabilities as possible in an application, e.g. a web application framework.
+-->
+
+<h5 id="toc_8">2. Implement a simple, secure-by-construction serverless application.</h5>
+
+<p>A serverless application can be much smaller than traditional monolithic applications. Implement a serverless application in a way that it is immune to memory, cache, and timing side channel leaks. How would you modify the code and data access patterns in the application to achieve this?</p>
+
+<!--
+##### 5. Explore program synthesis style approach for synthesizing constant-time transformations for applications.
+-->
+
+<h5 id="toc_9">3. Design constant-time transformations for an interpreted language, such as python or javascript.</h5>
+
+<p>Constant-time transformation techniques have been widely studied in crypto libraries that are often implemented in native languages or domain-specific languages (e.g., <a href="https://eprint.iacr.org/2015/1153.pdf">Obliv-C</a>, <a href="https://dl.acm.org/doi/pdf/10.1145/3314221.3314605">FaCT</a>). Can we extend these techniques to applications (e.g., serverless) that may be written in languages like python or javascript, which are interpreted languages?</p>
+
+<h5 id="toc_10">4. Design generalized, automatic data-oblivious transformations for ML frameworks.</h5>
+
+<p>Some papers have demonstrated how ML algorithms can be transformed to be data oblivious. (e.g, <a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_ohrimenko.pdf">oblivML</a>, <a href="https://www.usenix.org/system/files/sec20-poddar.pdf">Visor</a>). However, these transformations are tailored to specific instances of ML algorithms and models. For example, a change in the number of layers in a DNN may require generating transformation from scratch. Design techniques to enable automatic and possibly incremental transformations of ML algorithms and models.</p>
+
+<h5 id="toc_11">5. Develop a tool based on the new models for speculative execution leaks <a href="https://arxiv.org/pdf/2009.07998.pdf">paper</a> and test on gem5 simulator.</h5>
+
+<p>The paper proposes that transient execution attacks can be thought of as ordered dependency graphs with missing security dependency edges. This is a theoretical model, and the goal of this project is
+build a tool based on this model, and use it to (1) analyze leaks in specific applications, and (2) evaluate the efficiency of mitigations implemented at different levels in the architecture pipeline.</p>
+
+<h5 id="toc_12">6. Design an efficient traffic shaping algorithm for an interactive, multi-tier application.</h5>
+
+<p><a href="https://arxiv.org/pdf/1908.11568.pdf">Pacer</a> provides a profiling tool to compute traffic shapes in single-tier web services with a single request-response style workload. Most modern web services are much more complex. Extend the profiling tool to compute traffic shapes for a multi-tier web application.</p>
+
+<h5 id="toc_13">7. Design a resource-efficient network side-channel mitigation system for IoT/edge devices.</h5>
+
+<p>Network side channels can also cause leaks in applications executing in IoT and edge devices. A solution like Pacer is too heavyweight for these resource-constrained devices. Design a resource-efficient mitigation system for these devices.</p>
+
+<h5 id="toc_14">8. Analyze side-channel threats in industrial robots.</h5>
+
+<p>Industrial robots, lab automation tools may be controlled over internet / 5g in future. The actual task being performed by these robot or automation tool, e.g., a machine assembly or a chemistry experiment, may be an intellectual property of the company. In this case, while the communication over public Internet is secure against direct attacks, side channels can still possibly leak the experiment secrets. Demonstate side-channel leaks in such a setup, and suggest solutions based on the ideas presented during the seminar.</p>
+
+<p><strong>Projects overlapping with other research:</strong> You could undertake a project related to your own research, if you can demonstrate how it is related to and/or influenced by some topic from CPSC 538M. In other words, your project in CPSC 538M must extend your research work in some new and/or different way.</p>
 
 
 
