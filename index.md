@@ -80,6 +80,9 @@ Summer 2013
 ### Service
 
 **Program Committee**
+
+- EuroSys 2022
+- ASPLOS 2022
 - [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)
 - [Systor 2021](https://www.systor.org/2021/)
 - [EuroSys 2021](https://2021.eurosys.org/)
@@ -96,6 +99,7 @@ Summer 2013
 ### News
 - Apr 2021, Received NSERC Discovery Grant.
 - Mar 2021, Invited to give a talk at IIT Kharagpur
+
 ### Awards & Honors
 - Received NSERC Discovery Grant (2021-2026).
 - Selected for [Rising Stars Workshop in EECS](https://risingstars18-eecs.mit.edu/). Oct 2018.
