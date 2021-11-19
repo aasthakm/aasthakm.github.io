@@ -17,6 +17,10 @@ Students with an interest and background in systems and/or security, please appl
 I am broadly interested in systems security, data privacy, operating systems, and distributed systems. I have worked on building [systems](http://thoth.mpi-sws.org/) that enable online services to comply with data privacy and usage policies, and prevent accidental disclosures due to bugs and misconfigurations. More recently, I have been working on solutions to ensure privacy in Cloud services in the face of side-channel disclosures. Currently, I am also exploring systems for effective contact tracing and epidemic risk notification in the context of COVID-19.
 
 ### Publications
+- Pacer: Network Side-Channel Mitigation in the Cloud [\[PDF\]](https://arxiv.org/pdf/1908.11568.pdf)<br>
+**Aastha Mehta**, Mohamed Alzayat, Roberta De Viti, Björn B. Brandenburg, Peter Druschel, Deepak Garg<br>
+(To appear at USENIX Security Symposium, 2022).
+
 - Listening to Bluetooth Beacons for Epidemic Risk Mitigation* [\[link\]](https://www.researchsquare.com/article/rs-150227/v1)<br>
 Gilles Barthe, Roberta De Viti, Peter Druschel, Deepak Garg, Manuel Gomez-Rodriguez, Pierfrancesco Ingo, Heiner Kremer Matthew Lentz, Lars Lorch, **Aastha Mehta**, Bernhard Schölkopf<br>
 Under review. 2021.<br>
@@ -30,10 +34,6 @@ White Paper, 2020.<br>
 - Ensuring Compliance with Data Privacy and Usage Policies in Online Services [\[PDF\]](https://www.mpi-sws.org/~aasthakm/files/AasthaMehta-PhDThesis-2020.pdf)<br>
 **Aastha Mehta**<br>
 PhD Thesis, 2020.
-
-- Pacer: Network Side-Channel Mitigation in the Cloud [\[PDF\]](https://arxiv.org/pdf/1908.11568.pdf)<br>
-**Aastha Mehta**, Mohamed Alzayat, Roberta De Viti, Björn B. Brandenburg, Peter Druschel, Deepak Garg<br>
-Under Submission.
 
 - Qapla: Policy compliance for database-backed systems [\[PDF\]](https://www.mpi-sws.org/~aasthakm/files/qapla.pdf) [\[Code\]](https://github.com/aasthakm/qapla)<br>
 **Aastha Mehta**, Eslam Elnikety, Katura Harvey, Deepak Garg, Peter Druschel<br>
@@ -72,8 +72,8 @@ Summer 2013
 
 **Program Committee**
 
-- EuroSys 2022
-- ASPLOS 2022
+- [EuroSys 2022](https://2022.eurosys.org/calls/call-for-papers/)
+- [ASPLOS 2022](https://asplos-conference.org/)
 - [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)
 - [Systor 2021](https://www.systor.org/2021/)
 - [EuroSys 2021](https://2021.eurosys.org/)
