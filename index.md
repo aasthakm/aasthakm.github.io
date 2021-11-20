@@ -34,6 +34,7 @@ White Paper, 2020.<br>
 - Ensuring Compliance with Data Privacy and Usage Policies in Online Services [\[PDF\]](https://www.mpi-sws.org/~aasthakm/files/AasthaMehta-PhDThesis-2020.pdf)<br>
 **Aastha Mehta**<br>
 PhD Thesis, 2020.
+<!-- http://dx.doi.org/10.22028/D291-32673 -->
 
 - Qapla: Policy compliance for database-backed systems [\[PDF\]](https://www.mpi-sws.org/~aasthakm/files/qapla.pdf) [\[Code\]](https://github.com/aasthakm/qapla)<br>
 **Aastha Mehta**, Eslam Elnikety, Katura Harvey, Deepak Garg, Peter Druschel<br>
