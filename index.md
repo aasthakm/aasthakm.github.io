@@ -40,7 +40,7 @@ PhD Thesis, 2020.
 **Aastha Mehta**, Eslam Elnikety, Katura Harvey, Deepak Garg, Peter Druschel<br>
 USENIX Security Symposium, 2017.
 
-- Thoth: Comprehensive Policy Compliance in Data Retrieval Systems [\[PDF\]](http://www.mpi-sws.org/~elnikety/Eslam_Elnikety_Web_Page_files/sec16_paper_elnikety.pdf)<br>
+- Thoth: Comprehensive Policy Compliance in Data Retrieval Systems [\[PDF\]](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_elnikety.pdf)<br>
 Eslam Elnikety, **Aastha Mehta**, Anjo Vahldiek-Oberwagner, Deepak Garg, Peter Druschel<br>
 USENIX Security Symposium, 2016.
 
