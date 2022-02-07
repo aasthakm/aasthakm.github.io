@@ -31,24 +31,24 @@ Gilles Barthe, Roberta De Viti, Peter Druschel, Deepak Garg, Manuel Gomez-Rodrig
 White Paper, 2020.<br>
 <span style="font-size:12px;">*Authors listed in alphabetical order</span>
 
-- Ensuring Compliance with Data Privacy and Usage Policies in Online Services [\[PDF\]](https://www.mpi-sws.org/~aasthakm/files/AasthaMehta-PhDThesis-2020.pdf)<br>
+- Ensuring Compliance with Data Privacy and Usage Policies in Online Services [\[PDF\]](https://aasthakm.github.io/files/AasthaMehta-PhDThesis-2020.pdf)<br>
 **Aastha Mehta**<br>
 PhD Thesis, 2020.
 <!-- http://dx.doi.org/10.22028/D291-32673 -->
 
-- Qapla: Policy compliance for database-backed systems [\[PDF\]](https://www.mpi-sws.org/~aasthakm/files/qapla.pdf) [\[Code\]](https://github.com/aasthakm/qapla)<br>
+- Qapla: Policy compliance for database-backed systems [\[PDF\]](https://aasthakm.github.io/files/sec17-qapla.pdf) [\[Code\]](https://github.com/aasthakm/qapla)<br>
 **Aastha Mehta**, Eslam Elnikety, Katura Harvey, Deepak Garg, Peter Druschel<br>
 USENIX Security Symposium, 2017.
 
-- Thoth: Comprehensive Policy Compliance in Data Retrieval Systems [\[PDF\]](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_elnikety.pdf)<br>
+- Thoth: Comprehensive Policy Compliance in Data Retrieval Systems [\[PDF\]](https://aasthakm.github.io/files/sec16-thoth.pdf)<br>
 Eslam Elnikety, **Aastha Mehta**, Anjo Vahldiek-Oberwagner, Deepak Garg, Peter Druschel<br>
 USENIX Security Symposium, 2016.
 
-- Oblivious Multi-Party Machine Learning on Trusted Processors [\[PDF\]](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_ohrimenko.pdf)<br>
+- Oblivious Multi-Party Machine Learning on Trusted Processors [\[PDF\]](https://aasthakm.github.io/files/sec16-oblivML.pdf)<br>
 Olga Ohrimenko, Felix Schuster, Cédric Fournet, **Aastha Mehta**, Sebastian Nowozin, Kapil Vaswani, Manuel Costa<br>
 USENIX Security Symposium, 2016.
 
-- Guardat: Enforcing data policies at the storage layer [\[PDF\]](http://www.mpi-sws.org/~aasthakm/files/eurosys15-guardat.pdf)<br>
+- Guardat: Enforcing data policies at the storage layer [\[PDF\]](https://aasthakm.github.io/files/eurosys15-guardat.pdf)<br>
 Anjo Vahldiek, Eslam Elnikety, **Aastha Mehta**, Deepak Garg, Peter Druschel, Ansley Post, Rodrigo Rodriguez, Johannes Gehrke<br>
 European Conference on Computer Systems (EuroSys), 2015.
 
