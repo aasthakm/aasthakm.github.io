@@ -21,7 +21,7 @@ I am broadly interested in systems security, data privacy, operating systems, an
 **Aastha Mehta**, Mohamed Alzayat, Roberta De Viti, Björn B. Brandenburg, Peter Druschel, Deepak Garg<br>
 (To appear at USENIX Security Symposium, 2022).
 
-- Listening to Bluetooth Beacons for Epidemic Risk Mitigation* [\[link\]](https://www.researchsquare.com/article/rs-150227/v1)<br>
+- Listening to Bluetooth Beacons for Epidemic Risk Mitigation* [\[PDF\]](https://www.nature.com/articles/s41598-022-09440-1.pdf)<br>
 Gilles Barthe, Roberta De Viti, Peter Druschel, Deepak Garg, Manuel Gomez-Rodriguez, Pierfrancesco Ingo, Heiner Kremer, Matthew Lentz, Lars Lorch, **Aastha Mehta**, Bernhard Schölkopf<br>
 Scientific Reports. 2022.<br>
 <span style="font-size:12px;">*Authors listed in alphabetical order</span>
