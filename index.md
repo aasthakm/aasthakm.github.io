@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <!-- ### Aastha Mehta -->
 
 <img src="imgs/Aastha_pic.jpg" class="wrap align-center">
