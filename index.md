@@ -5,7 +5,7 @@ layout: default
 
 <img src="imgs/Aastha_pic.jpg" class="wrap align-center">
 
-### About
+## About
 
 I am a Tenure-Track Assistant Professor in the [CS Department, University of British Columbia](https://www.cs.ubc.ca/).
 
@@ -17,7 +17,7 @@ I am broadly interested in systems security, data privacy, operating systems, an
 
 Students with an interest and background in systems and/or security, please apply [here](https://www.cs.ubc.ca/students/grad/admissions).
 
-### Publications
+## Publications
 - Pacer: Network Side-Channel Mitigation in the Cloud [\[PDF\]](https://aasthakm.github.io/files/sec22-pacer.pdf) [\[Tech Report\]](https://arxiv.org/pdf/1908.11568.pdf) [\[Code\]](https://gitlab.mpi-sws.org/pacer)<br>
 **Aastha Mehta**, Mohamed Alzayat, Roberta De Viti, Björn B. Brandenburg, Peter Druschel, Deepak Garg<br>
 (To appear at USENIX Security Symposium, 2022).
@@ -57,7 +57,7 @@ European Conference on Computer Systems (EuroSys), 2015.
 **Aastha Mehta**, Deepti Banka, Kartheek Muthyala, Priya Sehgal, Ajay Bakre<br>
 Student Research Symposium, International Conference on High Performance Computing (HiPC), 2011.
 
-### Group
+## Group
 
 #### Current
 - Amir Sabzi (MSc)
@@ -71,7 +71,7 @@ Student Research Symposium, International Conference on High Performance Computi
 - Ming Cheng Jiang (UG research, 2021)
 
 
-### Teaching
+## Teaching
 - Instructor [CPSC 538M Topics in Security and Privacy](https://aasthakm.github.io/courses/cpsc538m.html) (UBC Graduate Course)<br>
 Winter Term 1, Sep 2022
 
@@ -87,7 +87,7 @@ Summer 2016
 - Teaching Assistant [Operating Systems](http://courses.mpi-sws.org/os-ss13/) (UdS Graduate Core Course)<br>
 Summer 2013
 
-### Service
+## Service
 
 **Program Committee**
 
@@ -108,16 +108,16 @@ Summer 2013
 **Mentor**
 - [SOSP 2019 Mentoring Program](https://sosp19.rcs.uwaterloo.ca/mentoring.html)
 
-### News
+## News
 - Dec 2021, Received NSERC Defense Supplement for Discovery Grant.
 - Apr 2021, Received NSERC Discovery Grant.
 - Mar 2021, Invited to give a talk at IIT Kharagpur
 
-### Awards & Honors
+## Awards & Honors
 - Received NSERC Discovery Grant (2021-2026).
 - Selected for [Rising Stars Workshop in EECS](https://risingstars18-eecs.mit.edu/). Oct 2018.
 - Selected for [Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/event_2016/). My [Q&A with 6 out of 200](https://scilogs.spektrum.de/hlf/2499-2/) at HLF. Aug 2016.
 
-### Contact
+## Contact
 \<first name\>k\<last initial\>[AT]cs.ubc.ca
 
