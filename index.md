@@ -79,6 +79,8 @@ Summer 2013
 
 **Program Committee**
 
+- [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)
+- [Oakland S&P 2023](https://www.ieee-security.org/TC/SP2023/)
 - [EuroSys 2022](https://2022.eurosys.org/calls/call-for-papers/)
 - [ASPLOS 2022](https://asplos-conference.org/)
 - [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)
@@ -95,6 +97,7 @@ Summer 2013
 - [SOSP 2019 Mentoring Program](https://sosp19.rcs.uwaterloo.ca/mentoring.html)
 
 ### News
+- Dec 2021, Received NSERC Defense Supplement for Discovery Grant.
 - Apr 2021, Received NSERC Discovery Grant.
 - Mar 2021, Invited to give a talk at IIT Kharagpur
 
