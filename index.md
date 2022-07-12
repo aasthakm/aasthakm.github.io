@@ -67,6 +67,8 @@ Student Research Symposium, International Conference on High Performance Computi
 - Gokce Dilek (UG research, 2022)
 - Jae Han (Ryan) Kim (UG research, 2022)
 - Nichole Boufford (UG research, 2021)
+- Chenhao Xu (UG research, 2021)
+- Gwangkul (David) Kim (UG research, 2021)
 - Rowan Lindsay (UG research, 2021)
 - Ming Cheng Jiang (UG research, 2021)
 
