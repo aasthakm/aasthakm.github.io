@@ -11,13 +11,11 @@ I am a Tenure-Track Assistant Professor in the [CS Department, University of Bri
 
 I completed my PhD with [Peter Druschel](http://www.mpi-sws.org/~druschel/) and [Deepak Garg](http://www.mpi-sws.org/~dg/) from [Max Planck Institute for Software Systems (MPI-SWS)](http://www.mpi-sws.org/). Before my PhD, I worked at NetApp, Bengaluru (India), and completed my Bachelors in Computer Science from Birla Institute of Technology and Science (BITS) Pilani (India).
 
+I am broadly interested in systems security, data privacy, operating systems, and distributed systems. I have worked on building [systems](http://thoth.mpi-sws.org/) that enable online services to comply with data privacy and usage policies, and prevent accidental disclosures due to bugs and misconfigurations. More recently, I have been working on solutions to ensure privacy in Cloud services in the face of side-channel disclosures. Currently, I am also exploring systems for effective contact tracing and epidemic risk notification in the context of COVID-19.
+
 **I am looking for PhD students to join my group at UBC!**
 
 Students with an interest and background in systems and/or security, please apply [here](https://www.cs.ubc.ca/students/grad/admissions).
-
-### Research Interests
-
-I am broadly interested in systems security, data privacy, operating systems, and distributed systems. I have worked on building [systems](http://thoth.mpi-sws.org/) that enable online services to comply with data privacy and usage policies, and prevent accidental disclosures due to bugs and misconfigurations. More recently, I have been working on solutions to ensure privacy in Cloud services in the face of side-channel disclosures. Currently, I am also exploring systems for effective contact tracing and epidemic risk notification in the context of COVID-19.
 
 ### Publications
 - Pacer: Network Side-Channel Mitigation in the Cloud [\[PDF\]](https://aasthakm.github.io/files/sec22-pacer.pdf) [\[Tech Report\]](https://arxiv.org/pdf/1908.11568.pdf) [\[Code\]](https://gitlab.mpi-sws.org/pacer)<br>
@@ -58,6 +56,20 @@ European Conference on Computer Systems (EuroSys), 2015.
 - HDFS Space Consolidation<br>
 **Aastha Mehta**, Deepti Banka, Kartheek Muthyala, Priya Sehgal, Ajay Bakre<br>
 Student Research Symposium, International Conference on High Performance Computing (HiPC), 2011.
+
+### Group
+
+#### Current
+- Amir Sabzi (MSc)
+
+#### Past
+- Kasra Kamal (UG Honors Thesis, 2022, received [Rick Sample Memorial Award in CS](https://www.cs.ubc.ca/award/2022/05/rick-sample-memorial-award-computer-science))
+- Gokce Dilek (UG research, 2022)
+- Jae Han (Ryan) Kim (UG research, 2022)
+- Nichole Boufford (UG research, 2021)
+- Rowan Lindsay (UG research, 2021)
+- Ming Cheng Jiang (UG research, 2021)
+
 
 ### Teaching
 - Instructor [CPSC 538M Topics in Security and Privacy](https://aasthakm.github.io/courses/cpsc538m.html) (UBC Graduate Course)<br>
