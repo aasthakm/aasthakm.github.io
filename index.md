@@ -11,7 +11,7 @@ I am a Tenure-Track Assistant Professor in the [CS Department, University of Bri
 
 I completed my PhD with [Peter Druschel](http://www.mpi-sws.org/~druschel/) and [Deepak Garg](http://www.mpi-sws.org/~dg/) from [Max Planck Institute for Software Systems (MPI-SWS)](http://www.mpi-sws.org/). Before my PhD, I worked at NetApp, Bengaluru (India), and completed my Bachelors in Computer Science from Birla Institute of Technology and Science (BITS) Pilani (India).
 
-**I am hiring PhD and MS students to join my group at UBC!**
+**I am looking for PhD students to join my group at UBC!**
 
 Students with an interest and background in systems and/or security, please apply [here](https://www.cs.ubc.ca/students/grad/admissions).
 
