@@ -74,10 +74,10 @@ Student Research Symposium, International Conference on High Performance Computi
 
 
 ## Teaching
-- Instructor [CPSC 538M Topics in Security and Privacy](https://aasthakm.github.io/courses/cpsc538m.html) (UBC Graduate Course)<br>
+- Instructor [CPSC 538M: Systems Security](https://aasthakm.github.io/courses/cpsc538m.html) (UBC Graduate Course)<br>
 Winter Term 1, Sep 2022
 
-- Instructor [CPSC 538M Topics in Security and Privacy](https://aasthakm.github.io/courses/2021w1/cpsc538m.html) (UBC Graduate Course)<br>
+- Instructor [CPSC 538M: Security and Privacy in the Era of Side Channels](https://aasthakm.github.io/courses/2021w1/cpsc538m.html) (UBC Graduate Course)<br>
 Winter Term 1, Sep 2021
 
 - Co-Instructor [Operating Systems](https://courses.mpi-sws.org/os-ws19/) (UdS Graduate Core Course)<br>
