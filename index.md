@@ -60,7 +60,11 @@ Student Research Symposium, International Conference on High Performance Computi
 ## Group
 
 #### Current
-- Amir Sabzi (MSc)
+- Amir Sabzi (MSc, 2021 -)
+- Praveen Gupta (PhD-track MSc, 2022 -)
+- Rut Vora (MSc, 2022 -)
+- Yayu Wang (MSc, 2022 -)
+- Tanya Prasad (Undergrad Hons. Thesis, BITS Pilani, 2022 -)
 
 #### Past
 - Kasra Kamal (UG Honors Thesis, 2022, received [Rick Sample Memorial Award in CS](https://www.cs.ubc.ca/award/2022/05/rick-sample-memorial-award-computer-science))
