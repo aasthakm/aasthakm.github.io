@@ -78,6 +78,10 @@ Student Research Symposium, International Conference on High Performance Computi
 
 
 ## Teaching
+
+- Instructor CPSC 317: Internet Computing<br>
+Winter Term 2, Jan 2023
+
 - Instructor [CPSC 538M: Systems Security](https://aasthakm.github.io/courses/cpsc538m.html) (UBC Graduate Course)<br>
 Winter Term 1, Sep 2022
 
@@ -97,6 +101,7 @@ Summer 2013
 
 **Program Committee**
 
+- [SysTex 2023](https://systex.cs.fau.de/systex23/)
 - [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)
 - [Oakland S&P 2023](https://www.ieee-security.org/TC/SP2023/)
 - [EuroSys 2022](https://2022.eurosys.org/calls/call-for-papers/)
@@ -108,13 +113,23 @@ Summer 2013
 - [PriSC 2021](https://popl21.sigplan.org/home/prisc-2021)
 - [Middleware Doctoral Symposium 2020](https://2020.middleware-conference.org/call-for-doctoral-symposium.html)
   
-**Co-organizer**
-- [OSDI 2020 Mentoring Program](https://www.usenix.org/conference/osdi20/mentorship)
+**Organizer**
+
+- [ACM Student Research Competition @ SOSP 2023](https://src.acm.org/about)
+- [Poster session @ SOSP 2023](https://sosp2023.mpi-sws.org/)
+- [OSDI 2020 Mentoring Program](https://www.usenix.org/conference/osdi20/mentorship) (Co-organized with Natacha Crooks, Malte Schwarzkopf)
 
 **Mentor**
+
 - [SOSP 2019 Mentoring Program](https://sosp19.rcs.uwaterloo.ca/mentoring.html)
 
 ## News
+- Jan 2023, Invited to Dagstuhl seminar ["MAD: Microarchitectural Attacks and Defenses"](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23481)
+- Jan 2023, I will be chairing the poster session and ACM Student Research
+Competition at [SOSP 2023](https://sosp2023.mpi-sws.org/).
+- Sep 2022, Received funding from DND IDEaS for our pan-Canadian micro-net on ["A Platform for
+Secure and Dependable Hierarchical Edge Processing on 5G"](https://www.cs.ubc.ca/news/2022/09/15m-canadas-department-national-defence-fund-development-5g-edge-computing-research-network).
+- Aug 2022, Invited to give a talk at IIT Delhi
 - Dec 2021, Received NSERC Defense Supplement for Discovery Grant.
 - Apr 2021, Received NSERC Discovery Grant.
 - Mar 2021, Invited to give a talk at IIT Kharagpur
