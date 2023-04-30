@@ -18,9 +18,14 @@ I am broadly interested in systems security, data privacy, operating systems, an
 Students with an interest and background in systems and/or security, please apply [here](https://www.cs.ubc.ca/students/grad/admissions).
 
 ## Publications
+- Reconciling Security and Utility in Next Generation Epidemic Risk Mitigation System [\[PDF\]](https://arxiv.org/pdf/2011.08069.pdf)<br>
+Pierfrancesco Ingo, Nichole Boufford, Ming Cheng Jiang, Rowan Lindsay, Roberta De Viti, Matthew Lentz, Gilles Barthe, Manuel Gomez-Rodriguez, Bernhard Schölkopf, Deepak Garg, Peter Druschel, **Aastha Mehta**<br>
+Arxiv 2022.<br>
+<!-- <span style="font-size:12px;">*Authors listed in alphabetical order</span> -->
+
 - Pacer: Network Side-Channel Mitigation in the Cloud [\[PDF\]](https://aasthakm.github.io/files/sec22-pacer.pdf) [\[Tech Report\]](https://arxiv.org/pdf/1908.11568.pdf) [\[Code\]](https://gitlab.mpi-sws.org/pacer)<br>
 **Aastha Mehta**, Mohamed Alzayat, Roberta De Viti, Björn B. Brandenburg, Peter Druschel, Deepak Garg<br>
-(To appear at USENIX Security Symposium, 2022).
+USENIX Security Symposium, 2022.
 
 - Listening to Bluetooth Beacons for Epidemic Risk Mitigation* [\[PDF\]](https://www.nature.com/articles/s41598-022-09440-1.pdf)<br>
 Gilles Barthe, Roberta De Viti, Peter Druschel, Deepak Garg, Manuel Gomez-Rodriguez, Pierfrancesco Ingo, Heiner Kremer, Matthew Lentz, Lars Lorch, **Aastha Mehta**, Bernhard Schölkopf<br>
@@ -61,7 +66,7 @@ Student Research Symposium, International Conference on High Performance Computi
 
 #### Current
 - Amir Sabzi (MSc, 2021 -)
-- Praveen Gupta (PhD-track MSc, 2022 -)
+- Praveen Gupta (MSc, 2022 -)
 - Rut Vora (MSc, 2022 -)
 - Yayu Wang (MSc, 2022 -)
 - Tanya Prasad (Undergrad Hons. Thesis, BITS Pilani, 2022 -)
@@ -76,41 +81,51 @@ Student Research Symposium, International Conference on High Performance Computi
 - Rowan Lindsay (UG research, 2021)
 - Ming Cheng Jiang (UG research, 2021)
 
+<!--
+## Collaborators
+Pierfrancesco Ingo, Mathias Lécuyer, Margo Seltzer, Swati Goswami,
+Mohammad Shahrad, Arshia Moghimi, David Lie, Eyal De Lara, Oana Balmau, Julien Gascon-Samson
+-->
 
 ## Teaching
 
-- Instructor CPSC 317: Internet Computing<br>
+- Instructor, CPSC 317: Internet Computing<br>
 Winter Term 2, Jan 2023
 
-- Instructor [CPSC 538M: Systems Security](https://aasthakm.github.io/courses/cpsc538m.html) (UBC Graduate Course)<br>
+- Instructor, [CPSC 538M: Systems Security](https://aasthakm.github.io/courses/cpsc538m.html) (UBC Graduate Course)<br>
 Winter Term 1, Sep 2022
 
-- Instructor [CPSC 538M: Security and Privacy in the Era of Side Channels](https://aasthakm.github.io/courses/2021w1/cpsc538m.html) (UBC Graduate Course)<br>
+- Instructor, [CPSC 538M: Security and Privacy in the Era of Side Channels](https://aasthakm.github.io/courses/2021w1/cpsc538m.html) (UBC Graduate Course)<br>
 Winter Term 1, Sep 2021
 
-- Co-Instructor [Operating Systems](https://courses.mpi-sws.org/os-ws19/) (UdS Graduate Core Course)<br>
+- Co-Instructor, [Operating Systems](https://courses.mpi-sws.org/os-ws19/) (UdS Graduate Core Course)<br>
 Winter 2019
 
-- Teaching Assistant [Information Flow Control Systems](https://people.mpi-sws.org/~dg/teaching/ifcs2016/ifcs2016.html) (UdS Graduate Seminar)<br>
+- Teaching Assistant, [Information Flow Control Systems](https://people.mpi-sws.org/~dg/teaching/ifcs2016/ifcs2016.html) (UdS Graduate Seminar)<br>
 Summer 2016
 
-- Teaching Assistant [Operating Systems](http://courses.mpi-sws.org/os-ss13/) (UdS Graduate Core Course)<br>
+- Teaching Assistant, [Operating Systems](http://courses.mpi-sws.org/os-ss13/) (UdS Graduate Core Course)<br>
 Summer 2013
 
 ## Service
 
 **Program Committee**
 
+<!--**2023:**-->
 - [SysTex 2023](https://systex.cs.fau.de/systex23/)
 - [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)
 - [Oakland S&P 2023](https://www.ieee-security.org/TC/SP2023/)
+- [JSys (System Security area)](https://www.jsys.org/cfp_security/)
+<!--**2022:**-->
 - [EuroSys 2022](https://2022.eurosys.org/calls/call-for-papers/)
 - [ASPLOS 2022](https://asplos-conference.org/)
 - [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)
+<!--**2021:**-->
 - [Systor 2021](https://www.systor.org/2021/)
 - [EuroSys 2021](https://2021.eurosys.org/)
 - [EuroDW 2021](https://2021.eurosys.org/workshops.html#workshops)
 - [PriSC 2021](https://popl21.sigplan.org/home/prisc-2021)
+<!--**2020:**-->
 - [Middleware Doctoral Symposium 2020](https://2020.middleware-conference.org/call-for-doctoral-symposium.html)
   
 **Organizer**
@@ -130,12 +145,15 @@ Competition at [SOSP 2023](https://sosp2023.mpi-sws.org/).
 - Sep 2022, Received funding from DND IDEaS for our pan-Canadian micro-net on ["A Platform for
 Secure and Dependable Hierarchical Edge Processing on 5G"](https://www.cs.ubc.ca/news/2022/09/15m-canadas-department-national-defence-fund-development-5g-edge-computing-research-network).
 - Aug 2022, Invited to give a talk at IIT Delhi
+
+<!--
 - Dec 2021, Received NSERC Defense Supplement for Discovery Grant.
 - Apr 2021, Received NSERC Discovery Grant.
 - Mar 2021, Invited to give a talk at IIT Kharagpur
+-->
 
 ## Awards & Honors
-- Received NSERC Discovery Grant (2021-2026).
+- Received NSERC Discovery Grant (2021-2026) with a Defense Supplement (2021-2024).
 - Selected for [Rising Stars Workshop in EECS](https://risingstars18-eecs.mit.edu/). Oct 2018.
 - Selected for [Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/event_2016/). My [Q&A with 6 out of 200](https://scilogs.spektrum.de/hlf/2499-2/) at HLF. Aug 2016.
 
