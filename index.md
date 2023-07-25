@@ -69,9 +69,10 @@ Student Research Symposium, International Conference on High Performance Computi
 - Praveen Gupta (MSc, 2022 -)
 - Rut Vora (MSc, 2022 -)
 - Yayu Wang (MSc, 2022 -)
-- Tanya Prasad (Undergrad Hons. Thesis, BITS Pilani, 2022 -)
 
 #### Past
+- Tanya Prasad (MITACS Intern 2022 and UG Hons. Thesis, BITS Pilani, 2022 - 2023)
+- Aanandi Siddharth (UG research, 2022)
 - Kasra Kamal (UG Honors Thesis, 2022, received [Rick Sample Memorial Award in CS](https://www.cs.ubc.ca/award/2022/05/rick-sample-memorial-award-computer-science))
 - Gokce Dilek (UG research, 2022)
 - Jae Han (Ryan) Kim (UG research, 2022)
