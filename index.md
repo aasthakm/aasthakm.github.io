@@ -18,6 +18,8 @@ I am broadly interested in systems security, data privacy, operating systems, an
 Students with an interest and background in systems and/or security, please apply [here](https://www.cs.ubc.ca/students/grad/admissions).
 
 ## Publications
+To know more about our research, visit our [group web page](https://aasthakm.github.io/research/projects.html).
+
 - Reconciling Security and Utility in Next Generation Epidemic Risk Mitigation System [\[PDF\]](https://arxiv.org/pdf/2011.08069.pdf)<br>
 Pierfrancesco Ingo, Nichole Boufford, Ming Cheng Jiang, Rowan Lindsay, Roberta De Viti, Matthew Lentz, Gilles Barthe, Manuel Gomez-Rodriguez, Bernhard Schölkopf, Deepak Garg, Peter Druschel, **Aastha Mehta**<br>
 Arxiv 2022.<br>
