@@ -35,7 +35,7 @@
 	}
 
 	#sidebar {
-		$pad: calc(2em / 0.9);
+		$pad: (2em / 0.9);
 
 		@include vendor('flex-grow', '0');
 		@include vendor('flex-shrink', '0');
