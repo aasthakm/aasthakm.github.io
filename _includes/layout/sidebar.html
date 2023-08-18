@@ -1,0 +1,163 @@
+{% comment %}
+
+	Editorial by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+
+	Name:
+
+		Sidebar
+
+	Description:
+
+		Site navigation, related content, and contact info.
+
+	Example:
+
+		{% include layout/sidebar.html %}
+
+{% endcomment %}
+
+<!-- Sidebar -->
+	<div id="sidebar">
+		<div class="inner">
+
+			<!-- Search -->
+      <!--
+				<section id="search" class="alt">
+					<form method="post" action="#">
+						<input type="text" name="query" id="query" placeholder="Search" />
+					</form>
+				</section>
+      -->
+
+			<!-- Menu -->
+				<nav id="menu">
+					<header class="major">
+						<h2>Menu</h2>
+					</header>
+					<ul>
+						<li><a href="{{ site.baseurl }}/">Homepage</a></li>
+<!--						<li><a href="{{ site.baseurl }}/blog">Blog</a></li> -->
+						<li><a href="{{ site.baseurl }}/research/projects.html">Research</a></li>
+						<li><a href="{{ site.baseurl }}/group.html">Group</a></li>
+            <!--
+						<li>
+							<span class="opener">Submenu</span>
+							<ul>
+								<li><a href="#">Lorem Dolor</a></li>
+								<li><a href="#">Ipsum Adipiscing</a></li>
+								<li><a href="#">Tempus Magna</a></li>
+								<li><a href="#">Feugiat Veroeros</a></li>
+							</ul>
+						</li>
+            -->
+						<li><a href="{{ site.baseurl }}/publications.html" accesskey="2">Publications</a></li>
+            <!--
+						<li><a href="{{ site.baseurl }}/#publications" accesskey="2">Publications</a></li>
+						<li><a href="#group" accesskey="3">Group</a></li>
+            -->
+            <!--
+						<li>
+							<span class="opener">Another Submenu</span>
+							<ul>
+								<li><a href="#">Lorem Dolor</a></li>
+								<li><a href="#">Ipsum Adipiscing</a></li>
+								<li><a href="#">Tempus Magna</a></li>
+								<li><a href="#">Feugiat Veroeros</a></li>
+							</ul>
+						</li>
+            -->
+						<li><a href="{{ site.baseurl }}/teaching.html" accesskey="4">Teaching</a></li>
+						<li><a href="{{ site.baseurl }}/service.html" accesskey="5">Service</a></li>
+            <!--
+						<li><a href="#awards--honors" accesskey="6">Awards</a></li>
+            -->
+            <li><a href="https://aasthakm.github.io/files/Aastha_Mehta_CV.pdf" accesskey="7" title="">CV</a>
+            <!--
+						<li><a href="#contact" accesskey="8">Contact</a></li>
+            -->
+					</ul>
+				</nav>
+
+			<!-- Section -->
+        <!--
+				<section>
+					<header class="major">
+						<h2>News</h2>
+					</header>
+					<div class="mini-posts">
+						<article>
+							<a href="#" class="image"><img src="{{ site.baseurl }}/images/pic07.jpg" alt="" /></a>
+							<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+						</article>
+						<article>
+							<a href="#" class="image"><img src="{{ site.baseurl }}/images/pic08.jpg" alt="" /></a>
+							<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+						</article>
+					</div>
+					<ul class="actions">
+						<li><a href="#" class="button">More</a></li>
+					</ul>
+				</section>
+        -->
+
+			<!-- Section -->
+				<section>
+					<header class="major">
+						<h2>Contact</h2>
+					</header>
+					<!--
+          <p>Most days, I could be found in the ICICS building in room 335.</p>
+          -->
+					<ul class="contact">
+						<li class="icon solid fa-envelope">[first name]k[last initial]@cs.ubc.ca</li>
+						<!--
+            <li class="icon solid fa-phone">(000) 000-0000</li>
+            -->
+						<li class="icon solid fa-building">
+              Office: 335<br />
+              ICICS/CS Building<br />
+              201-2366 Main Mall<br />
+              Vancouver, V6T 1Z4<br />
+              BC, Canada
+            </li>
+					</ul>
+          <ul class="icons">
+            <!--			
+            <li><a href="mailto:aasthakm@cs.ubc.ca" class="icon solid fa-envelope"><span class="label">aasthakm@cs.ubc.ca</a></span></li>
+            -->
+            <!--
+            <li><a href="https://aasthakm.github.io/files/Aastha_Mehta_CV.pdf"
+            class="ai ai-cv ai-2p5x"></a></li>
+            <li><a href="https://scholar.google.com/citations?user=l1jObzoAAAAJ&hl=en"
+            class="ai ai-google-scholar ai-2p5x"></a></li>
+            -->
+            <li><a href="https://twitter.com/aasthakm" class="icon brands
+            fa-twitter fa-2x"><span class="label">Twitter</span></a></li>
+            <li><a href="https://www.facebook.com/aasthakm" class="icon brands
+            fa-facebook-f fa-2x"><span class="label">Facebook</span></a></li>
+            <li><a href="https://www.linkedin.com/in/aasthakmehta/" class="icon
+            brands fa-linkedin-in fa-2x"><span class="label">LinkedIn</span></a></li>
+            <!--
+            <li><a href="https://scholar.google.com/citations?user=l1jObzoAAAAJ&hl=en">
+            <span style="color: grey" class="label"><i class="ai ai-google-scholar ai-2x ai-pull-left"></i></span>
+            </a></li>
+            -->
+            <!--
+            <i class="ai ai-google-scholar big-icon"></i>
+            <li><a href="https://discuss.systems/@aasthakm" class="icon brands fa-mastodon"><span class="label">Mastodon</span></a></li>
+            <li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
+            <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+            <li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
+            -->
+          </ul>
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<p class="copyright">&copy; Aastha Mehta. All rights reserved.</p>
+				</footer>
+
+		</div>
+	</div>

@@ -3,28 +3,45 @@ layout: default
 ---
 <!-- ### Aastha Mehta -->
 
-<img src="imgs/Aastha_pic.jpg" class="wrap align-center">
-
+<section id="banner">
+  <div class="content">
+  <!--
 ## About
+  -->
 
-I am a Tenure-Track Assistant Professor in the [CS Department, University of British Columbia](https://www.cs.ubc.ca/).
+  <header>
+  <h1>Hi, I'm Aastha Mehta</h1>
+  </header>
+  <p><mark style="background-color:yellow"><b>I am looking for PhD students to join my group at UBC!</b></mark></p>
 
-I completed my PhD with [Peter Druschel](http://www.mpi-sws.org/~druschel/) and [Deepak Garg](http://www.mpi-sws.org/~dg/) from [Max Planck Institute for Software Systems (MPI-SWS)](http://www.mpi-sws.org/). Before my PhD, I worked at NetApp, Bengaluru (India), and completed my Bachelors in Computer Science from Birla Institute of Technology and Science (BITS) Pilani (India).
+  <p><b>Students with an interest and background in systems and/or security, please apply <a href="https://www.cs.ubc.ca/students/grad/admissions">here</a>.</b></p>
 
-I am broadly interested in systems security, data privacy, operating systems, and distributed systems. I have worked on building [systems](http://thoth.mpi-sws.org/) that enable online services to comply with data privacy and usage policies, and prevent accidental disclosures due to bugs and misconfigurations. More recently, I have been working on solutions to ensure privacy in Cloud services in the face of side-channel disclosures. Currently, I am also exploring systems for effective contact tracing and epidemic risk notification in the context of COVID-19.
+  <p>I am a Tenure-Track Assistant Professor in the <a href="https://www.cs.ubc.ca/">CS Department, University of British Columbia</a>.<br />
+  I am affiliated with the <a href="https://systopia.cs.ubc.ca">Systopia Lab</a>.
+  </p>
 
-**I am looking for PhD students to join my group at UBC!**
+  <p>I am broadly interested in systems security, data privacy, operating systems, and distributed systems. I have worked on building <a href="http://thoth.mpi-sws.org/">systems</a> that enable online services to comply with data privacy and usage policies, and prevent accidental disclosures due to bugs and misconfigurations. More recently, I have been working on solutions to ensure privacy in Cloud services in the face of side-channel disclosures. Currently, I am also exploring systems for effective contact tracing and epidemic risk notification in the context of COVID-19.</p>
 
-Students with an interest and background in systems and/or security, please apply [here](https://www.cs.ubc.ca/students/grad/admissions).
+  <p><b>Past:</b> I completed my PhD with <a href="http://www.mpi-sws.org/~druschel/">Peter Druschel</a> and <a href="http://www.mpi-sws.org/~dg/">Deepak Garg</a> from <a href="http://www.mpi-sws.org/">Max Planck Institute for Software Systems (MPI-SWS)</a>. Before my PhD, I worked at NetApp, Bengaluru (India), and completed my Bachelors in Computer Science from Birla Institute of Technology and Science (BITS) Pilani (India).</p>
 
+  </div>
+
+  <span class="image object">
+  <img src="imgs/Aastha_pic.jpg" class="wrap align-center">
+  </span>
+</section>
+
+<!--
 ## Publications
 To know more about our research, visit our [group web page](https://aasthakm.github.io/research/projects.html).
 
 - Reconciling Security and Utility in Next Generation Epidemic Risk Mitigation System [\[PDF\]](https://arxiv.org/pdf/2011.08069.pdf)<br>
 Pierfrancesco Ingo, Nichole Boufford, Ming Cheng Jiang, Rowan Lindsay, Roberta De Viti, Matthew Lentz, Gilles Barthe, Manuel Gomez-Rodriguez, Bernhard Schölkopf, Deepak Garg, Peter Druschel, **Aastha Mehta**<br>
 Arxiv 2022.<br>
+-->
 <!-- <span style="font-size:12px;">*Authors listed in alphabetical order</span> -->
 
+<!--
 - Pacer: Network Side-Channel Mitigation in the Cloud [\[PDF\]](https://aasthakm.github.io/files/sec22-pacer.pdf) [\[Tech Report\]](https://arxiv.org/pdf/1908.11568.pdf) [\[Code\]](https://gitlab.mpi-sws.org/pacer)<br>
 **Aastha Mehta**, Mohamed Alzayat, Roberta De Viti, Björn B. Brandenburg, Peter Druschel, Deepak Garg<br>
 USENIX Security Symposium, 2022.
@@ -42,8 +59,10 @@ White Paper, 2020.<br>
 - Ensuring Compliance with Data Privacy and Usage Policies in Online Services [\[PDF\]](https://aasthakm.github.io/files/AasthaMehta-PhDThesis-2020.pdf)<br>
 **Aastha Mehta**<br>
 PhD Thesis, 2020.
+-->
 <!-- http://dx.doi.org/10.22028/D291-32673 -->
 
+<!--
 - Qapla: Policy compliance for database-backed systems [\[PDF\]](https://aasthakm.github.io/files/sec17-qapla.pdf) [\[Code\]](https://github.com/aasthakm/qapla)<br>
 **Aastha Mehta**, Eslam Elnikety, Katura Harvey, Deepak Garg, Peter Druschel<br>
 USENIX Security Symposium, 2017.
@@ -63,7 +82,9 @@ European Conference on Computer Systems (EuroSys), 2015.
 - HDFS Space Consolidation<br>
 **Aastha Mehta**, Deepti Banka, Kartheek Muthyala, Priya Sehgal, Ajay Bakre<br>
 Student Research Symposium, International Conference on High Performance Computing (HiPC), 2011.
+-->
 
+<!--
 ## Group
 
 #### Current
@@ -83,6 +104,7 @@ Student Research Symposium, International Conference on High Performance Computi
 - Gwangkul (David) Kim (UG research, 2021)
 - Rowan Lindsay (UG research, 2021)
 - Ming Cheng Jiang (UG research, 2021)
+-->
 
 <!--
 ## Collaborators
@@ -90,6 +112,7 @@ Pierfrancesco Ingo, Mathias Lécuyer, Margo Seltzer, Swati Goswami,
 Mohammad Shahrad, Arshia Moghimi, David Lie, Eyal De Lara, Oana Balmau, Julien Gascon-Samson
 -->
 
+<!--
 ## Teaching
 
 - Instructor, CPSC 317: Internet Computing<br>
@@ -109,26 +132,35 @@ Summer 2016
 
 - Teaching Assistant, [Operating Systems](http://courses.mpi-sws.org/os-ss13/) (UdS Graduate Core Course)<br>
 Summer 2013
+-->
 
+<!--
 ## Service
 
 **Program Committee**
-
+-->
 <!--**2023:**-->
+<!--
 - [SysTex 2023](https://systex.cs.fau.de/systex23/)
 - [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)
 - [Oakland S&P 2023](https://www.ieee-security.org/TC/SP2023/)
 - [JSys (System Security area)](https://www.jsys.org/cfp_security/)
+-->
 <!--**2022:**-->
+<!--
 - [EuroSys 2022](https://2022.eurosys.org/calls/call-for-papers/)
 - [ASPLOS 2022](https://asplos-conference.org/)
 - [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)
+-->
 <!--**2021:**-->
+<!--
 - [Systor 2021](https://www.systor.org/2021/)
 - [EuroSys 2021](https://2021.eurosys.org/)
 - [EuroDW 2021](https://2021.eurosys.org/workshops.html#workshops)
 - [PriSC 2021](https://popl21.sigplan.org/home/prisc-2021)
+-->
 <!--**2020:**-->
+<!--
 - [Middleware Doctoral Symposium 2020](https://2020.middleware-conference.org/call-for-doctoral-symposium.html)
   
 **Organizer**
@@ -140,26 +172,40 @@ Summer 2013
 **Mentor**
 
 - [SOSP 2019 Mentoring Program](https://sosp19.rcs.uwaterloo.ca/mentoring.html)
+-->
 
-## News
-- Jan 2023, Invited to Dagstuhl seminar ["MAD: Microarchitectural Attacks and Defenses"](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23481)
-- Jan 2023, I will be chairing the poster session and ACM Student Research
-Competition at [SOSP 2023](https://sosp2023.mpi-sws.org/).
-- Sep 2022, Received funding from DND IDEaS for our pan-Canadian micro-net on ["A Platform for
-Secure and Dependable Hierarchical Edge Processing on 5G"](https://www.cs.ubc.ca/news/2022/09/15m-canadas-department-national-defence-fund-development-5g-edge-computing-research-network).
-- Aug 2022, Invited to give a talk at IIT Delhi
+<section>
+  <header class="major">
+  <h2> News </h2>
+  </header>
+  <div class="content">
+  <ul class="content">
+  <li>Aug 2023, Recognized as Noteworthy Reviewer at USENIX Security 2023.</li>
+  <li>Jan 2023, Invited to Dagstuhl seminar <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23481">"MAD: Microarchitectural Attacks and Defenses"</a>.</li>
+  <li>Jan 2023, I will be chairing the poster session and ACM Student Research
+  Competition at <a href="https://sosp2023.mpi-sws.org/">SOSP 2023</a>.</li>
+  <li>Sep 2022, Received funding from DND IDEaS for our pan-Canadian micro-net on <a href="https://www.cs.ubc.ca/news/2022/09/15m-canadas-department-national-defence-fund-development-5g-edge-computing-research-network">"A Platform for
+  Secure and Dependable Hierarchical Edge Processing on 5G"</a>.</li>
+  <li>Aug 2022, Invited to give a talk at IIT Delhi.</li>
 
 <!--
 - Dec 2021, Received NSERC Defense Supplement for Discovery Grant.
 - Apr 2021, Received NSERC Discovery Grant.
 - Mar 2021, Invited to give a talk at IIT Kharagpur
+</section>
 -->
 
+<!--
 ## Awards & Honors
 - Received NSERC Discovery Grant (2021-2026) with a Defense Supplement (2021-2024).
 - Selected for [Rising Stars Workshop in EECS](https://risingstars18-eecs.mit.edu/). Oct 2018.
 - Selected for [Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/event_2016/). My [Q&A with 6 out of 200](https://scilogs.spektrum.de/hlf/2499-2/) at HLF. Aug 2016.
+-->
 
+<!--
 ## Contact
-\<first name\>k\<last initial\>[AT]cs.ubc.ca
-
+-->
+<!-- \<first name\>k\<last initial\>[AT]cs.ubc.ca -->
+<!--
+[first name]k[last initial]@cs.ubc.ca
+-->
