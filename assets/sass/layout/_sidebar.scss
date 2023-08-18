@@ -119,7 +119,7 @@
 		}
 
 		@include breakpoint('<=xlarge') {
-			$pad: calc(1.5em / 0.9);
+			$pad: (1.5em / 0.9);
 
 			width: _size(sidebar-width-alt);
 
