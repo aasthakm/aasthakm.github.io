@@ -5,6 +5,11 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
+- NetShaper: A Differentially Private Network Side-Channel Mitigation System<br>
+Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, **Aastha Mehta**<br>
+USENIX Secuirty Symposium, 2024 (to appear).
+
+
 - Reconciling Security and Utility in Next Generation Epidemic Risk Mitigation System [\[PDF\]](https://arxiv.org/pdf/2011.08069.pdf)<br>
 Pierfrancesco Ingo, Nichole Boufford, Ming Cheng Jiang, Rowan Lindsay, Roberta De Viti, Matthew Lentz, Gilles Barthe, Manuel Gomez-Rodriguez, Bernhard Schölkopf, Deepak Garg, Peter Druschel, **Aastha Mehta**<br>
 Arxiv 2022.<br>

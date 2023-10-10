@@ -20,7 +20,10 @@ layout: default
   I am affiliated with the <a href="https://systopia.cs.ubc.ca">Systopia Lab</a>.
   </p>
 
-  <p>I am broadly interested in systems security, data privacy, operating systems, and distributed systems. I have worked on building <a href="http://thoth.mpi-sws.org/">systems</a> that enable online services to comply with data privacy and usage policies, and prevent accidental disclosures due to bugs and misconfigurations. More recently, I have been working on solutions to ensure privacy in Cloud services in the face of side-channel disclosures. Currently, I am also exploring systems for effective contact tracing and epidemic risk notification in the context of COVID-19.</p>
+  <p>I am broadly interested in systems security, data privacy, operating systems, networking, and distributed systems. My current research focuses on building principled systems for ensuring data security and privacy in cloud and edge platforms. I look at improving the security of both existing applications as well as emerging applications.</p>
+  <!--
+  <p>I am broadly interested in systems security, data privacy, operating systems, networking, and distributed systems. I have worked on building <a href="http://thoth.mpi-sws.org/">systems</a> that enable online services to comply with data privacy and usage policies, and prevent accidental disclosures due to bugs and misconfigurations. More recently, I have been working on solutions to ensure privacy in Cloud services in the face of side-channel disclosures. Currently, I am also exploring systems for effective contact tracing and epidemic risk notification in the context of COVID-19.</p>
+  -->
 
   <p><b>Past:</b> I completed my PhD with <a href="http://www.mpi-sws.org/~druschel/">Peter Druschel</a> and <a href="http://www.mpi-sws.org/~dg/">Deepak Garg</a> from <a href="http://www.mpi-sws.org/">Max Planck Institute for Software Systems (MPI-SWS)</a>. Before my PhD, I worked at NetApp, Bengaluru (India), and completed my Bachelors in Computer Science from Birla Institute of Technology and Science (BITS) Pilani (India).</p>
 
@@ -180,15 +183,16 @@ Summer 2013
   </header>
   <div class="content">
   <ul class="content">
+  <li>Oct 2023, NetShaper is accepted to USENIX Security 2024.</li>
   <li>Aug 2023, Recognized as Noteworthy Reviewer at USENIX Security 2023.</li>
   <li>Jan 2023, Invited to Dagstuhl seminar <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23481">"MAD: Microarchitectural Attacks and Defenses"</a>.</li>
   <li>Jan 2023, I will be chairing the poster session and ACM Student Research
   Competition at <a href="https://sosp2023.mpi-sws.org/">SOSP 2023</a>.</li>
   <li>Sep 2022, Received funding from DND IDEaS for our pan-Canadian micro-net on <a href="https://www.cs.ubc.ca/news/2022/09/15m-canadas-department-national-defence-fund-development-5g-edge-computing-research-network">"A Platform for
   Secure and Dependable Hierarchical Edge Processing on 5G"</a>.</li>
-  <li>Aug 2022, Invited to give a talk at IIT Delhi.</li>
 
 <!--
+  <li>Aug 2022, Invited to give a talk at IIT Delhi.</li>
 - Dec 2021, Received NSERC Defense Supplement for Discovery Grant.
 - Apr 2021, Received NSERC Discovery Grant.
 - Mar 2021, Invited to give a talk at IIT Kharagpur
