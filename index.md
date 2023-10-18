@@ -184,6 +184,7 @@ Summer 2013
   <div class="content">
   <ul class="content">
   <li>Oct 2023, NetShaper is accepted to USENIX Security 2024.</li>
+  <li>Sep 2023, I will be on the panel of <a href="https://sysdw23.github.io/">SOSP '23 doctoral workshop (SysDW'23)</a>.</li>
   <li>Aug 2023, Recognized as Noteworthy Reviewer at USENIX Security 2023.</li>
   <li>Jan 2023, Invited to Dagstuhl seminar <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23481">"MAD: Microarchitectural Attacks and Defenses"</a>.</li>
   <li>Jan 2023, I will be chairing the poster session and ACM Student Research
