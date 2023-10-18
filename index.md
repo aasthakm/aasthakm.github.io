@@ -16,7 +16,7 @@ layout: default
 
   <p><b>Students with an interest and background in systems and/or security, please apply <a href="https://www.cs.ubc.ca/students/grad/admissions">here</a>.</b></p>
 
-  <p>I am a Tenure-Track Assistant Professor in the <a href="https://www.cs.ubc.ca/">CS Department, University of British Columbia</a>.<br />
+  <p>I am a Tenure-Track Assistant Professor in the <a href="https://www.cs.ubc.ca/">CS Department, University of British Columbia</a>.
   I am affiliated with the <a href="https://systopia.cs.ubc.ca">Systopia Lab</a>.
   </p>
 
