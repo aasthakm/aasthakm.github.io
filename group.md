@@ -15,7 +15,7 @@ layout: page
 
 ### Past
 
-- Tanya Prasad (MITACS Intern 2022 and UG Hons. Thesis, BITS Pilani, 2022 - 2023)
+- Tanya Prasad (MITACS Intern 2022 and UG Hons. Thesis, BITS Pilani, 2022 - 2023) → UBC MSc
 - Aanandi Siddharth (UG research, 2022)
 - Kasra Kamal (UG Honors Thesis, 2022, received [Rick Sample Memorial Award in CS](https://www.cs.ubc.ca/award/2022/05/rick-sample-memorial-award-computer-science))
 - Gokce Dilek (UG research, 2022)
