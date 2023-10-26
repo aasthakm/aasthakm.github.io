@@ -5,7 +5,8 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
-- NetShaper: A Differentially Private Network Side-Channel Mitigation System<br>
+- NetShaper: A Differentially Private Network Side-Channel Mitigation System
+[\[Preprint\]](https://arxiv.org/pdf/2310.06293.pdf)<br>
 Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, **Aastha Mehta**<br>
 USENIX Secuirty Symposium, 2024 (to appear).
 

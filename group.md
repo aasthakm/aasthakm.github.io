@@ -10,6 +10,7 @@ layout: page
 - [Praveen Gupta](https://pvgupta24.github.io/) (MSc)
 - [Rut Vora](https://rutvora.com/) (MSc)
 - [Yayu Wang](https://st-saint.github.io/) (MSc)
+- [Arshia Moghimi](https://www.linkedin.com/in/arshia-moghimi-3a7a41150/) (MSc, co-advised with [Mohammad Shahard](https://mshahrad.github.io/))
 - Devam Sisodraker (UG Hons Thesis)
 
 ### Past

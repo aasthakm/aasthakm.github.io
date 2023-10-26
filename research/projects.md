@@ -42,6 +42,8 @@ layout: page
 **Team**
 
 - Praveen Gupta
+- Arshia Moghimi (UBC ECE)
+- [Mohammad Shahrad (UBC ECE)](https://mshahrad.github.io/)
 - Aastha Mehta
 
 **Projects**
