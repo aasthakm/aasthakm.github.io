@@ -183,9 +183,16 @@ Summer 2013
   </header>
   <div class="content">
   <ul class="content">
-  <li>Oct 2023, NetShaper is accepted to USENIX Security 2024.</li>
+  <li>Nov 2023, Our short paper "Microarchitectural Side-Channel Mitigations for
+  Serverless Applications" is accepted to <a href="https://plas23.github.io/">PLAS workshop 2023</a>.</li>
+  <li>Oct 2023, Gave a talk on NetShaper at TU Darmstadt.</li>
+  <li>Oct 2023, Gave a talk on NetShaper at <a
+  href="http://shlink.mpi-sws.org/systems-seminar-2023">MPI-SWS Systems Seminar 2023</a>.</li>
+  <li>Oct 2023, Our paper "<a href="https://arxiv.org/pdf/2310.06293.pdf">NetShaper: A Differentially Private Network Side-Channel Mitigation System</a>" is accepted to USENIX Security 2024.</li>
   <li>Sep 2023, I will be on the panel of <a href="https://sysdw23.github.io/">SOSP '23 doctoral workshop (SysDW'23)</a>.</li>
   <li>Aug 2023, Recognized as Noteworthy Reviewer at USENIX Security 2023.</li>
+  <li>Sep 2023, I will be serving on the PC of <a
+  href="https://www.usenix.org/conference/atc24">USENIX ATC 2024</a>.</li>
   <li>Jan 2023, Invited to Dagstuhl seminar <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23481">"MAD: Microarchitectural Attacks and Defenses"</a>.</li>
   <li>Jan 2023, I will be chairing the poster session and ACM Student Research
   Competition at <a href="https://sosp2023.mpi-sws.org/">SOSP 2023</a>.</li>
