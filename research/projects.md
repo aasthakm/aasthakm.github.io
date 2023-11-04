@@ -29,6 +29,7 @@ layout: page
 
 **Projects**
 
+- Side Channels in CXL. Rut Vora, Aastha Mehta
 - NetShaper: A Differentially Private Network Side-Channel Mitigation System. USENIX Security 2024. Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, Aastha Mehta
 - Microarchitectural Side-Channel Mitigations for Serverless Applications. PLAS 2023. Yayu Wang, Aastha Mehta
 - Pacer: Comprehensive Network Side-Channel Mitigation in the Cloud. USENIX Security 2022. Aastha Mehta, Mohamed Alzayat, Roberta De Viti, Peter Druschel, Deepak Garg
