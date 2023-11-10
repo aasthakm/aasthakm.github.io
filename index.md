@@ -17,7 +17,7 @@ layout: default
   <p><b>Students with an interest and background in systems and/or security, please apply <a href="https://www.cs.ubc.ca/students/grad/admissions">here</a>.</b></p>
 
   <p>I am a Tenure-Track Assistant Professor in the <a href="https://www.cs.ubc.ca/">CS Department, University of British Columbia</a>.
-  I am affiliated with the <a href="https://systopia.cs.ubc.ca">Systopia Lab</a>.
+  I am affiliated with the <a href="https://systopia.cs.ubc.ca">Systopia Lab</a> and the <a href="https://spg.cs.ubc.ca/">Security and Privacy Group</a>.
   </p>
 
   <p>I am broadly interested in systems security, data privacy, operating systems, networking, and distributed systems. My current research focuses on building principled systems for ensuring data security and privacy in cloud and edge platforms. I look at improving the security of both existing applications as well as emerging applications.</p>
