@@ -6,7 +6,7 @@ layout: page
 
 ### Current
 
-- [Amir Sabzi](https://www.linkedin.com/in/amir-sabzi/) (MSc, co-advised with [Mathias Lécuyer](https://mathias.lecuyer.me/))
+- [Amir Sabzi](https://amir-sabzi.github.io/) (MSc, co-advised with [Mathias Lécuyer](https://mathias.lecuyer.me/))
 - [Praveen Gupta](https://pvgupta24.github.io/) (MSc)
 - [Rut Vora](https://rutvora.com/) (MSc)
 - [Yayu Wang](https://st-saint.github.io/) (MSc)
