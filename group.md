@@ -6,7 +6,7 @@ layout: page
 
 ### Current
 <span class="image object">
-<img src="imgs/group2023.jpg" class="wrap align-center">
+<img src="imgs/group2023.jpg" class="wrap align-center" width=500>
 </span>
 
 
