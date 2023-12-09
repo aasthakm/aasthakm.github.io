@@ -183,7 +183,7 @@ Summer 2013
   </header>
   <div class="content">
   <ul class="content">
-  <li>Nov 2023, Our short paper "Microarchitectural Side-Channel Mitigations for
+  <li>Dec 2023, Our short paper "Microarchitectural Side-Channel Mitigations for
   Serverless Applications" is accepted to <a href="https://popl24.sigplan.org/home/prisc-2024">PriSC workshop 2024</a>.</li>
   <li>Nov 2023, Our short paper "Microarchitectural Side-Channel Mitigations for
   Serverless Applications" is accepted to <a href="https://plas23.github.io/">PLAS workshop 2023</a>.</li>
