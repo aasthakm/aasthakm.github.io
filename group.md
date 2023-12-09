@@ -5,6 +5,10 @@ layout: page
 ## Principled Systems Security Group
 
 ### Current
+<span class="image object">
+<img src="imgs/group2023.jpg" class="wrap align-center">
+</span>
+
 
 - [Amir Sabzi](https://amir-sabzi.github.io/) (MSc, co-advised with [Mathias Lécuyer](https://mathias.lecuyer.me/))
 - [Praveen Gupta](https://pvgupta24.github.io/) (MSc)
