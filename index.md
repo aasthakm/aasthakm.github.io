@@ -183,6 +183,7 @@ Summer 2013
   </header>
   <div class="content">
   <ul class="content">
+  <li>Dec 2023, Invited to NII Shonan seminar on <a href="https://shonan.nii.ac.jp/seminars/159/">Web Application Security</a>.</li>
   <li>Dec 2023, Our short paper "Microarchitectural Side-Channel Mitigations for
   Serverless Applications" is accepted to <a href="https://popl24.sigplan.org/home/prisc-2024">PriSC workshop 2024</a>.</li>
   <li>Nov 2023, Our short paper "Microarchitectural Side-Channel Mitigations for
@@ -192,14 +193,16 @@ Summer 2013
   href="http://shlink.mpi-sws.org/systems-seminar-2023">MPI-SWS Systems Seminar 2023</a>.</li>
   <li>Oct 2023, Our paper <a href="https://arxiv.org/pdf/2310.06293.pdf">NetShaper: A Differentially Private Network Side-Channel Mitigation System</a> is accepted to USENIX Security 2024.</li>
   <li>Sep 2023, I will be on the panel of <a href="https://sysdw23.github.io/">SOSP '23 doctoral workshop (SysDW'23)</a>.</li>
-  <li>Aug 2023, Recognized as Noteworthy Reviewer at USENIX Security 2023.</li>
   <li>Sep 2023, I will be serving on the PC of <a
   href="https://www.usenix.org/conference/atc24">USENIX ATC 2024</a>.</li>
+  <li>Aug 2023, Recognized as Noteworthy Reviewer at USENIX Security 2023.</li>
   <li>Jan 2023, Invited to Dagstuhl seminar <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23481">"MAD: Microarchitectural Attacks and Defenses"</a>.</li>
   <li>Jan 2023, I will be chairing the poster session and ACM Student Research
   Competition at <a href="https://sosp2023.mpi-sws.org/">SOSP 2023</a>.</li>
+  <!--
   <li>Sep 2022, Received funding from DND IDEaS for our pan-Canadian micro-net on <a href="https://www.cs.ubc.ca/news/2022/09/15m-canadas-department-national-defence-fund-development-5g-edge-computing-research-network">"A Platform for
   Secure and Dependable Hierarchical Edge Processing on 5G"</a>.</li>
+  -->
 
 <!--
   <li>Aug 2022, Invited to give a talk at IIT Delhi.</li>

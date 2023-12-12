@@ -5,15 +5,23 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
-- Michroarchitectural Side-Channel Mitigations for Serverless Applications<br>
-Yayu Wang, **Aastha Mehta**<br>
-Workshop on Programming Languages and Analysis for Security (PLAS) 2023.
+- ICS-Sniper: A Targeted Blackhole Attack on Encrypted ICS Traffic
+[\[Preprint\]](https://arxiv.org/pdf/2312.06140.pdf)<br>
+Gargi Mitra, Pritam Dash, Elaine Yao, **Aastha Mehta**, Karthik Pattabiraman<br>
+Under review. 2024.
 
 - NetShaper: A Differentially Private Network Side-Channel Mitigation System
 [\[Preprint\]](https://arxiv.org/pdf/2310.06293.pdf)<br>
 Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, **Aastha Mehta**<br>
 USENIX Secuirty Symposium, 2024 (to appear).
 
+- Michroarchitectural Side-Channel Mitigations for Serverless Applications<br>
+Yayu Wang, **Aastha Mehta**<br>
+Workshop on Principles of Secure Compilation (PriSC) 2024 (to appear).
+
+- Michroarchitectural Side-Channel Mitigations for Serverless Applications<br>
+Yayu Wang, **Aastha Mehta**<br>
+Workshop on Programming Languages and Analysis for Security (PLAS) 2023.
 
 - Reconciling Security and Utility in Next Generation Epidemic Risk Mitigation System [\[PDF\]](https://arxiv.org/pdf/2011.08069.pdf)<br>
 Pierfrancesco Ingo, Nichole Boufford, Ming Cheng Jiang, Rowan Lindsay, Roberta De Viti, Matthew Lentz, Gilles Barthe, Manuel Gomez-Rodriguez, Bernhard Schölkopf, Deepak Garg, Peter Druschel, **Aastha Mehta**<br>
