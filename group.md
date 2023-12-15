@@ -9,16 +9,16 @@ layout: page
 <img src="imgs/group2023.jpg" class="wrap align-center" width=500>
 </span>
 
-
 - [Rut Vora](https://rutvora.com/) (MSc)
 - [Yayu Wang](https://st-saint.github.io/) (MSc)
 - [Praveen Gupta](https://pvgupta24.github.io/) (MSc, co-advised with [Mohammad Shahrad](https://mshahrad.github.io/))
 - [Arshia Moghimi](https://www.linkedin.com/in/arshia-moghimi-3a7a41150/) (MSc, co-advised with [Mohammad Shahard](https://mshahrad.github.io/))
 - Devam Sisodraker (UG Hons Thesis)
-
-- [Gargi Mitra](https://gargi-mitra.github.io/website/) (Postdoc, with [Karthik Pattabiraman](https://blogs.ubc.ca/karthik/))
-
 - [Amir Sabzi](https://amir-sabzi.github.io/) (MSc, 2021-2023, co-advised with [Mathias Lécuyer](https://mathias.lecuyer.me/)) → Research staff member @ UBC
+
+<!--
+- [Gargi Mitra](https://gargi-mitra.github.io/website/) (Postdoc, with [Karthik Pattabiraman](https://blogs.ubc.ca/karthik/))
+-->
 
 ### Past
 
