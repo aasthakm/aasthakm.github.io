@@ -6,9 +6,9 @@ layout: page
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
 - Stream Processing with Adaptive Edge-Enhanced Confidential
-Computing[\[Preprint\]](https://aasthakm.github.io/files/edgesys24-stream-processing-with-cc.pdf)<br>
+Computing [\[Preprint\]](https://aasthakm.github.io/files/edgesys24-stream-processing-with-cc.pdf)<br>
 Yuqin Yan, Pritish Mishra, Wei Huang, **Aastha Mehta**, Oana Balmau, David Lie<br>
-Workshop on Edge Systems, Analytics and Networking (EdgeSys) 2024 (to appear).
+Workshop on Edge Systems, Analytics and Networking (EdgeSys) 2024.
 
 - ICS-Sniper: A Targeted Blackhole Attack on Encrypted ICS Traffic
 [\[Preprint\]](https://arxiv.org/pdf/2312.06140.pdf)<br>

@@ -13,7 +13,7 @@ layout: page
 - [Yayu Wang](https://st-saint.github.io/) (MSc)
 - [Praveen Gupta](https://pvgupta24.github.io/) (MSc, co-advised with [Mohammad Shahrad](https://mshahrad.github.io/))
 - [Arshia Moghimi](https://www.linkedin.com/in/arshia-moghimi-3a7a41150/) (MSc, co-advised with [Mohammad Shahard](https://mshahrad.github.io/))
-- Devam Sisodraker (UG Hons Thesis)
+- [Devam Sisodraker](https://github.com/TheD3vel0per) (UG Hons Thesis)
 - [Amir Sabzi](https://amir-sabzi.github.io/) (MSc, 2021-2023, co-advised with [Mathias Lécuyer](https://mathias.lecuyer.me/)) → Research staff member @ UBC
 
 <!--
