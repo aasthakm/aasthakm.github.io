@@ -25,7 +25,9 @@ layout: default
   <p>I am broadly interested in systems security, data privacy, operating systems, networking, and distributed systems. I have worked on building <a href="http://thoth.mpi-sws.org/">systems</a> that enable online services to comply with data privacy and usage policies, and prevent accidental disclosures due to bugs and misconfigurations. More recently, I have been working on solutions to ensure privacy in Cloud services in the face of side-channel disclosures. Currently, I am also exploring systems for effective contact tracing and epidemic risk notification in the context of COVID-19.</p>
   -->
 
+  <!--
   <p><b>Past:</b> I completed my PhD with <a href="http://www.mpi-sws.org/~druschel/">Peter Druschel</a> and <a href="http://www.mpi-sws.org/~dg/">Deepak Garg</a> from <a href="http://www.mpi-sws.org/">Max Planck Institute for Software Systems (MPI-SWS)</a>. Before my PhD, I worked at NetApp, Bengaluru (India), and completed my Bachelors in Computer Science from Birla Institute of Technology and Science (BITS) Pilani (India).</p>
+  -->
 
   </div>
 

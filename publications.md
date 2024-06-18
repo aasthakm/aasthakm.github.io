@@ -5,8 +5,13 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
+- NetShaper: A Differentially Private Network Side-Channel Mitigation System
+[\[Preprint\]](https://www.usenix.org/system/files/sec24summer-prepub-168-sabzi.pdf) <a href="https://github.com/ubc-systopia/netshaper">[Code]<i class="icon fa fa-brands fa-square-github"></i></a><br>
+Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, **Aastha Mehta**<br>
+USENIX Secuirty Symposium, 2024 (to appear).
+
 - Stream Processing with Adaptive Edge-Enhanced Confidential
-Computing [\[Preprint\]](https://aasthakm.github.io/files/edgesys24-stream-processing-with-cc.pdf)<br>
+Computing [\[PDF\]](https://aasthakm.github.io/files/edgesys24-stream-processing-with-cc.pdf)<br>
 Yuqin Yan, Pritish Mishra, Wei Huang, **Aastha Mehta**, Oana Balmau, David Lie<br>
 Workshop on Edge Systems, Analytics and Networking (EdgeSys) 2024.
 
@@ -15,22 +20,16 @@ Workshop on Edge Systems, Analytics and Networking (EdgeSys) 2024.
 Gargi Mitra, Pritam Dash, Elaine Yao, **Aastha Mehta**, Karthik Pattabiraman<br>
 Under review. 2024.
 
-- NetShaper: A Differentially Private Network Side-Channel Mitigation System
-[\[Preprint\]](https://arxiv.org/pdf/2310.06293.pdf)<br>
-Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, **Aastha Mehta**<br>
-USENIX Secuirty Symposium, 2024 (to appear).
-
 - Michroarchitectural Side-Channel Mitigations for Serverless Applications<br>
 Yayu Wang, **Aastha Mehta**<br>
-Workshop on Principles of Secure Compilation (PriSC) 2024 (to appear).
+Workshop on Principles of Secure Compilation (PriSC) 2024.
 
 - Michroarchitectural Side-Channel Mitigations for Serverless Applications<br>
 Yayu Wang, **Aastha Mehta**<br>
 Workshop on Programming Languages and Analysis for Security (PLAS) 2023.
 
 - Reconciling Security and Utility in Next Generation Epidemic Risk Mitigation System [\[PDF\]](https://arxiv.org/pdf/2011.08069.pdf)<br>
-Pierfrancesco Ingo, Nichole Boufford, Ming Cheng Jiang, Rowan Lindsay, Roberta De Viti, Matthew Lentz, Gilles Barthe, Manuel Gomez-Rodriguez, Bernhard Schölkopf, Deepak Garg, Peter Druschel, **Aastha Mehta**<br>
-Arxiv 2022.<br>
+Pierfrancesco Ingo, Nichole Boufford, Ming Cheng Jiang, Rowan Lindsay, Roberta De Viti, Matthew Lentz, Gilles Barthe,<br>Manuel Gomez-Rodriguez, Bernhard Schölkopf, Deepak Garg, Peter Druschel, **Aastha Mehta**. 2022.<br>
 <!-- <span style="font-size:12px;">*Authors listed in alphabetical order</span> -->
 
 - Pacer: Network Side-Channel Mitigation in the Cloud [\[PDF\]](https://aasthakm.github.io/files/sec22-pacer.pdf) [\[Tech Report\]](https://arxiv.org/pdf/1908.11568.pdf) [\[Code\]](https://gitlab.mpi-sws.org/pacer)<br>
@@ -38,12 +37,14 @@ Arxiv 2022.<br>
 USENIX Security Symposium, 2022.
 
 - Listening to Bluetooth Beacons for Epidemic Risk Mitigation* [\[PDF\]](https://www.nature.com/articles/s41598-022-09440-1.pdf)<br>
-Gilles Barthe, Roberta De Viti, Peter Druschel, Deepak Garg, Manuel Gomez-Rodriguez, Pierfrancesco Ingo, Heiner Kremer, Matthew Lentz, Lars Lorch, **Aastha Mehta**, Bernhard Schölkopf<br>
+Gilles Barthe, Roberta De Viti, Peter Druschel, Deepak Garg, Manuel Gomez-Rodriguez, Pierfrancesco Ingo,<br>
+Heiner Kremer, Matthew Lentz, Lars Lorch, **Aastha Mehta**, Bernhard Schölkopf<br>
 Scientific Reports. 2022.<br>
 <span style="font-size:12px;">*Authors listed in alphabetical order</span>
 
 - PanCast: Listening to Bluetooth Beacons for Epidemic Risk Mitigation* [\[PDF\]](https://arxiv.org/pdf/2011.08069.pdf)<br>
-Gilles Barthe, Roberta De Viti, Peter Druschel, Deepak Garg, Manuel Gomez-Rodriguez, Pierfrancesco Ingo, Matthew Lentz, **Aastha Mehta**, Bernhard Schölkopf<br>
+Gilles Barthe, Roberta De Viti, Peter Druschel, Deepak Garg, Manuel Gomez-Rodriguez, Pierfrancesco Ingo,<br>
+Matthew Lentz, **Aastha Mehta**, Bernhard Schölkopf<br>
 White Paper, 2020.<br>
 <span style="font-size:12px;">*Authors listed in alphabetical order</span>
 

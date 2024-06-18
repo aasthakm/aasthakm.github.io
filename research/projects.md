@@ -23,6 +23,11 @@ layout: page
 **Team**
 
 - Amir Sabzi
+- Aidan Shields
+- Arun Balamurali
+- Lucas Qin
+- Marcus Lai
+- Ngoc Bui
 - Rut Vora
 - Yayu Wang
 - Aastha Mehta
