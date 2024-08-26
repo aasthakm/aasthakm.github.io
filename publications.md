@@ -6,7 +6,9 @@ layout: page
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
 - NetShaper: A Differentially Private Network Side-Channel Mitigation System
-[\[Preprint\]](https://www.usenix.org/system/files/sec24summer-prepub-168-sabzi.pdf) <a href="https://github.com/ubc-systopia/netshaper">[Code]<i class="icon fa fa-brands fa-square-github"></i></a><br>
+[\[PDF\]](https://www.usenix.org/system/files/usenixsecurity24-sabzi.pdf)
+<!--[\[Preprint\]](https://www.usenix.org/system/files/sec24summer-prepub-168-sabzi.pdf) -->
+<a href="https://github.com/ubc-systopia/netshaper">[Code]<i class="icon fa fa-brands fa-square-github"></i></a><br>
 Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, **Aastha Mehta**<br>
 USENIX Secuirty Symposium, 2024 (to appear).
 
@@ -20,11 +22,11 @@ Workshop on Edge Systems, Analytics and Networking (EdgeSys) 2024.
 Gargi Mitra, Pritam Dash, Elaine Yao, **Aastha Mehta**, Karthik Pattabiraman<br>
 Under review. 2024.
 
-- Michroarchitectural Side-Channel Mitigations for Serverless Applications<br>
+- Microarchitectural Side-Channel Mitigations for Serverless Applications<br>
 Yayu Wang, **Aastha Mehta**<br>
 Workshop on Principles of Secure Compilation (PriSC) 2024.
 
-- Michroarchitectural Side-Channel Mitigations for Serverless Applications<br>
+- Microarchitectural Side-Channel Mitigations for Serverless Applications<br>
 Yayu Wang, **Aastha Mehta**<br>
 Workshop on Programming Languages and Analysis for Security (PLAS) 2023.
 
