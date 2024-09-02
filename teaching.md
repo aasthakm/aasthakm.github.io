@@ -4,13 +4,16 @@ layout: page
 
 ## Teaching
 
+- Instructor, [CPSC 538M: Systems Security](https://aasthakm.github.io/courses/cpsc538m.html) (UBC Graduate Course)<br>
+Winter Term 1, Sep 2024
+
 - Instructor, CPSC 317: Introduction to Computer Networking<br>
 Winter Term 2, Jan 2024
 
 - Instructor, CPSC 317: Introduction to Computer Networking<br>
 Winter Term 2, Jan 2023
 
-- Instructor, [CPSC 538M: Systems Security](https://aasthakm.github.io/courses/cpsc538m.html) (UBC Graduate Course)<br>
+- Instructor, [CPSC 538M: Systems Security](https://aasthakm.github.io/courses/2022w1/cpsc538m.html) (UBC Graduate Course)<br>
 Winter Term 1, Sep 2022
 
 - Instructor, [CPSC 538M: Security and Privacy in the Era of Side Channels](https://aasthakm.github.io/courses/2021w1/cpsc538m.html) (UBC Graduate Course)<br>
