@@ -52,3 +52,8 @@ layout: page
 <span class="image object">
 <img src="imgs/group2023.jpg" class="wrap align-center" width=500>
 </span>
+
+#### Winter 2023
+<span class="image object">
+<img src="imgs/winter2023.jpg" class="wrap align-center" width=500>
+</span>
