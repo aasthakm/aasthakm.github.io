@@ -5,12 +5,17 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
+- Targeting the Blind Spot: Evaluating Modern ICS Security Against A Novel Denial of Service (DoS) Attack
+[\[Link\]](https://ricssworkshop.github.io/program.html)<br>
+Gargi Mitra, Pritam Dash, Elaine Yao, Aastha Mehta, Karthik Pattabiraman<br>
+Workshop on Re-design Industrial Control Systems with Security (RICSS), 2024.
+
 - NetShaper: A Differentially Private Network Side-Channel Mitigation System
 [\[PDF\]](https://www.usenix.org/system/files/usenixsecurity24-sabzi.pdf)
 <!--[\[Preprint\]](https://www.usenix.org/system/files/sec24summer-prepub-168-sabzi.pdf) -->
 <a href="https://github.com/ubc-systopia/netshaper">[Code]<i class="icon fa fa-brands fa-square-github"></i></a><br>
 Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, **Aastha Mehta**<br>
-USENIX Secuirty Symposium, 2024 (to appear).
+USENIX Secuirty Symposium, 2024.
 
 - Stream Processing with Adaptive Edge-Enhanced Confidential
 Computing [\[PDF\]](https://aasthakm.github.io/files/edgesys24-stream-processing-with-cc.pdf)<br>

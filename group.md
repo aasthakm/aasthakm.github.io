@@ -6,7 +6,6 @@ layout: page
 
 ### Current
 
-- [Arshia Moghimi](https://www.linkedin.com/in/arshia-moghimi-3a7a41150/) (MSc, 2022-, co-advised with [Mohammad Shahard](https://mshahrad.github.io/))
 - [Praveen Gupta](https://pvgupta24.github.io/) (MSc, 2022-, co-advised with [Mohammad Shahrad](https://mshahrad.github.io/))
 - [Rut Vora](https://rutvora.com/) (MSc, 2022-)
 - [Yayu Wang](https://st-saint.github.io/) (MSc, 2022-)
@@ -24,6 +23,7 @@ layout: page
 
 ### Past
 
+- [Arshia Moghimi](https://www.linkedin.com/in/arshia-moghimi-3a7a41150/) (MSc, 2022-2024, co-advised with [Mohammad Shahard](https://mshahrad.github.io/))
 - [Amir Sabzi](https://amir-sabzi.github.io/) (MSc, 2021-2023, co-advised with [Mathias Lécuyer](https://mathias.lecuyer.me/)) → Research staff member @ UBC (2023-2024)
 - Aidan Shields (UG research, 2024)
 - Lucas Qin (UG research, 2024)
