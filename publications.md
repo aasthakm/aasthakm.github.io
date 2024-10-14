@@ -5,13 +5,17 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
+- Growlithe: A Developer-Centric Compliance Tool for Serverless Applications [\[Preprint\]](https://aasthakm.github.io/files/sp25-growlithe.pdf) [\[Code\]](https://github.com/ubc-cirrus-lab/growlithe)<br>
+Praveen Gupta, Arshia Moghimi, Devam Sisodraker, Mohammad Shahrad, **Aastha Mehta**<br>
+To appear at Oakland S&P, 2025.
+
 - Targeting the Blind Spot: Evaluating Modern ICS Security Against A Novel Denial of Service (DoS) Attack
 [\[Link\]](https://ricssworkshop.github.io/program.html)<br>
 Gargi Mitra, Pritam Dash, Elaine Yao, Aastha Mehta, Karthik Pattabiraman<br>
 Workshop on Re-design Industrial Control Systems with Security (RICSS), 2024.
 
 - NetShaper: A Differentially Private Network Side-Channel Mitigation System
-[\[PDF\]](https://www.usenix.org/system/files/usenixsecurity24-sabzi.pdf)
+[\[PDF\]](https://www.usenix.org/system/files/usenixsecurity24-sabzi.pdf) [\[Artifact Appendix\]](https://aasthakm.github.io/files/sec24-netshaper-ae.pdf)
 <!--[\[Preprint\]](https://www.usenix.org/system/files/sec24summer-prepub-168-sabzi.pdf) -->
 <a href="https://github.com/ubc-systopia/netshaper">[Code]<i class="icon fa fa-brands fa-square-github"></i></a><br>
 Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, **Aastha Mehta**<br>
