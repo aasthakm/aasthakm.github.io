@@ -13,6 +13,10 @@ layout: page
 - [Kjell Dankert]() (MSc, 2024-, recipient of DAAD scholarship)
 - [Satvik Vemuganti]() (PhD-track, 2024-)
 
+### Postdoc
+
+- [Gargi Mitra](https://www.linkedin.com/in/gargimitraiitm/) (co-supervised with <a href="https://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a>)
+
 ### Undergraduate students
 - [Aidan Shields](https://www.linkedin.com/in/aidanshields18/) (UG Honors Thesis, 2025)
 - [Alain Zhiyanov](https://www.linkedin.com/in/alainzhiyanov/) (UG research, 2024)
