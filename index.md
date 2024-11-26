@@ -185,6 +185,17 @@ Summer 2013
   </header>
   <div class="content">
   <ul class="content">
+  <li>Oct 2024, Our paper "Growlithe: A Developer-Centric Compliance Tool for Serverless Applications is accepted to Oakland S&P 2025."</li>
+  <li>Oct 2024, I will be serving on the PC of <a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS 2025</a>.</li>
+  <li>Oct 2024, Received NCC Funding for research in **ICS Security**.</li>
+  <li>Oct 2024, Praveen defended his MSc thesis.</li>
+  <li>Sep 2024, I will be serving as a judge at the <a href="https://icics.ubc.ca/2024/09/13/network-api-challenge/">UBC Rogers Network API Hackathon 2024</a>.</li>
+  <li>Sep 2024, Arshia defended his MSc thesis.</li>
+  <li>Sep 2024, Angie Demarco, Kjell Dankert, and Satvik Vemuganti joined the Principled Systems Security Group.
+  <li>Aug 2024, Rut Vora presented <a href="https://youtu.be/SqzdH4rBjZc?si=_L2V6-PRhkw4yJMe">NetShaper</a> at <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/sabzi">USENIX Security 2024</a>.</li>
+  <li>Jul 2024, I will be serving on the PC of <a href="https://www.usenix.org/conference/usenixsecurity25">USENIX Security 2025</a>.</li>
+  <li>Feb 2024, I will be serving on the PC of <a href="https://www.asplos-conference.org/asplos2025/">ASPLOS 2025</a>.</li>
+  <!--
   <li>Dec 2023, Invited to NII Shonan seminar on <a href="https://shonan.nii.ac.jp/seminars/159/">Web Application Security</a>.</li>
   <li>Dec 2023, Our short paper "Microarchitectural Side-Channel Mitigations for
   Serverless Applications" is accepted to <a href="https://popl24.sigplan.org/home/prisc-2024">PriSC workshop 2024</a>.</li>
@@ -194,7 +205,6 @@ Summer 2013
   <li>Oct 2023, Gave a talk on NetShaper at <a href="http://shlink.mpi-sws.org/systems-seminar-2023">MPI-SWS Systems Seminar 2023</a>.</li>
   <li>Oct 2023, Our paper <a href="https://arxiv.org/pdf/2310.06293.pdf">NetShaper: A Differentially Private Network Side-Channel Mitigation System</a> is accepted to USENIX Security 2024.</li>
   <li>Sep 2023, I will be on the panel of <a href="https://sysdw23.github.io/">SOSP '23 doctoral workshop (SysDW'23)</a>.</li>
-  <!--
   <li>Sep 2023, I will be serving on the PC of <a
   href="https://www.usenix.org/conference/atc24">USENIX ATC 2024</a>.</li>
   -->
