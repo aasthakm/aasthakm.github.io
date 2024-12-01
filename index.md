@@ -185,7 +185,7 @@ Summer 2013
   </header>
   <div class="content">
   <ul class="content">
-  <li>Oct 2024, Our paper "Growlithe: A Developer-Centric Compliance Tool for Serverless Applications is accepted to Oakland S&P 2025."</li>
+  <li>Oct 2024, Our paper "Growlithe: A Developer-Centric Compliance Tool for Serverless Applications" is accepted to Oakland S&P 2025.</li>
   <li>Oct 2024, I will be serving on the PC of <a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS 2025</a>.</li>
   <li>Oct 2024, Received NCC Funding for research in <b>ICS Security</b>.</li>
   <li>Oct 2024, Praveen defended his MSc thesis.</li>
