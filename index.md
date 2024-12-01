@@ -14,7 +14,7 @@ layout: default
   </header>
   <p><mark style="background-color:yellow"><b>I am looking for PhD students to join my group at UBC!</b></mark></p>
 
-  <p><b>Students with an interest and background in systems and/or security, please apply <a href="https://www.cs.ubc.ca/students/grad/admissions">here</a>.</b></p>
+  <p><b>Students with an interest and background in systems, networking, or security, please apply <a href="https://www.cs.ubc.ca/students/grad/admissions">here</a>.</b></p>
 
   <p>I am a Tenure-Track Assistant Professor in the <a href="https://www.cs.ubc.ca/">CS Department, University of British Columbia</a>.
   I am affiliated with the <a href="https://systopia.cs.ubc.ca">Systopia Lab</a> and the <a href="https://spg.cs.ubc.ca/">Security and Privacy Group</a>.
