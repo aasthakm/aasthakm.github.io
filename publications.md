@@ -40,7 +40,7 @@ Yayu Wang, **Aastha Mehta**<br>
 Workshop on Programming Languages and Analysis for Security (PLAS) 2023.
 
 - Reconciling Security and Utility in Next Generation Epidemic Risk Mitigation System [\[PDF\]](https://arxiv.org/pdf/2011.08069.pdf)<br>
-Pierfrancesco Ingo, Nichole Boufford, Ming Cheng Jiang, Rowan Lindsay, Roberta De Viti, Matthew Lentz, Gilles Barthe,<br>Manuel Gomez-Rodriguez, Bernhard Schölkopf, Deepak Garg, Peter Druschel, **Aastha Mehta**. 2022.<br>
+Pierfrancesco Ingo, Nichole Boufford, Ming Cheng Jiang, Rowan Lindsay, Matthew Lentz, Gilles Barthe,<br>Manuel Gomez-Rodriguez, Bernhard Schölkopf, Deepak Garg, Peter Druschel, **Aastha Mehta**. 2022.<br>
 <!-- <span style="font-size:12px;">*Authors listed in alphabetical order</span> -->
 
 - Pacer: Network Side-Channel Mitigation in the Cloud [\[PDF\]](https://aasthakm.github.io/files/sec22-pacer.pdf) [\[Tech Report\]](https://arxiv.org/pdf/1908.11568.pdf) [\[Code\]](https://gitlab.mpi-sws.org/pacer)<br>
