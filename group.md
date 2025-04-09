@@ -6,7 +6,7 @@ layout: page
 
 ### Graduate students
 
-- [Yayu Wang](https://st-saint.github.io/), MSc, 2022-2024 (expected)
+- [Yayu Wang](https://st-saint.github.io/), PhD, 2025-
 - [Angela DeMarco](), MSc, 2024-, (co-advised with [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/))
 - [Kjell Dankert](), MSc, 2024-, (recipient of DAAD scholarship)
 - [Satvik Vemuganti](), PhD-track, 2024-
