@@ -34,7 +34,6 @@ layout: page
 - [Arshia Moghimi](https://www.linkedin.com/in/arshia-moghimi-3a7a41150/) (MSc, 2022-2024, co-advised with [Mohammad Shahard](https://mshahrad.github.io/)) → DevOps Engineer at Stealth
 - Alice Kang, UG research, 2024
 - Eric Daigle, UG research, 2024
-- Aidan Shields, UG research, 2024
 - Lucas Qin, UG research, 2024
 - Marcus Lai, UG research, 2024
 - Ngoc Bui, UG research, 2024
