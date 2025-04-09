@@ -6,8 +6,6 @@ layout: page
 
 ### Graduate students
 
-- [Praveen Gupta](https://pvgupta24.github.io/), MSc, 2022-2024 (ABD), (co-advised with [Mohammad Shahrad](https://mshahrad.github.io/))
-- [Rut Vora](https://rutvora.com/), MSc, 2022-2025 (expected)
 - [Yayu Wang](https://st-saint.github.io/), MSc, 2022-2024 (expected)
 - [Angela DeMarco](), MSc, 2024-, (co-advised with [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/))
 - [Kjell Dankert](), MSc, 2024-, (recipient of DAAD scholarship)
@@ -21,8 +19,6 @@ layout: page
 - [Aidan Shields](https://www.linkedin.com/in/aidanshields18/), UG Honors Thesis, 2025
 - [Arun Balamurali](https://www.linkedin.com/in/itsarune/), UG Honors Thesis, 2025
 - [Alain Zhiyanov](https://www.linkedin.com/in/alainzhiyanov/), UG research, 2024
-- [Alice Kang](https://www.linkedin.com/in/alicekang0228/), UG research, 2024
-- [Eric Daigle](https://www.ericdaigle.ca/pages/about/), UG research, 2024
 
 
 <!--
@@ -33,7 +29,11 @@ layout: page
 
 <!--
 -->
+- [Rut Vora](https://rutvora.com/), (MSc, 2022-2025) → Arista Networks
+- [Praveen Gupta](https://pvgupta24.github.io/), (MSc, 2022-2024, co-advised with [Mohammad Shahrad](https://mshahrad.github.io/))
 - [Arshia Moghimi](https://www.linkedin.com/in/arshia-moghimi-3a7a41150/) (MSc, 2022-2024, co-advised with [Mohammad Shahard](https://mshahrad.github.io/)) → DevOps Engineer at Stealth
+- Alice Kang, UG research, 2024
+- Eric Daigle, UG research, 2024
 - Aidan Shields, UG research, 2024
 - Lucas Qin, UG research, 2024
 - Marcus Lai, UG research, 2024
