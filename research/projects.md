@@ -36,7 +36,6 @@ layout: page
 - Kjell Dankert
 - Satvik Vemuganti
 - Arun Balamurali
-- Alice Kang
 - [Gargi Mitra (UBC ECE)](https://gargi-mitra.github.io/website/)
 - [Karthik Pattabirarman (UBC ECE)](https://blogs.ubc.ca/karthik/)
 
@@ -47,6 +46,7 @@ layout: page
 - Lucas Qin
 - Marcus Lai
 - Ngoc Bui
+- Alice Kang
 
 ----
 
