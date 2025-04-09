@@ -39,7 +39,7 @@ layout: page
 - Marcus Lai, UG research, 2024
 - Ngoc Bui, UG research, 2024
 - [Devam Sisodraker](https://www.linkedin.com/in/d3vel0per/), UG Hons Thesis, 2024
-- [Amir Sabzi](https://amir-sabzi.github.io/), MSc, 2021-2023 (co-advised with [Mathias Lécuyer](https://mathias.lecuyer.me/)) → Research staff member @ UBC (2023-2024) → Deloitte Management Services
+- [Amir Sabzi](https://amir-sabzi.github.io/), MSc, 2021-2023 (co-advised with [Mathias Lécuyer](https://mathias.lecuyer.me/)) → Research staff @ UBC (2023-2024) → Deloitte Management Services
 - Tanya Prasad, MITACS Intern 2022 and UG Hons. Thesis, BITS Pilani, 2022-2023 → UBC MSc
 - Kasra Kamal, [UG Honors Thesis](https://open.library.ubc.ca/soa/cIRcle/collections/undergraduateresearch/52966/items/1.0413167), 2022 (received [Rick Sample Memorial Award in CS](https://www.cs.ubc.ca/award/2022/05/rick-sample-memorial-award-computer-science)) → Microsoft
 <!--- Aanandi Siddharth (UG research, 2022)-->
