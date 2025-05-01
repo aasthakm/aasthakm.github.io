@@ -5,9 +5,13 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
+- Relocate+Vote: Exploiting Ciphertext Side-Channels using Sparsity Information<br>
+Yuqin Yan, Wei Huang, Ilya Grishchenko, Gururaj Saileshwar, **Aastha Mehta**, David Lie<br>
+USENIX Security Symposium, 2025 (To appear).
+
 - Growlithe: A Developer-Centric Compliance Tool for Serverless Applications [\[Preprint\]](https://aasthakm.github.io/files/sp25-growlithe.pdf) [\[Code\]](https://github.com/ubc-cirrus-lab/growlithe)<br>
 Praveen Gupta, Arshia Moghimi, Devam Sisodraker, Mohammad Shahrad, **Aastha Mehta**<br>
-To appear at Oakland S&P, 2025.
+Oakland S&P, 2025 (To appear).
 
 - Targeting the Blind Spot: Evaluating Modern ICS Security Against A Novel Denial of Service (DoS) Attack
 [\[Link\]](https://ricssworkshop.github.io/program.html)<br>
