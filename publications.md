@@ -5,13 +5,17 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
-- Relocate+Vote: Exploiting Ciphertext Side-Channels using Sparsity Information<br>
+- Relocate-Vote: Using Sparsity Information to Exploit Ciphertext Side-Channels
+<!--Relocate+Vote: Exploiting Ciphertext Side-Channels using Sparsity Information-->
+<br>
 Yuqin Yan, Wei Huang, Ilya Grishchenko, Gururaj Saileshwar, **Aastha Mehta**, David Lie<br>
 USENIX Security Symposium, 2025 (To appear).
 
-- Growlithe: A Developer-Centric Compliance Tool for Serverless Applications [\[Preprint\]](https://aasthakm.github.io/files/sp25-growlithe.pdf) [\[Code\]](https://github.com/ubc-cirrus-lab/growlithe)<br>
+- Growlithe: A Developer-Centric Compliance Tool for Serverless Applications [\[PDF\]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a099/22K50vuoJLG)
+<!--[\[Preprint\]](https://aasthakm.github.io/files/sp25-growlithe.pdf)-->
+[\[Code\]](https://github.com/ubc-cirrus-lab/growlithe)<br>
 Praveen Gupta, Arshia Moghimi, Devam Sisodraker, Mohammad Shahrad, **Aastha Mehta**<br>
-Oakland S&P, 2025 (To appear).
+Oakland S&P, 2025.
 
 - Targeting the Blind Spot: Evaluating Modern ICS Security Against A Novel Denial of Service (DoS) Attack
 [\[Link\]](https://ricssworkshop.github.io/program.html)<br>
@@ -33,7 +37,7 @@ Workshop on Edge Systems, Analytics and Networking (EdgeSys) 2024.
 - ICS-Sniper: A Targeted Blackhole Attack on Encrypted ICS Traffic
 [\[Preprint\]](https://arxiv.org/pdf/2312.06140.pdf)<br>
 Gargi Mitra, Pritam Dash, Elaine Yao, **Aastha Mehta**, Karthik Pattabiraman<br>
-Under review. 2024.
+2024.
 
 - Microarchitectural Side-Channel Mitigations for Serverless Applications<br>
 Yayu Wang, **Aastha Mehta**<br>
@@ -43,7 +47,7 @@ Workshop on Principles of Secure Compilation (PriSC) 2024.
 Yayu Wang, **Aastha Mehta**<br>
 Workshop on Programming Languages and Analysis for Security (PLAS) 2023.
 
-- Reconciling Security and Utility in Next Generation Epidemic Risk Mitigation System [\[PDF\]](https://arxiv.org/pdf/2011.08069.pdf)<br>
+- Reconciling Security and Utility in Next Generation Epidemic Risk Mitigation System [\[PDF\]](https://arxiv.org/pdf/2011.08069.pdf) [\[Slides\]](https://aasthakm.github.io/files/silmarillion-slides.pdf)<br>
 Pierfrancesco Ingo, Nichole Boufford, Ming Cheng Jiang, Rowan Lindsay, Matthew Lentz, Gilles Barthe,<br>Manuel Gomez-Rodriguez, Bernhard Schölkopf, Deepak Garg, Peter Druschel, **Aastha Mehta**. 2022.<br>
 <!-- <span style="font-size:12px;">*Authors listed in alphabetical order</span> -->
 
