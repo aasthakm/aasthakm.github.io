@@ -16,9 +16,8 @@ layout: page
 - [Gargi Mitra](https://www.linkedin.com/in/gargimitraiitm/) (co-supervised with <a href="https://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a>)
 
 ### Undergraduate students
-- [Aidan Shields](https://www.linkedin.com/in/aidanshields18/), UG Honors Thesis, 2025
-- [Arun Balamurali](https://www.linkedin.com/in/itsarune/), UG Honors Thesis, 2025
-- [Alain Zhiyanov](https://www.linkedin.com/in/alainzhiyanov/), UG research, 2024
+- Gregorio Silvestri (Université Paris 8), Summer intern 2025
+- Haiying Li (The University of Hong Kong), Summer intern 2025
 
 
 <!--
@@ -29,8 +28,11 @@ layout: page
 
 <!--
 -->
+- [Aidan Shields](https://www.linkedin.com/in/aidanshields18/), UG Honors Thesis, 2025
+- [Arun Balamurali](https://www.linkedin.com/in/itsarune/), UG Honors Thesis, 2025 (received Rick Sample Memorial Award)
+- [Alain Zhiyanov](https://www.linkedin.com/in/alainzhiyanov/), UG research, 2024
 - [Rut Vora](https://rutvora.com/), (MSc, 2022-2025) → Arista Networks
-- [Praveen Gupta](https://pvgupta24.github.io/), (MSc, 2022-2024, co-advised with [Mohammad Shahrad](https://mshahrad.github.io/))
+- [Praveen Gupta](https://pvgupta24.github.io/), (MSc, 2022-2024, co-advised with [Mohammad Shahrad](https://mshahrad.github.io/)) → Rivian
 - [Arshia Moghimi](https://www.linkedin.com/in/arshia-moghimi-3a7a41150/) (MSc, 2022-2024, co-advised with [Mohammad Shahard](https://mshahrad.github.io/)) → DevOps Engineer at Stealth
 - Alice Kang, UG research, 2024
 - Eric Daigle, UG research, 2024

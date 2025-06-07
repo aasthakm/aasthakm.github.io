@@ -19,7 +19,7 @@ Oakland S&P, 2025.
 
 - Targeting the Blind Spot: Evaluating Modern ICS Security Against A Novel Denial of Service (DoS) Attack
 [\[Link\]](https://ricssworkshop.github.io/program.html)<br>
-Gargi Mitra, Pritam Dash, Elaine Yao, Aastha Mehta, Karthik Pattabiraman<br>
+Gargi Mitra, Pritam Dash, Elaine Yao, <b>Aastha Mehta</b>, Karthik Pattabiraman<br>
 Workshop on Re-design Industrial Control Systems with Security (RICSS), 2024.
 
 - NetShaper: A Differentially Private Network Side-Channel Mitigation System
