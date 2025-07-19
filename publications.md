@@ -11,7 +11,8 @@ To know more about our research, visit our [group web page]({{ site.baseurl }}/r
 Yuqin Yan, Wei Huang, Ilya Grishchenko, Gururaj Saileshwar, **Aastha Mehta**, David Lie<br>
 USENIX Security Symposium, 2025 (To appear).
 
-- Growlithe: A Developer-Centric Compliance Tool for Serverless Applications [\[PDF\]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a099/22K50vuoJLG)
+- Growlithe: A Developer-Centric Compliance Tool for Serverless Applications [\[PDF\]](https://aasthakm.github.io/files/sp25-growlithe.pdf)
+<!-- (https://www.computer.org/csdl/proceedings-article/sp/2025/223600a099/22K50vuoJLG) -->
 <!--[\[Preprint\]](https://aasthakm.github.io/files/sp25-growlithe.pdf)-->
 [\[Code\]](https://github.com/ubc-cirrus-lab/growlithe)<br>
 Praveen Gupta, Arshia Moghimi, Devam Sisodraker, Mohammad Shahrad, **Aastha Mehta**<br>
