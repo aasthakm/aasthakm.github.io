@@ -28,12 +28,12 @@ layout: page
 
 <!--
 -->
-- [Aidan Shields](https://www.linkedin.com/in/aidanshields18/), UG Honors Thesis, 2025
-- [Arun Balamurali](https://www.linkedin.com/in/itsarune/), UG Honors Thesis, 2025 (received Rick Sample Memorial Award)
-- [Alain Zhiyanov](https://www.linkedin.com/in/alainzhiyanov/), UG research, 2024
 - [Rut Vora](https://rutvora.com/), (MSc, 2022-2025) → Arista Networks
+- [Arun Balamurali](https://www.linkedin.com/in/itsarune/), UG Honors Thesis, 2025 (received Rick Sample Memorial Award) → Zaber
+- [Aidan Shields](https://www.linkedin.com/in/aidanshields18/), UG Honors Thesis, 2025
 - [Praveen Gupta](https://pvgupta24.github.io/), (MSc, 2022-2024, co-advised with [Mohammad Shahrad](https://mshahrad.github.io/)) → Rivian
 - [Arshia Moghimi](https://www.linkedin.com/in/arshia-moghimi-3a7a41150/) (MSc, 2022-2024, co-advised with [Mohammad Shahard](https://mshahrad.github.io/)) → DevOps Engineer at Stealth
+- [Alain Zhiyanov](https://www.linkedin.com/in/alainzhiyanov/), UG research, 2024
 - Alice Kang, UG research, 2024
 - Eric Daigle, UG research, 2024
 - Lucas Qin, UG research, 2024
