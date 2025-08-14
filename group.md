@@ -54,6 +54,11 @@ layout: page
 
 ### Team photos
 
+#### Spring 2025
+<span class="image object">
+<img src="imgs/spring2025.jpeg", class="wrap align-center" width=500>
+</span>
+
 #### Summer 2024
 <span class="image object">
 <img src="imgs/summer2024.jpeg" class="wrap align-center" width=500>
@@ -64,7 +69,9 @@ layout: page
 <img src="imgs/group2023.jpg" class="wrap align-center" width=500>
 </span>
 
+<!--
 #### Winter 2023
 <span class="image object">
 <img src="imgs/winter2023.jpg" class="wrap align-center" width=500>
 </span>
+-->

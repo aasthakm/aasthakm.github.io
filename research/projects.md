@@ -81,6 +81,7 @@ layout: page
 
 <!--- Thermal-Aware Machine Learning Inference
 Serving for Emerging Edge Applications. Arpan Gujarati, Aastha Mehta, Rijurekha Sen-->
+- Relocate-Vote: Using Sparsity Information to Exploit Ciphertext Side-Channels. Yuqin Yan, Wei Huang, Ilya Grishchenko, Gururaj Saileshwar, Aastha Mehta, David Lie
 - LDPKiT: Recovering Utility in LDP Schemes by Training with Noiseˆ2. Kexin Li, Yang Xi, Aastha Mehta, David Lie
 - Stream Processing with Adaptive Edge-Enhanced Confidential Computing. Yuqin Yan, Pritish Mishra, Wei Huang, Aastha Mehta, Oana Balmau, David Lie
 - Securing Edge System Accelerators: A Design Evaluation Using ARM Fast Models. Kasra Kamal, Arpan Gujarati, Aastha Mehta
