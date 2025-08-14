@@ -56,7 +56,7 @@ layout: page
 
 #### Spring 2025
 <span class="image object">
-<img src="imgs/spring2025.jpeg", class="wrap align-center" width=500>
+<img src="imgs/spring2025.jpg", class="wrap align-center" width=500>
 </span>
 
 #### Summer 2024
