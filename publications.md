@@ -5,11 +5,11 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
-- Relocate-Vote: Using Sparsity Information to Exploit Ciphertext Side-Channels
+- Relocate-Vote: Using Sparsity Information to Exploit Ciphertext Side-Channels [\[PDF\]](https://aasthakm.github.io/files/sec25-relocatevote.pdf)
 <!--Relocate+Vote: Exploiting Ciphertext Side-Channels using Sparsity Information-->
 <br>
 Yuqin Yan, Wei Huang, Ilya Grishchenko, Gururaj Saileshwar, **Aastha Mehta**, David Lie<br>
-USENIX Security Symposium, 2025 (To appear).
+USENIX Security Symposium, 2025.
 
 - Growlithe: A Developer-Centric Compliance Tool for Serverless Applications [\[PDF\]](https://aasthakm.github.io/files/sp25-growlithe.pdf)
 <!-- (https://www.computer.org/csdl/proceedings-article/sp/2025/223600a099/22K50vuoJLG) -->
