@@ -31,22 +31,26 @@ layout: page
 
 **Current Members and Collaborators**
 
-- Rut Vora
 - Yayu Wang
 - Kjell Dankert
 - Satvik Vemuganti
-- Arun Balamurali
 - [Gargi Mitra (UBC ECE)](https://gargi-mitra.github.io/website/)
 - [Karthik Pattabirarman (UBC ECE)](https://blogs.ubc.ca/karthik/)
+- Gregorio Silvestri
+- Haiying Li
+- Hongyue Jin
 
-**Past Members**
+**Past Members and Collaborators**
 
 - Amir Sabzi
+- Rut Vora
+- Mathias Lécuyer
+- Arun Balamurali
 - Aidan Shields
 - Lucas Qin
 - Marcus Lai
 - Ngoc Bui
-- Alice Kang
+<!-- - Alice Kang -->
 
 ----
 
@@ -60,12 +64,12 @@ layout: page
 
 **Current Members and Collaborators**
 
-- Praveen Gupta
-- Arshia Moghimi (UBC ECE)
 - [Mohammad Shahrad (UBC ECE)](https://mshahrad.github.io/)
 
-**Past Members**
+**Past Members and Collaborators**
 
+- Praveen Gupta
+- Arshia Moghimi (UBC ECE)
 - Devam Sisodraker
 
 ----
@@ -87,7 +91,7 @@ Serving for Emerging Edge Applications. Arpan Gujarati, Aastha Mehta, Rijurekha 
 - Yuqin Yan (UofT)
 - David Lie (UofT ECE)
 
-**Past Collaborators**
+**Past Members and Collaborators**
 
 - Kasra Kamal
 - Arpan Gujarati
@@ -114,7 +118,7 @@ System. 2023. Pierfrancesco Ingo, Nichole Boufford, Ming Cheng Jiang, Rowan Lind
 - Peter Druschel (MPI-SWS)
 - Deepak Garg (MPI-SWS)
 
-**Past Collaborators**
+**Past Members and Collaborators**
 
 - Bernhard Schölkopf (MPI-IS)
 - Manuel Gomez-Rodriguez (MPI-SWS)

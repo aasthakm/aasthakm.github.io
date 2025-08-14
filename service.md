@@ -7,6 +7,8 @@ layout: page
 ### Program Committee
 
 <!--**2023:**-->
+- [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26)
+- [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25)
 - [CCS 2025](https://www.sigsac.org/ccs/CCS2025/)
 - [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/)
 <!--- [ATC 2024](https://www.usenix.org/conference/atc24)-->
