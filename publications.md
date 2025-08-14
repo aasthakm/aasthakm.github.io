@@ -5,7 +5,7 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
-- Relocate-Vote: Using Sparsity Information to Exploit Ciphertext Side-Channels [\[PDF\]](https://aasthakm.github.io/files/sec25-relocatevote.pdf)
+- Relocate-Vote: Using Sparsity Information to Exploit Ciphertext Side-Channels [\[PDF\]](https://aasthakm.github.io/files/sec25-relocatevote.pdf)[\[Web\]](https://relocatevote.org/)
 <!--Relocate+Vote: Exploiting Ciphertext Side-Channels using Sparsity Information-->
 <br>
 Yuqin Yan, Wei Huang, Ilya Grishchenko, Gururaj Saileshwar, **Aastha Mehta**, David Lie<br>
