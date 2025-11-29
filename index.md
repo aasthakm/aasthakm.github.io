@@ -185,7 +185,12 @@ Summer 2013
   </header>
   <div class="content">
   <ul class="content">
+  <li>Sep 2025, Kevin Wang, Cathy Liu, Hanson Liang, Chanyuan Liu joined the Principled Systems Security Group.</li>
+  <li>Aug 2025, Serving as Vice Chair on USENIX Security 2026.</li>
+  <li>Aug 2025, Our paper "Comparing Isolation Mechanisms with OSmosis" is accepted to PLOS 2025.</li>
+  <li>Apr 2025, Our paper "Relocate-Vote: Using Sparsity Information to Exploit Ciphertext Side-Channels" is accepted to USENIX Security 2025.</li>
   <li>Mar 2025, Rut Vora defended his MSc thesis.</li>
+  <!--
   <li>Nov 2024, Yayu Wang defended his MSc thesis.</li>
   <li>Oct 2024, Our paper "Growlithe: A Developer-Centric Compliance Tool for Serverless Applications" is accepted to Oakland S&P 2025.</li>
   <li>Oct 2024, I will be serving on the PC of <a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS 2025</a>.</li>
@@ -195,7 +200,6 @@ Summer 2013
   <li>Sep 2024, Arshia defended his MSc thesis.</li>
   <li>Sep 2024, Angie Demarco, Kjell Dankert, and Satvik Vemuganti joined the Principled Systems Security Group.</li>
   <li>Sep 2024, Our work "Targeting the Blind Spot: Evaluating Modern ICS Security Against A Novel Denial of Service (DoS) Attack" is accepted to <a href="https://ricssworkshop.github.io/">RICSS 2024</a>.</li>
-  <!--
   <li>Aug 2024, Rut Vora presented <a href="https://youtu.be/SqzdH4rBjZc?si=_L2V6-PRhkw4yJMe">NetShaper</a> at <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/sabzi">USENIX Security 2024</a>.</li>
   <li>Jul 2024, I will be serving on the PC of <a href="https://www.usenix.org/conference/usenixsecurity25">USENIX Security 2025</a>.</li>
   <li>Feb 2024, Our paper "Stream Processing with Adaptive Edge-Enhanced Confidential Computing" is accepted to <a href="https://edge-sys.github.io/2024/">EdgeSys 2024</a>.</li>
