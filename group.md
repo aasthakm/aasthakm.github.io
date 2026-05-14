@@ -8,12 +8,14 @@ layout: page
 
 - [Kevin Wang](), PhD, 2025-
 - [Yayu Wang](https://st-saint.github.io/), PhD, 2025-
-- [Silin (Cathy) Liu](), PhD-track, 2025-
 - [Kunhan (Hanson) Liang](https://www.linkedin.com/in/hanson-liang/), PhD-track, 2025-
 - [Chanyuan Liu](), MASc, 2025-, (co-advised with [Karthik Pattabiraman](https://blogs.ubc.ca/karthik/))
 - [Angela DeMarco](https://www.linkedin.com/in/angie-demarco-1a1a85101/), MSc, 2024-, (co-advised with [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/))
 - [Kjell Dankert](), MSc, 2024-, (recipient of DAAD scholarship)
 
+<!--
+- [Silin (Cathy) Liu](), PhD-track, 2025-
+-->
 <!--
 - [Satvik Vemuganti](), PhD-track, 2024-
 -->
@@ -21,9 +23,11 @@ layout: page
 ### Postdoc
 
 - [Gargi Mitra](https://www.linkedin.com/in/gargimitraiitm/), 2025- (co-supervised with <a href="https://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a>)
+- [Kha Dinh Duy](https://kha-dinh.github.io/), 2026-
+- [Peterson Yuhala](https://yuhala.github.io/), 2026-
 
 ### Undergraduate students
-- Anmol Ghadia, UG Honors Thesis, 2026
+- [Raghumani Mehta](https://www.linkedin.com/in/mehta-raghu/), UG research, 2026
 
 <!--
 - [Gargi Mitra](https://gargi-mitra.github.io/website/) (Postdoc, with [Karthik Pattabiraman](https://blogs.ubc.ca/karthik/))
@@ -44,23 +48,24 @@ layout: page
 - Eric Daigle, UG research, 2024
 -->
 
+- Anmol Ghadia, UG Honors Thesis, 2026 → MS @ UWaterloo
 - Gregorio Silvestri (Université Paris 8), Summer intern 2025
-- Haiying Li (The University of Hong Kong), Summer intern 2025 → PhD, The University of Hong Kong
+- Haiying Li (The University of Hong Kong), Summer intern 2025 → PhD @ The University of Hong Kong
 - [Arun Balamurali](https://www.linkedin.com/in/itsarune/), UG Honors Thesis, 2025 (received Rick Sample Memorial Award) → Zaber
 - [Aidan Shields](https://www.linkedin.com/in/aidanshields18/), UG Honors Thesis, 2025
 - [Alain Zhiyanov](https://www.linkedin.com/in/alainzhiyanov/), UG research, 2024
-- Lucas Qin, UG research, 2024 → MS, CMU
+- Lucas Qin, UG research, 2024 → MS @ CMU
 - Marcus Lai, UG research, 2024
 - Ngoc Bui, UG research, 2024
 - [Devam Sisodraker](https://www.linkedin.com/in/d3vel0per/), UG Hons Thesis, 2024
-- Tanya Prasad, MITACS Intern 2022 and UG Hons. Thesis, BITS Pilani, 2022-2023 → UBC MSc
+- Tanya Prasad, MITACS Intern 2022 and UG Hons. Thesis, BITS Pilani, 2022-2023 → MSc @ UBC
 - Kasra Kamal, [UG Honors Thesis](https://open.library.ubc.ca/soa/cIRcle/collections/undergraduateresearch/52966/items/1.0413167), 2022 (received [Rick Sample Memorial Award in CS](https://www.cs.ubc.ca/award/2022/05/rick-sample-memorial-award-computer-science)) → Microsoft
 <!--- Aanandi Siddharth (UG research, 2022)-->
 <!--- Gokce Dilek (UG research, 2022)-->
 <!--- Jae Han (Ryan) Kim (UG research, 2022)-->
 <!--- Gwangkul (David) Kim (UG research, 2021)-->
 <!--- Chenhao Xu (UG research, 2021)-->
-- Nichole Boufford, UG research, 2021 → UBC MSc
+- Nichole Boufford, UG research, 2021 → MSc @ UBC
 - Rowan Lindsay, UG research, 2021
 - Ming Cheng Jiang, UG research, 2021
 
