@@ -5,6 +5,10 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
+- IceEdge: Thermal-Aware Machine Learning Inference Serving for Emerging Edge Applications.<br>
+Omais Pandith, Mohammad Khalid Pandit, Arpan Gujarati, **Aastha Mehta**, Rijurekha Sen<br>
+ACM Trans. on Sensor Networks (TOSN), 2026.
+
 - Comparing Isolation Mechanisms with OSmosis [\[PDF\]](https://aasthakm.github.io/files/plos25-osmosis.pdf)<br>
 Sidhartha Agrawal, Shaurya Patel, Linh Pham, Arya Stevinson, Ilias Karimalis, Hugo Lefeuvre, **Aastha Mehta**,<br>
 Reto Achermann, Margo Seltzer<br>
