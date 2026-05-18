@@ -20,7 +20,7 @@ layout: page
 - [Satvik Vemuganti](), PhD-track, 2024-
 -->
 
-### Postdoc
+### Postdocs
 
 - [Gargi Mitra](https://www.linkedin.com/in/gargimitraiitm/), 2025- (co-supervised with <a href="https://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a>)
 - [Kha Dinh Duy](https://kha-dinh.github.io/), 2026-
@@ -49,8 +49,8 @@ layout: page
 -->
 
 - Anmol Ghadia, UG Honors Thesis, 2026 → MS @ UWaterloo
-- Gregorio Silvestri (Université Paris 8), Summer intern 2025
-- Haiying Li (The University of Hong Kong), Summer intern 2025 → PhD @ The University of Hong Kong
+- [Gregorio Silvestri](https://www.gregghy.space/) (Université Paris 8), Summer intern 2025
+- [Haiying Li](https://www.linkedin.com/in/haiying-li-falcon/) (The University of Hong Kong), Summer intern 2025 → PhD @ The University of Hong Kong
 - [Arun Balamurali](https://www.linkedin.com/in/itsarune/), UG Honors Thesis, 2025 (received Rick Sample Memorial Award) → Zaber
 - [Aidan Shields](https://www.linkedin.com/in/aidanshields18/), UG Honors Thesis, 2025
 - [Alain Zhiyanov](https://www.linkedin.com/in/alainzhiyanov/), UG research, 2024
