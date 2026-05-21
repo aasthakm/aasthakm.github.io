@@ -179,13 +179,16 @@ Summer 2013
 - [SOSP 2019 Mentoring Program](https://sosp19.rcs.uwaterloo.ca/mentoring.html)
 -->
 
-<!--
+
 <section>
-  <header class="major">
-  <h2> News </h2>
-  </header>
-  <div class="content">
-  <ul class="content">
+<!--
+<header class="major">
+<h2> News </h2>
+</header>
+-->
+<div class="content">
+<ul class="content">
+<!--
   <li>Apr 2026, Kha Dinh Duy and Peterson Yuhala join as postdocs in the  Principled Systems Security Group.</li>
   <li>Sep 2025, Kevin Wang, Cathy Liu, Hanson Liang, Chanyuan Liu joined the Principled Systems Security Group.</li>
   <li>Aug 2025, Serving as Vice Chair on USENIX Security 2026.</li>
@@ -216,23 +219,21 @@ Summer 2013
   <li>Sep 2023, I will be on the panel of <a href="https://sysdw23.github.io/">SOSP '23 doctoral workshop (SysDW'23)</a>.</li>
   <li>Sep 2023, I will be serving on the PC of <a
   href="https://www.usenix.org/conference/atc24">USENIX ATC 2024</a>.</li>
-  -->
-  <!--
   <li>Aug 2023, Recognized as Noteworthy Reviewer at USENIX Security 2023.</li>
   <li>Jan 2023, Invited to Dagstuhl seminar <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23481">"MAD: Microarchitectural Attacks and Defenses"</a>.</li>
   <li>Jan 2023, I will be chairing the poster session and ACM Student Research
   Competition at <a href="https://sosp2023.mpi-sws.org/">SOSP 2023</a>.</li>
   <li>Sep 2022, Received funding from DND IDEaS for our pan-Canadian micro-net on <a href="https://www.cs.ubc.ca/news/2022/09/15m-canadas-department-national-defence-fund-development-5g-edge-computing-research-network">"A Platform for
   Secure and Dependable Hierarchical Edge Processing on 5G"</a>.</li>
-  -->
 
-<!--
   <li>Aug 2022, Invited to give a talk at IIT Delhi.</li>
-- Dec 2021, Received NSERC Defense Supplement for Discovery Grant.
-- Apr 2021, Received NSERC Discovery Grant.
-- Mar 2021, Invited to give a talk at IIT Kharagpur
-</section>
+  <li>Dec 2021, Received NSERC Defense Supplement for Discovery Grant.</li>
+  <li>Apr 2021, Received NSERC Discovery Grant.</li>
+  <li>Mar 2021, Invited to give a talk at IIT Kharagpur</li>
 -->
+</ul>
+</div>
+</section>
 
 <!--
 ## Awards & Honors
