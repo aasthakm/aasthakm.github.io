@@ -6,7 +6,6 @@ layout: page
 
 ### Graduate students
 
-- [Kevin Wang](), PhD, 2025-
 - [Yayu Wang](https://st-saint.github.io/), PhD, 2025-
 - [Kunhan (Hanson) Liang](https://www.linkedin.com/in/hanson-liang/), PhD-track, 2025-
 - [Chanyuan Liu](), MASc, 2025-, (co-advised with [Karthik Pattabiraman](https://blogs.ubc.ca/karthik/))
@@ -14,6 +13,7 @@ layout: page
 - [Kjell Dankert](), MSc, 2024-, (recipient of DAAD scholarship)
 
 <!--
+- [Kevin Wang](), PhD, 2025-
 - [Silin (Cathy) Liu](), PhD-track, 2025-
 -->
 <!--
@@ -28,6 +28,7 @@ layout: page
 
 ### Undergraduate students
 - [Raghumani Mehta](https://www.linkedin.com/in/mehta-raghu/), UG research, 2026
+- Emi Peers, UG research (co-supervised with [Joanna McGrenere]((https://www.cs.ubc.ca/~joanna/)))
 
 <!--
 - [Gargi Mitra](https://gargi-mitra.github.io/website/) (Postdoc, with [Karthik Pattabiraman](https://blogs.ubc.ca/karthik/))
