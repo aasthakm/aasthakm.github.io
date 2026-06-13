@@ -38,13 +38,13 @@ layout: page
 
 <!--
 -->
-- [Yayu Wang](https://st-saint.github.io/), (MSc, 2022-2025) → PhD, UBC
 - [Rut Vora](https://rutvora.com/), (MSc, 2022-2025) → Arista Networks
 - [Praveen Gupta](https://pvgupta24.github.io/), (MSc, 2022-2024, co-advised with [Mohammad Shahrad](https://mshahrad.github.io/)) → Rivian
 - [Arshia Moghimi](https://www.linkedin.com/in/arshia-moghimi-3a7a41150/) (MSc, 2022-2024, co-advised with [Mohammad Shahard](https://mshahrad.github.io/)) → DevOps Engineer at AllTrue.ai (acquired by Varonis)
 - [Amir Sabzi](https://amir-sabzi.github.io/), MSc, 2021-2023 (co-advised with [Mathias Lécuyer](https://mathias.lecuyer.me/)) → Research staff @ UBC (2023-2024) → Deloitte Management Services
 
 <!--
+- [Yayu Wang](https://st-saint.github.io/), (MSc, 2022-2025) → PhD, UBC
 - Alice Kang, UG research, 2024
 - Eric Daigle, UG research, 2024
 -->
