@@ -21,9 +21,8 @@ layout: page
 ### Side-Channel Attacks and Defenses
 
 **Current Projects**
-- Censorship Circumvention in Internet. Kevin Wang, Phong Nguyen Hoang, Aastha Mehta
 - Network Side-Channel Mitigation at Datacenter Scale. Hanson Liang, Anmol Ghadia, Swati Goswami, Reto Achermann, Aastha Mehta
-- Side Channels in Interconnects. Aastha Mehta, Reto Achermann, Rut Vora, Hongyue Jin
+- Side Channels in Interconnects. Aastha Mehta, Reto Achermann, Rut Vora, Hongyue Jin, Peterson Yuhala, Kai Komnenovic
 - Microarchitectural Side Channels in Language Runtimes. Yayu Wang, Kjell Dankert, Aastha Mehta
 - ICS-Sniper: A Targeted Blackhole Attack on Encrypted ICS Traffic. Gargi Mitra, Pritam Dash, Elaine Yao, Chanyuan Liu, Aastha Mehta, Karthik Pattabiraman
 
@@ -31,6 +30,9 @@ layout: page
 - NetShaper: A Differentially Private Network Side-Channel Mitigation System. Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, Aastha Mehta
 - Pacer: Comprehensive Network Side-Channel Mitigation in the Cloud. Aastha Mehta, Mohamed Alzayat, Roberta De Viti, Peter Druschel, Deepak Garg
 
+<!--
+- Censorship Circumvention in Internet. Kevin Wang, Phong Nguyen Hoang, Aastha Mehta
+-->
 
 <!--
 **Current Members and Collaborators**
