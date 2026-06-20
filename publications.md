@@ -5,6 +5,10 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
+- LDPKiT: Superimposing Remote Queries for Privacy-Preserving Distillation.<br>
+Kexin Li, **Aastha Mehta**, David Lie<br>
+International Conference on Availability, Reliability and Security (ARES), 2026.
+
 - IceEdge: Thermal-Aware Machine Learning Inference Serving for Emerging Edge Applications.<br>
 Omais Pandith, Mohammad Khalid Pandit, Arpan Gujarati, **Aastha Mehta**, Rijurekha Sen<br>
 ACM Trans. on Sensor Networks (TOSN), 2026.
