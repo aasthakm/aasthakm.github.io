@@ -21,9 +21,9 @@ layout: page
 ### Side-Channel Attacks and Defenses
 
 **Current Projects**
-- Network Side-Channel Mitigation at Datacenter Scale. Hanson Liang, Anmol Ghadia, Swati Goswami, Reto Achermann, Aastha Mehta
-- Side Channels in Interconnects. Aastha Mehta, Reto Achermann, Rut Vora, Hongyue Jin, Peterson Yuhala, Kai Komnenovic
-- Microarchitectural Side Channels in Language Runtimes. Yayu Wang, Kjell Dankert, Aastha Mehta
+- Network Side-Channel Mitigation at Datacenter Scale. Hanson Liang, Swati Goswami, Margo Seltzer, Reto Achermann, Aastha Mehta
+- Side Channels in Interconnects. Aastha Mehta, Peterson Yuhala, Reto Achermann, Rut Vora, Hongyue Jin, Kai Komnenovic
+- Microarchitectural Side Channels in Language Runtimes. Yayu Wang, Kjell Dankert, Kha Dinh Duy, Aastha Mehta
 - ICS-Sniper: A Targeted Blackhole Attack on Encrypted ICS Traffic. Gargi Mitra, Pritam Dash, Elaine Yao, Chanyuan Liu, Aastha Mehta, Karthik Pattabiraman
 
 **Past Projects**
@@ -50,7 +50,7 @@ layout: page
 
 **Past Members and Collaborators**
 
-Aidan Shields, Amir Sabzi, Arun Balamurali, Gregorio Silvestri, Haiying Li,
+Aidan Shields, Amir Sabzi, Anmol Ghadia, Arun Balamurali, Gregorio Silvestri, Haiying Li,
 Lucas Qin, Mathias Lécuyer, Marcus Lai, Ngoc Bui, Rut Vora
 <!-- - Alice Kang -->
 <!-- - Satvik Vemuganti -->
@@ -62,7 +62,7 @@ Lucas Qin, Mathias Lécuyer, Marcus Lai, Ngoc Bui, Rut Vora
 ### Security in Serverless
 
 **Current Projects**
-- Easing Compliance Burden through Automated Policy Specification. Cathy Liu, Ivan Beschastnikh, Aastha Mehta
+- Easing Compliance Burden through Automated Policy Specification. Kha Dinh Duy, Ivan Beschastnikh, Aastha Mehta
 
 **Past Projects**
 - Growlithe: Compliance for Serverless Workflows. Praveen Gupta, Arshia Moghimi, Mohammad Shahrad, Aastha Mehta
@@ -76,14 +76,15 @@ Lucas Qin, Mathias Lécuyer, Marcus Lai, Ngoc Bui, Rut Vora
 
 **Past Members and Collaborators**
 
-Arshia Moghimi (UBC ECE), Devam Sisodraker, Praveen Gupta, [Mohammad Shahrad (UBC ECE)](https://mshahrad.github.io/)
+Arshia Moghimi (UBC ECE), Devam Sisodraker, Praveen Gupta, [Mohammad Shahrad (UBC ECE)](https://mshahrad.github.io/), Silin (Cathy) Liu
 
 ----
 
 ### Privacy-preserving Epidemic Risk Mitigation System
 
 **Current Projects**
-- Understanding User Perception of Privacy and Utility in Digital Contact Tracing Systems. Angela Demarco, Aastha Mehta, Joanna McGrenere
+- Towards Higher Adoption: Tackling Privacy Concerns and Misconceptions in Contact Tracing Apps. Angela Demarco, Joanna McGrenere, Aastha Mehta
+- Impact of Onboarding Designs on User Perceptions of Privacy and Utility in Digital Contact Tracing Systems. Emi Peers, Angela Demarco, Aastha Mehta, Joanna McGrenere
 
 **Past Projects**
 - Reconciling Security and Utility in Next Generation Epidemic Risk Mitigation
