@@ -5,7 +5,7 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
-- Exploring the Design Space of Isolation Mechanisms [\[PDF\]](https://aasthakm.github.io/files/plos26-isosearch.pdf)
+- Exploring the Design Space of Isolation Mechanisms [\[PDF\]](https://aasthakm.github.io/files/plos26-isosearch.pdf)<br>
 Sidhartha Agrawal, Shaurya Patel, Linh Pham, Arya Stevinson, Ilias Karimalis, Hugo Lefeuvre, **Aastha Mehta**,<br>
 Reto Achermann, Margo Seltzer<br>
 ACM Workshop on Programming Languages and Operating Systems (PLOS), 2026.
@@ -14,9 +14,9 @@ ACM Workshop on Programming Languages and Operating Systems (PLOS), 2026.
 Kexin Li, **Aastha Mehta**, David Lie<br>
 International Workshop on Advances on Security and Privacy Technologies and Solutions (IWAPS), 2026.
 
-- IceEdge: Thermal-Aware Machine Learning Inference Serving for Emerging Edge Applications.<br>
+- IceEdge: Thermal-Aware Machine Learning Inference Serving for Emerging Edge Applications [\[PDF\]](https://dl.acm.org/doi/epdf/10.1145/3801093)<br>
 Omais Pandith, Mohammad Khalid Pandit, Arpan Gujarati, **Aastha Mehta**, Rijurekha Sen<br>
-ACM Trans. on Sensor Networks (TOSN), 2026.
+ACM Trans. on Sensor Networks (TOSN), Vol 22, Issue 4, 2026.
 
 - Comparing Isolation Mechanisms with OSmosis [\[PDF\]](https://aasthakm.github.io/files/plos25-osmosis.pdf)<br>
 Sidhartha Agrawal, Shaurya Patel, Linh Pham, Arya Stevinson, Ilias Karimalis, Hugo Lefeuvre, **Aastha Mehta**,<br>
