@@ -5,6 +5,11 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
+- Exploring the Design Space of Isolation Mechanisms [\[PDF\]](https://aasthakm.github.io/files/plos26-isosearch.pdf)
+Sidhartha Agrawal, Shaurya Patel, Linh Pham, Arya Stevinson, Ilias Karimalis, Hugo Lefeuvre, **Aastha Mehta**,<br>
+Reto Achermann, Margo Seltzer<br>
+ACM Workshop on Programming Languages and Operating Systems (PLOS), 2026.
+
 - LDPKiT: Superimposing Remote Queries for Privacy-Preserving Distillation.<br>
 Kexin Li, **Aastha Mehta**, David Lie<br>
 International Conference on Availability, Reliability and Security (ARES), 2026.
