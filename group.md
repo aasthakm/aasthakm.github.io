@@ -8,31 +8,29 @@ layout: page
 
 - [Yayu Wang](https://st-saint.github.io/), PhD, 2025-
 - [Kunhan (Hanson) Liang](https://www.linkedin.com/in/hanson-liang/), PhD-track, 2025-
-- [Chanyuan Liu](), MASc, 2025-, (co-advised with [Karthik Pattabiraman](https://blogs.ubc.ca/karthik/))
-- [Angela DeMarco](https://www.linkedin.com/in/angie-demarco-1a1a85101/), MSc, 2024-, (co-advised with [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/))
-- [Kjell Dankert](), MSc, 2024-, (recipient of DAAD scholarship)
+- [Angela DeMarco](https://www.linkedin.com/in/angie-demarco-1a1a85101/), MSc, 2024-2026, (co-advised with [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/))
+- [Kjell Dankert](https://www.linkedin.com/in/kdankert/), MSc, 2024-2026, (recipient of DAAD scholarship) → PhD @ University of Lübeck
+
+- [Chanyuan Liu](), Research Engineer, 2025-, (co-supervised with [Karthik Pattabiraman](https://blogs.ubc.ca/karthik/))
 
 <!--
+- [Joshua Tlatelpa-Agustin](https://joshagustint.github.io/), PhD, 2026- (co-advised with [Arpan Gujarati](https://arpangujarati.github.io/))
+- [Ben Beckford](), 2026, UG research
 - [Kevin Wang](), PhD, 2025-
 - [Silin (Cathy) Liu](), PhD-track, 2025-
--->
-<!--
 - [Satvik Vemuganti](), PhD-track, 2024-
 -->
 
 ### Postdocs
 
-- [Gargi Mitra](https://www.linkedin.com/in/gargimitraiitm/), 2025- (co-supervised with <a href="https://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a>)
+- [Yifan Cai](https://www.yifancai.tech/), 2026- (co-supervised with <a href="https://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a>)
 - [Kha Dinh Duy](https://kha-dinh.github.io/), 2026-
 - [Peterson Yuhala](https://yuhala.github.io/), 2026-
+- [Gargi Mitra](https://www.linkedin.com/in/gargimitraiitm/), 2025- (co-supervised with <a href="https://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a>)
 
 ### Undergraduate students
-- [Raghumani Mehta](https://www.linkedin.com/in/mehta-raghu/), UG research, 2026
-- Emi Peers, UG research (co-supervised with [Joanna McGrenere]((https://www.cs.ubc.ca/~joanna/)))
 
-<!--
-- [Gargi Mitra](https://gargi-mitra.github.io/website/) (Postdoc, with [Karthik Pattabiraman](https://blogs.ubc.ca/karthik/))
--->
+- [Emi Peers](https://www.linkedin.com/in/emi-peers/), 2026, UG research (co-supervised with [Joanna McGrenere]((https://www.cs.ubc.ca/~joanna/)))
 
 ### Group Alumni
 
@@ -49,6 +47,7 @@ layout: page
 - Eric Daigle, UG research, 2024
 -->
 
+- [Raghumani Mehta](https://www.linkedin.com/in/mehta-raghu/), UG research, 2026
 - Anmol Ghadia, UG Honors Thesis, 2026 → MS @ UWaterloo
 - [Gregorio Silvestri](https://www.gregghy.space/) (Université Paris 8), Summer intern 2025
 - [Haiying Li](https://www.linkedin.com/in/haiying-li-falcon/) (The University of Hong Kong), Summer intern 2025 → PhD @ The University of Hong Kong
