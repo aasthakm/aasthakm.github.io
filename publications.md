@@ -10,9 +10,9 @@ Sidhartha Agrawal, Shaurya Patel, Linh Pham, Arya Stevinson, Ilias Karimalis, Hu
 Reto Achermann, Margo Seltzer<br>
 ACM Workshop on Programming Languages and Operating Systems (PLOS), 2026.
 
-- LDPKiT: Superimposing Remote Queries for Privacy-Preserving Distillation.<br>
+- LDPKiT: Superimposing Remote Queries for Privacy-Preserving Distillation [\[PDF\]](https://arxiv.org/pdf/2405.16361)<br>
 Kexin Li, **Aastha Mehta**, David Lie<br>
-International Conference on Availability, Reliability and Security (ARES), 2026.
+International Workshop on Advances on Security and Privacy Technologies and Solutions (IWAPS), 2026.
 
 - IceEdge: Thermal-Aware Machine Learning Inference Serving for Emerging Edge Applications.<br>
 Omais Pandith, Mohammad Khalid Pandit, Arpan Gujarati, **Aastha Mehta**, Rijurekha Sen<br>
