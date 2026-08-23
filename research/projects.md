@@ -22,7 +22,7 @@ layout: page
 
 **Current Projects**
 - Network Side-Channel Mitigation at Datacenter Scale. Hanson Liang, Swati Goswami, Margo Seltzer, Reto Achermann, Aastha Mehta
-- Side Channels in Interconnects. Aastha Mehta, Peterson Yuhala, Reto Achermann, Rut Vora, Hongyue Jin, Kai Komnenovic
+- Side Channels in Interconnects. Aastha Mehta, Peterson Yuhala, Reto Achermann
 - Microarchitectural Side Channels in Language Runtimes. Yayu Wang, Kjell Dankert, Kha Dinh Duy, Aastha Mehta
 - ICS-Sniper: A Targeted Blackhole Attack on Encrypted ICS Traffic. Gargi Mitra, Pritam Dash, Elaine Yao, Chanyuan Liu, Aastha Mehta, Karthik Pattabiraman
 
@@ -51,7 +51,7 @@ layout: page
 **Past Members and Collaborators**
 
 Aidan Shields, Amir Sabzi, Anmol Ghadia, Arun Balamurali, Gregorio Silvestri, Haiying Li,
-Lucas Qin, Mathias Lécuyer, Marcus Lai, Ngoc Bui, Rut Vora
+Hongyue Jin, Kai Komnenovic, Lucas Qin, Mathias Lécuyer, Marcus Lai, Ngoc Bui, Rut Vora
 <!-- - Alice Kang -->
 <!-- - Satvik Vemuganti -->
 
