@@ -80,6 +80,22 @@ Arshia Moghimi (UBC ECE), Devam Sisodraker, Praveen Gupta, [Mohammad Shahrad (UB
 
 ----
 
+<a name="pim"></a>
+### Security in Processing-in-Memory Architecture
+
+**Current Projects**
+- TEE Design for PIM Architectures. Peterson Yuhala, Aastha Mehta
+
+<!--
+
+**Past Projects**
+- Growlithe: Compliance for Serverless Workflows. Praveen Gupta, Arshia Moghimi, Mohammad Shahrad, Aastha Mehta
+
+**Past Members and Collaborators**
+-->
+
+----
+
 ### Privacy-preserving Epidemic Risk Mitigation System
 
 **Current Projects**
