@@ -188,7 +188,7 @@ Summer 2013
 -->
 <div class="content">
 <ul class="content">
-  <li>Jun 2026, Peterson Yuhala wins a prestigious [SNSF Postdoctoral Mobility Fellowship](https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility).</li>
+  <li>Jun 2026, Peterson Yuhala wins a prestigious <a href="https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility">SNSF Postdoctoral Mobility Fellowship</a>.</li>
   <li>Apr 2026, Kha Dinh Duy and Peterson Yuhala join as postdocs in the  Principled Systems Security Group.</li>
 <!--
   <li>Sep 2025, Kevin Wang, Cathy Liu, Hanson Liang, Chanyuan Liu joined the Principled Systems Security Group.</li>
