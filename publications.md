@@ -5,6 +5,10 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
+- ICS-Sniper: A Targeted Blackhole Attack on Encrypted ICS Traffic [\[Preprint\]](https://arxiv.org/pdf/2312.06140.pdf)<br>
+Gargi Mitra, Chanyuan Liu, Pritam Dash, Yingao Yao, Alain Zhiyanov, **Aastha Mehta**, Karthik Pattabiraman<br>
+NDSS Symposium, 2027. (To Appear).
+
 - Exploring the Design Space of Isolation Mechanisms [\[PDF\]](https://aasthakm.github.io/files/plos26-isosearch.pdf)<br>
 Sidhartha Agrawal, Shaurya Patel, Linh Pham, Arya Stevinson, Ilias Karimalis, Hugo Lefeuvre, **Aastha Mehta**,<br>
 Reto Achermann, Margo Seltzer<br>
@@ -53,10 +57,12 @@ Computing [\[PDF\]](https://aasthakm.github.io/files/edgesys24-stream-processing
 Yuqin Yan, Pritish Mishra, Wei Huang, **Aastha Mehta**, Oana Balmau, David Lie<br>
 Workshop on Edge Systems, Analytics and Networking (EdgeSys) 2024.
 
+<!--
 - ICS-Sniper: A Targeted Blackhole Attack on Encrypted ICS Traffic
 [\[Preprint\]](https://arxiv.org/pdf/2312.06140.pdf)<br>
 Gargi Mitra, Pritam Dash, Elaine Yao, **Aastha Mehta**, Karthik Pattabiraman<br>
 2024.
+-->
 
 - Microarchitectural Side-Channel Mitigations for Serverless Applications<br>
 Yayu Wang, **Aastha Mehta**<br>
