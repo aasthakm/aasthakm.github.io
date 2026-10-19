@@ -8,14 +8,11 @@ layout: page
 
 - [Yayu Wang](https://st-saint.github.io/), PhD, 2025-
 - [Kunhan (Hanson) Liang](https://www.linkedin.com/in/hanson-liang/), PhD-track, 2025-
-- [Angela DeMarco](https://www.linkedin.com/in/angie-demarco-1a1a85101/), MSc, 2024-2026, (co-advised with [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/))
-- [Kjell Dankert](https://www.linkedin.com/in/kdankert/), MSc, 2024-2026, (recipient of DAAD scholarship) → PhD @ University of Lübeck
+- [Joshua Tlatelpa-Agustin](https://joshagustint.github.io/), PhD, 2026- (co-advised with [Arpan Gujarati](https://arpangujarati.github.io/))
 
 - [Chanyuan Liu](), Research Engineer, 2025-, (co-supervised with [Karthik Pattabiraman](https://blogs.ubc.ca/karthik/))
 
 <!--
-- [Joshua Tlatelpa-Agustin](https://joshagustint.github.io/), PhD, 2026- (co-advised with [Arpan Gujarati](https://arpangujarati.github.io/))
-- [Ben Beckford](), 2026, UG research
 - [Kevin Wang](), PhD, 2025-
 - [Silin (Cathy) Liu](), PhD-track, 2025-
 - [Satvik Vemuganti](), PhD-track, 2024-
@@ -26,16 +23,19 @@ layout: page
 - [Yifan Cai](https://www.yifancai.tech/), 2026- (co-supervised with <a href="https://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a>)
 - [Kha Dinh Duy](https://kha-dinh.github.io/), 2026-
 - [Peterson Yuhala](https://yuhala.github.io/), 2026-
-- [Gargi Mitra](https://www.linkedin.com/in/gargimitraiitm/), 2025- (co-supervised with <a href="https://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a>)
 
 ### Undergraduate students
-
-- [Emi Peers](https://www.linkedin.com/in/emi-peers/), 2026, UG research (co-supervised with [Joanna McGrenere]((https://www.cs.ubc.ca/~joanna/)))
+- [Ben Beckford](https://benbeckford.com/), 2026, UG research
+- [Minghao Li](https://github.com/Lmh-java), 2026, UG research (co-supervised with Ivan Beschastnikh)
 
 ### Group Alumni
 
 <!--
 -->
+- [Gargi Mitra](https://www.linkedin.com/in/gargimitraiitm/), 2025-2026 (co-supervised with <a href="https://blogs.ubc.ca/karthik/">Karthik Pattabiraman, collaborated since 2022</a>)
+- [Angela DeMarco](https://www.linkedin.com/in/angie-demarco-1a1a85101/), MSc, 2024-2026, (co-advised with [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/))
+- [Kjell Dankert](https://www.linkedin.com/in/kdankert/), MSc, 2024-2026, (recipient of DAAD scholarship) → PhD @ University of Lübeck
+- [Emi Peers](https://www.linkedin.com/in/emi-peers/), 2026, UG research (co-supervised with [Joanna McGrenere]((https://www.cs.ubc.ca/~joanna/)))
 - [Rut Vora](https://rutvora.com/), (MSc, 2022-2025) → Arista Networks
 - [Praveen Gupta](https://pvgupta24.github.io/), (MSc, 2022-2024, co-advised with [Mohammad Shahrad](https://mshahrad.github.io/)) → Rivian
 - [Arshia Moghimi](https://www.linkedin.com/in/arshia-moghimi-3a7a41150/) (MSc, 2022-2024, co-advised with [Mohammad Shahard](https://mshahrad.github.io/)) → DevOps Engineer at AllTrue.ai (acquired by Varonis)
