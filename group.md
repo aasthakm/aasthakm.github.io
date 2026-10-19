@@ -32,7 +32,7 @@ layout: page
 
 <!--
 -->
-- [Gargi Mitra](https://www.linkedin.com/in/gargimitraiitm/), 2025-2026 (co-supervised with <a href="https://blogs.ubc.ca/karthik/">Karthik Pattabiraman, collaborated since 2022</a>)
+- [Gargi Mitra](https://www.linkedin.com/in/gargimitraiitm/), Postdoc, 2025-2026 (co-supervised with <a href="https://blogs.ubc.ca/karthik/">Karthik Pattabiraman, collaborated since 2022</a>)
 - [Angela DeMarco](https://www.linkedin.com/in/angie-demarco-1a1a85101/), MSc, 2024-2026, (co-advised with [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/))
 - [Kjell Dankert](https://www.linkedin.com/in/kdankert/), MSc, 2024-2026, (recipient of DAAD scholarship) → PhD @ University of Lübeck
 - [Emi Peers](https://www.linkedin.com/in/emi-peers/), 2026, UG research (co-supervised with [Joanna McGrenere]((https://www.cs.ubc.ca/~joanna/)))
