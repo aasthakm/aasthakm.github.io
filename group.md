@@ -33,9 +33,10 @@ layout: page
 <!--
 -->
 - [Gargi Mitra](https://www.linkedin.com/in/gargimitraiitm/), Postdoc, 2025-2026 (co-supervised with <a href="https://blogs.ubc.ca/karthik/">Karthik Pattabiraman, collaborated since 2022</a>)
+
+
 - [Angela DeMarco](https://www.linkedin.com/in/angie-demarco-1a1a85101/), MSc, 2024-2026, (co-advised with [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/))
 - [Kjell Dankert](https://www.linkedin.com/in/kdankert/), MSc, 2024-2026, (recipient of DAAD scholarship) → PhD @ University of Lübeck
-- [Emi Peers](https://www.linkedin.com/in/emi-peers/), 2026, UG research (co-supervised with [Joanna McGrenere]((https://www.cs.ubc.ca/~joanna/)))
 - [Rut Vora](https://rutvora.com/), (MSc, 2022-2025) → Arista Networks
 - [Praveen Gupta](https://pvgupta24.github.io/), (MSc, 2022-2024, co-advised with [Mohammad Shahrad](https://mshahrad.github.io/)) → Rivian
 - [Arshia Moghimi](https://www.linkedin.com/in/arshia-moghimi-3a7a41150/) (MSc, 2022-2024, co-advised with [Mohammad Shahard](https://mshahrad.github.io/)) → DevOps Engineer at AllTrue.ai (acquired by Varonis)
@@ -47,6 +48,7 @@ layout: page
 - Eric Daigle, UG research, 2024
 -->
 
+- [Emi Peers](https://www.linkedin.com/in/emi-peers/), 2026, UG research (co-supervised with [Joanna McGrenere]((https://www.cs.ubc.ca/~joanna/)))
 - [Raghumani Mehta](https://www.linkedin.com/in/mehta-raghu/), UG research, 2026
 - Anmol Ghadia, UG Honors Thesis, 2026 → MS @ UWaterloo
 - [Gregorio Silvestri](https://www.gregghy.space/) (Université Paris 8), Summer intern 2025
