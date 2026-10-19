@@ -5,7 +5,7 @@ layout: page
 ## Publications
 To know more about our research, visit our [group web page]({{ site.baseurl }}/research/projects.html).
 
-- ICS-Sniper: A Targeted Blackhole Attack on Encrypted ICS Traffic [\[Preprint\]](https://arxiv.org/pdf/2312.06140.pdf)<br>
+- ICS-Sniper: A Targeted Blackhole Attack on Encrypted ICS Traffic [\[Preprint\]](https://arxiv.org/pdf/2312.06140.pdf)[\[Media\]](https://www.eurekalert.org/news-releases/1147784)<br>
 Gargi Mitra, Chanyuan Liu, Pritam Dash, Yingao Yao, Alain Zhiyanov, **Aastha Mehta**, Karthik Pattabiraman<br>
 NDSS Symposium, 2027. (To Appear).
 
