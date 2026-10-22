@@ -27,9 +27,7 @@ Sidhartha Agrawal, Shaurya Patel, Linh Pham, Arya Stevinson, Ilias Karimalis, Hu
 Reto Achermann, Margo Seltzer<br>
 ACM Workshop on Programming Languages and Operating Systems (PLOS), 2025.
 
-- Relocate-Vote: Using Sparsity Information to Exploit Ciphertext Side-Channels [\[PDF\]](https://aasthakm.github.io/files/sec25-relocatevote.pdf) [\[Artifact Appendix\]](https://aasthakm.github.io/files/sec25-relocatevote-ae.pdf) [\[Code\]](https://zenodo.org/records/16351848) [\[Web\]](https://relocatevote.org/)
-<!--Relocate+Vote: Exploiting Ciphertext Side-Channels using Sparsity Information-->
-<br>
+- Relocate-Vote: Using Sparsity Information to Exploit Ciphertext Side-Channels [\[PDF\]](https://aasthakm.github.io/files/sec25-relocatevote.pdf) [\[Artifact Appendix\]](https://aasthakm.github.io/files/sec25-relocatevote-ae.pdf) [\[Code\]](https://zenodo.org/records/16351848) [\[Web\]](https://relocatevote.org/)<br>
 Yuqin Yan, Wei Huang, Ilya Grishchenko, Gururaj Saileshwar, **Aastha Mehta**, David Lie<br>
 USENIX Security Symposium, 2025.
 
