@@ -28,6 +28,7 @@ layout: page
 
 - Ben Beckford, 2026, UG research
 - [Minghao Li](https://github.com/Lmh-java), 2026, UG research (co-supervised with Ivan Beschastnikh)
+
 <!--
 - [Ben Beckford](https://benjaminbeckford.com/), 2026, UG research
 -->
