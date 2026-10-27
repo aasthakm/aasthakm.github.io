@@ -25,8 +25,12 @@ layout: page
 - [Peterson Yuhala](https://yuhala.github.io/), 2026-
 
 ### Undergraduate students
-- [Ben Beckford](https://benjaminbeckford.com/), 2026, UG research
+
+- Ben Beckford, 2026, UG research
 - [Minghao Li](https://github.com/Lmh-java), 2026, UG research (co-supervised with Ivan Beschastnikh)
+<!--
+- [Ben Beckford](https://benjaminbeckford.com/), 2026, UG research
+-->
 
 ### Group Alumni
 
