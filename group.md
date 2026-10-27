@@ -10,8 +10,6 @@ layout: page
 - [Kunhan (Hanson) Liang](https://www.linkedin.com/in/hanson-liang/), PhD-track, 2025-
 - [Joshua Tlatelpa-Agustin](https://joshagustint.github.io/), PhD, 2026- (co-advised with [Arpan Gujarati](https://arpangujarati.github.io/))
 
-- [Chanyuan Liu](), Research Engineer, 2025-, (co-supervised with [Karthik Pattabiraman](https://blogs.ubc.ca/karthik/))
-
 <!--
 - [Kevin Wang](), PhD, 2025-
 - [Silin (Cathy) Liu](), PhD-track, 2025-
@@ -39,6 +37,7 @@ layout: page
 -->
 - [Gargi Mitra](https://www.linkedin.com/in/gargimitraiitm/), Postdoc, 2025-2026 (co-supervised with <a href="https://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a>, collaborated since 2022)
 
+- [Chanyuan Liu](), Research Engineer, 2025-2026, (co-supervised with [Karthik Pattabiraman](https://blogs.ubc.ca/karthik/))
 
 - [Angela DeMarco](https://www.linkedin.com/in/angie-demarco-1a1a85101/), MSc, 2024-2026, (co-advised with [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/))
 - [Kjell Dankert](https://www.linkedin.com/in/kdankert/), MSc, 2024-2026, (recipient of DAAD scholarship) → PhD @ University of Lübeck
